@@ -4,13 +4,15 @@ from bs4 import BeautifulSoup
 import csv
 
 
+tournaments = [('Tournament of Champions','Policy Debate')]
+
 def addurl(url):
     if url in next_urls:
         return
     next_urls.append('https://www.tabroom.com/index/tourn/postings/'+url['href'])
 
 loop = True
-url = 'https://www.tabroom.com/index/tourn/postings/entry_record.mhtml?tourn_id=10720&entry_id=1928921'
+url = 'https://www.tabroom.com/index/results/'
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
 next_urls = []
 used_urls = []
@@ -24,8 +26,13 @@ with open('speaks.csv',mode = 'w') as speaks_file:
     while loop:
         count += 1
         print(count)
-        request = urllib.request.Request(url,headers={'User-Agent': user_agent})
-        html = urllib.request.urlopen(request).read()
+        try:
+            request = urllib.request.Request(url,headers={'User-Agent': user_agent})
+            html = urllib.request.urlopen(request).read()
+        except:
+            time.sleep(1)
+            request = urllib.request.Request(url,headers={'User-Agent': user_agent})
+            html = urllib.request.urlopen(request).read()
         soup = BeautifulSoup(html,'html.parser')
 
         j = soup.find_all('a',attrs = {'class': 'white padtop padbottom'})

@@ -1,903 +1,1615 @@
 Round,Side,Judge,Result,Debater,Speaks,Team Code
-1,Aff,"Mithani, Aly",W,"Mahadevan, Mona",29.5,Woodward MR
-1,Aff,"Mithani, Aly",W,"Robinson, Malachi",29.3,Woodward MR
-2,Neg,"Hagney, Mitch",W,"Mahadevan, Mona",29.3,Woodward MR
-2,Neg,"Hagney, Mitch",W,"Robinson, Malachi",29.5,Woodward MR
-3,Aff,"McFarland, Tracy",W,"Mahadevan, Mona",28.7,Woodward MR
-3,Aff,"McFarland, Tracy",W,"Robinson, Malachi",28.8,Woodward MR
-4,Neg,"Coleman, Matt",W,"Mahadevan, Mona",29.3,Woodward MR
-4,Neg,"Coleman, Matt",W,"Robinson, Malachi",29.2,Woodward MR
-5,Aff,"Roark, Collin",W,"Mahadevan, Mona",29.5,Woodward MR
-5,Aff,"Roark, Collin",W,"Robinson, Malachi",29.4,Woodward MR
-6,Neg,"McIntosh, Valerie",W,"Mahadevan, Mona",29.4,Woodward MR
-6,Neg,"McIntosh, Valerie",W,"Robinson, Malachi",29.5,Woodward MR
-1,Aff,"Guevara, Omar",W,"Barton, Aden",29.1,Montgomery Bell BH
-1,Aff,"Guevara, Omar",W,"Habermann, Julian",29,Montgomery Bell BH
-2,Neg,"Cronin, Mac",W,"Barton, Aden",29.5,Montgomery Bell BH
-2,Neg,"Cronin, Mac",W,"Habermann, Julian",29.4,Montgomery Bell BH
-3,Aff,"Roark, Collin",W,"Barton, Aden",29.7,Montgomery Bell BH
-3,Aff,"Roark, Collin",W,"Habermann, Julian",29.6,Montgomery Bell BH
-4,Neg,"Solice, Maggie",W,"Barton, Aden",29.3,Montgomery Bell BH
-4,Neg,"Solice, Maggie",W,"Habermann, Julian",29.1,Montgomery Bell BH
-5,Aff,"Malsin, Mikaela",W,"Barton, Aden",29.4,Montgomery Bell BH
-5,Aff,"Malsin, Mikaela",W,"Habermann, Julian",29.2,Montgomery Bell BH
-6,Neg,"Bannister, Dan",W,"Barton, Aden",29.5,Montgomery Bell BH
-6,Neg,"Bannister, Dan",W,"Habermann, Julian",29.3,Montgomery Bell BH
-1,Aff,"Frederick, Dylan",W,"Ahmad, Samar",29.3,Greenhill AE
-1,Aff,"Frederick, Dylan",W,"Eckert, Christopher",29.5,Greenhill AE
-2,Neg,"Bannister, Dan",W,"Ahmad, Samar",29.4,Greenhill AE
-2,Neg,"Bannister, Dan",W,"Eckert, Christopher",29.3,Greenhill AE
-3,Neg,"Solice, Maggie",W,"Ahmad, Samar",29.3,Greenhill AE
-3,Neg,"Solice, Maggie",W,"Eckert, Christopher",29,Greenhill AE
-4,Aff,"McCullough, Hunter",W,"Ahmad, Samar",29.1,Greenhill AE
-4,Aff,"McCullough, Hunter",W,"Eckert, Christopher",29.3,Greenhill AE
-5,Neg,"Malsin, Mikaela",L,"Ahmad, Samar",28.9,Greenhill AE
-5,Neg,"Malsin, Mikaela",L,"Eckert, Christopher",29,Greenhill AE
-6,Aff,"Mithani, Aly",W,"Ahmad, Samar",29.2,Greenhill AE
-6,Aff,"Mithani, Aly",W,"Eckert, Christopher",29.3,Greenhill AE
-1,Neg,"Sternberg, Jordana",W,"Gutierrez, Trey",28.9,Hendrickson GS
-1,Neg,"Sternberg, Jordana",W,"Scott, Dylan",28.8,Hendrickson GS
-2,Aff,"Chen, Yao Yao",W,"Gutierrez, Trey",28.9,Hendrickson GS
-2,Aff,"Chen, Yao Yao",W,"Scott, Dylan",29,Hendrickson GS
-3,Neg,"Turner, John",L,"Gutierrez, Trey",28.5,Hendrickson GS
-3,Neg,"Turner, John",L,"Scott, Dylan",28.6,Hendrickson GS
-4,Aff,"Weston, David",W,"Gutierrez, Trey",28.8,Hendrickson GS
-4,Aff,"Weston, David",W,"Scott, Dylan",28.7,Hendrickson GS
-5,Aff,"Jensen, William",W,"Gutierrez, Trey",29,Hendrickson GS
-5,Aff,"Jensen, William",W,"Scott, Dylan",29.2,Hendrickson GS
-6,Neg,"Trufanov, Anthony",W,"Gutierrez, Trey",28.6,Hendrickson GS
-6,Neg,"Trufanov, Anthony",W,"Scott, Dylan",28.7,Hendrickson GS
-1,Aff,"Bannister, Dan",W,"Leffler, Joshua",29.2,Greenhill LW
-1,Aff,"Bannister, Dan",W,"Wegener, Timothy",29,Greenhill LW
-2,Neg,"Coleman, Matt",W,"Leffler, Joshua",29,Greenhill LW
-2,Neg,"Coleman, Matt",W,"Wegener, Timothy",28.6,Greenhill LW
-3,Neg,"Lowe, Kristen",L,"Leffler, Joshua",28.8,Greenhill LW
-3,Neg,"Lowe, Kristen",L,"Wegener, Timothy",28.9,Greenhill LW
-4,Aff,"Oddo, Eric",W,"Leffler, Joshua",29.2,Greenhill LW
-4,Aff,"Oddo, Eric",W,"Wegener, Timothy",28.8,Greenhill LW
-5,Neg,"Fry, Chris",W,"Leffler, Joshua",28.7,Greenhill LW
-5,Neg,"Fry, Chris",W,"Wegener, Timothy",28.8,Greenhill LW
-6,Aff,"Trufanov, Anthony",L,"Leffler, Joshua",28.5,Greenhill LW
-6,Aff,"Trufanov, Anthony",L,"Wegener, Timothy",28.4,Greenhill LW
-1,Neg,"Sykes, Jason",W,"Reese, Kj",29.3,McQueen RR
-1,Neg,"Sykes, Jason",W,"Reese, Thomas",29.2,McQueen RR
-2,Aff,"Struth, Matt",L,"Reese, Kj",28.9,McQueen RR
-2,Aff,"Struth, Matt",L,"Reese, Thomas",28.5,McQueen RR
-3,Neg,"Chen, Yao Yao",W,"Reese, Kj",28.7,McQueen RR
-3,Neg,"Chen, Yao Yao",W,"Reese, Thomas",28.8,McQueen RR
-4,Aff,"Frederick, Dylan",W,"Reese, Kj",29.6,McQueen RR
-4,Aff,"Frederick, Dylan",W,"Reese, Thomas",29.4,McQueen RR
-5,Neg,"Vaziri, Cameron",W,"Reese, Kj",28.8,McQueen RR
-5,Neg,"Vaziri, Cameron",W,"Reese, Thomas",28.6,McQueen RR
-6,Aff,"McIntosh, Valerie",L,"Reese, Kj",29.2,McQueen RR
-6,Aff,"McIntosh, Valerie",L,"Reese, Thomas",29,McQueen RR
-1,Aff,"Jensen, William",W,"Shi, Ted",28.9,Blue Valley Southwest SL
-1,Aff,"Jensen, William",W,"Lee, Anna",28.7,Blue Valley Southwest SL
-2,Neg,"Lowe, Kristen",W,"Shi, Ted",28.8,Blue Valley Southwest SL
-2,Neg,"Lowe, Kristen",W,"Lee, Anna",28.7,Blue Valley Southwest SL
-3,Neg,"Garrett, Lincoln",W,"Shi, Ted",28.8,Blue Valley Southwest SL
-3,Neg,"Garrett, Lincoln",W,"Lee, Anna",28.5,Blue Valley Southwest SL
-4,Aff,"Shore, Sam",W,"Shi, Ted",28.4,Blue Valley Southwest SL
-4,Aff,"Shore, Sam",W,"Lee, Anna",28.5,Blue Valley Southwest SL
-5,Neg,"Roark, Collin",L,"Shi, Ted",29.2,Blue Valley Southwest SL
-5,Neg,"Roark, Collin",L,"Lee, Anna",29,Blue Valley Southwest SL
-6,Aff,"Bannister, Dan",L,"Shi, Ted",29,Blue Valley Southwest SL
-6,Aff,"Bannister, Dan",L,"Lee, Anna",28.9,Blue Valley Southwest SL
-1,Aff,"Hampton, Jyleesa",W,"Ewing, Josie",28.8,New Trier EK
-1,Aff,"Hampton, Jyleesa",W,"Kadin, Hannah",28.7,New Trier EK
-2,Neg,"Bricker, Brett",W,"Ewing, Josie",29.5,New Trier EK
-2,Neg,"Bricker, Brett",W,"Kadin, Hannah",29.6,New Trier EK
-3,Neg,"Trufanov, Anthony",W,"Ewing, Josie",28.9,New Trier EK
-3,Neg,"Trufanov, Anthony",W,"Kadin, Hannah",29,New Trier EK
-4,Aff,"Coleman, Matt",L,"Ewing, Josie",29.4,New Trier EK
-4,Aff,"Coleman, Matt",L,"Kadin, Hannah",29.1,New Trier EK
-5,Neg,"Haley-Hill, Mr.",W,"Ewing, Josie",29.2,New Trier EK
-5,Neg,"Haley-Hill, Mr.",W,"Kadin, Hannah",29.6,New Trier EK
-6,Aff,"Lingel, Dan",W,"Ewing, Josie",29.1,New Trier EK
-6,Aff,"Lingel, Dan",W,"Kadin, Hannah",29,New Trier EK
-1,Aff,"Ellis, Tim",W,"Short, Sam",28.8,Barstow SF
-1,Aff,"Ellis, Tim",W,"Fanaswala, Taha",28.7,Barstow SF
-2,Neg,"McCullough, Hunter",W,"Short, Sam",28.7,Barstow SF
-2,Neg,"McCullough, Hunter",W,"Fanaswala, Taha",28.8,Barstow SF
-3,Neg,"McFarland, Tracy",L,"Short, Sam",28.6,Barstow SF
-3,Neg,"McFarland, Tracy",L,"Fanaswala, Taha",28.5,Barstow SF
-4,Aff,"Forslund, Eric",L,"Short, Sam",28.7,Barstow SF
-4,Aff,"Forslund, Eric",L,"Fanaswala, Taha",28.5,Barstow SF
-5,Aff,"Pointer, Steve",W,"Short, Sam",29,Barstow SF
-5,Aff,"Pointer, Steve",W,"Fanaswala, Taha",28.9,Barstow SF
-6,Neg,"Coleman, Matt",W,"Short, Sam",28.3,Barstow SF
-6,Neg,"Coleman, Matt",W,"Fanaswala, Taha",28.6,Barstow SF
-1,Neg,"Kilpatrick, David",W,"Ilangovan, Sruthi",28.8,Liberal Arts and Science IJ
-1,Neg,"Kilpatrick, David",W,"Jones, Monica",28.5,Liberal Arts and Science IJ
-2,Aff,"Hagney, Mitch",L,"Ilangovan, Sruthi",29.2,Liberal Arts and Science IJ
-2,Aff,"Hagney, Mitch",L,"Jones, Monica",29.4,Liberal Arts and Science IJ
-3,Neg,"Borbon, Michelle",W,"Ilangovan, Sruthi",28.6,Liberal Arts and Science IJ
-3,Neg,"Borbon, Michelle",W,"Jones, Monica",28.5,Liberal Arts and Science IJ
-4,Aff,"Guevara, Omar",L,"Ilangovan, Sruthi",28.4,Liberal Arts and Science IJ
-4,Aff,"Guevara, Omar",L,"Jones, Monica",28.3,Liberal Arts and Science IJ
-5,Neg,"Bricker, Brett",L,"Ilangovan, Sruthi",29.2,Liberal Arts and Science IJ
-5,Neg,"Bricker, Brett",L,"Jones, Monica",29,Liberal Arts and Science IJ
-6,Aff,"Jensen, William",W,"Ilangovan, Sruthi",28.6,Liberal Arts and Science IJ
-6,Aff,"Jensen, William",W,"Jones, Monica",28.7,Liberal Arts and Science IJ
-1,Neg,"Mithani, Aly",L,"Culmo, Caroline",28.7,Carrollton School of the Sacred Heart CG
-1,Neg,"Mithani, Aly",L,"Garity, Gabriela",28.3,Carrollton School of the Sacred Heart CG
-2,Aff,"Pereda, Nick",W,"Culmo, Caroline",29.2,Carrollton School of the Sacred Heart CG
-2,Aff,"Pereda, Nick",W,"Garity, Gabriela",29,Carrollton School of the Sacred Heart CG
-3,Neg,"Forslund, Eric",W,"Culmo, Caroline",28.7,Carrollton School of the Sacred Heart CG
-3,Neg,"Forslund, Eric",W,"Garity, Gabriela",28.6,Carrollton School of the Sacred Heart CG
-4,Aff,"Gregg, Mary",W,"Culmo, Caroline",28.8,Carrollton School of the Sacred Heart CG
-4,Aff,"Gregg, Mary",W,"Garity, Gabriela",25.7,Carrollton School of the Sacred Heart CG
-5,Aff,"Hoffmann, Jackson",L,"Culmo, Caroline",28.7,Carrollton School of the Sacred Heart CG
-5,Aff,"Hoffmann, Jackson",L,"Garity, Gabriela",28.8,Carrollton School of the Sacred Heart CG
-6,Neg,"Struth, Matt",L,"Culmo, Caroline",28.7,Carrollton School of the Sacred Heart CG
-6,Neg,"Struth, Matt",L,"Garity, Gabriela",28.8,Carrollton School of the Sacred Heart CG
-1,Aff,"Morrow, CODY",W,"Glen, Atticus",28.6,Montgomery Bell GB
-1,Aff,"Morrow, CODY",W,"Bradford, William",28.5,Montgomery Bell GB
-2,Neg,"Jensen, William",W,"Glen, Atticus",29.5,Montgomery Bell GB
-2,Neg,"Jensen, William",W,"Bradford, William",29.1,Montgomery Bell GB
-3,Aff,"Pointer, Steve",W,"Glen, Atticus",29.1,Montgomery Bell GB
-3,Aff,"Pointer, Steve",W,"Bradford, William",29.2,Montgomery Bell GB
-4,Neg,"Lingel, Dan",W,"Glen, Atticus",28.9,Montgomery Bell GB
-4,Neg,"Lingel, Dan",W,"Bradford, William",28.6,Montgomery Bell GB
-5,Aff,"Samuels, Phil",W,"Glen, Atticus",29.1,Montgomery Bell GB
-5,Aff,"Samuels, Phil",W,"Bradford, William",29.2,Montgomery Bell GB
-6,Neg,"Lowe, Kristen",W,"Glen, Atticus",29.4,Montgomery Bell GB
-6,Neg,"Lowe, Kristen",W,"Bradford, William",28.9,Montgomery Bell GB
-1,Neg,"Chen, Yao Yao",W,"Sun, Kevin",28.9,Peninsula ST
-1,Neg,"Chen, Yao Yao",W,"Tieu, Natasha",28.6,Peninsula ST
-2,Aff,"Stupek, Johnnie",L,"Sun, Kevin",29.3,Peninsula ST
-2,Aff,"Stupek, Johnnie",L,"Tieu, Natasha",29.1,Peninsula ST
-3,Aff,"Berger, Aron",W,"Sun, Kevin",29.1,Peninsula ST
-3,Aff,"Berger, Aron",W,"Tieu, Natasha",29.3,Peninsula ST
-4,Neg,"McIntosh, Valerie",L,"Sun, Kevin",29,Peninsula ST
-4,Neg,"McIntosh, Valerie",L,"Tieu, Natasha",29.1,Peninsula ST
-5,Neg,"Ellis, Tim",W,"Sun, Kevin",29.1,Peninsula ST
-5,Neg,"Ellis, Tim",W,"Tieu, Natasha",28.9,Peninsula ST
-6,Aff,"Samuels, Phil",W,"Sun, Kevin",28.7,Peninsula ST
-6,Aff,"Samuels, Phil",W,"Tieu, Natasha",28.8,Peninsula ST
-1,Neg,"Kingston, David",L,"Agreda, Jasmine",28.3,Carrollton School of the Sacred Heart AD
-1,Neg,"Kingston, David",L,"De la Guardia, Cecilia",28.2,Carrollton School of the Sacred Heart AD
-2,Aff,"Gregg, Mary",L,"Agreda, Jasmine",28.8,Carrollton School of the Sacred Heart AD
-2,Aff,"Gregg, Mary",L,"De la Guardia, Cecilia",28.9,Carrollton School of the Sacred Heart AD
-3,Aff,"Pereda, Nick",W,"Agreda, Jasmine",29.3,Carrollton School of the Sacred Heart AD
-3,Aff,"Pereda, Nick",W,"De la Guardia, Cecilia",29.4,Carrollton School of the Sacred Heart AD
-4,Aff,"Whisenhunt, Toby",W,"Agreda, Jasmine",29.5,Carrollton School of the Sacred Heart AD
-4,Aff,"Whisenhunt, Toby",W,"De la Guardia, Cecilia",29.4,Carrollton School of the Sacred Heart AD
-5,Neg,"Clark, Josh",W,"Agreda, Jasmine",28.7,Carrollton School of the Sacred Heart AD
-5,Neg,"Clark, Josh",W,"De la Guardia, Cecilia",29,Carrollton School of the Sacred Heart AD
-1,Neg,"Randall, Dana",W,"Kessler, Grace",29,Washburn Rural KP
-1,Neg,"Randall, Dana",W,"Peter, Raina",28.9,Washburn Rural KP
-2,Neg,"Weston, David",,"Kessler, Grace",29.2,Washburn Rural KP
-2,Neg,"Weston, David",,"Peter, Raina",29,Washburn Rural KP
-3,Aff,"McCullough, Hunter",W,"Kessler, Grace",29.4,Washburn Rural KP
-3,Aff,"McCullough, Hunter",W,"Peter, Raina",29,Washburn Rural KP
-4,Aff,"Solice, Maggie",L,"Kessler, Grace",29,Washburn Rural KP
-4,Aff,"Solice, Maggie",L,"Peter, Raina",29.1,Washburn Rural KP
-5,Neg,"Walrath, Caitlin",W,"Kessler, Grace",29.1,Washburn Rural KP
-5,Neg,"Walrath, Caitlin",W,"Peter, Raina",28.9,Washburn Rural KP
-1,Aff,"Scott, Lucia",W,"Powers, Spencer",28.7,Kinkaid PP
-1,Aff,"Scott, Lucia",W,"Punjwani, Sahar",28.5,Kinkaid PP
-2,Neg,"Quinn, Colin",W,"Powers, Spencer",28.7,Kinkaid PP
-2,Neg,"Quinn, Colin",W,"Punjwani, Sahar",28.6,Kinkaid PP
-3,Neg,"Roark, Collin",L,"Powers, Spencer",28.7,Kinkaid PP
-3,Neg,"Roark, Collin",L,"Punjwani, Sahar",28.8,Kinkaid PP
-4,Aff,"Berthiaume, Maggie",L,"Powers, Spencer",28.7,Kinkaid PP
-4,Aff,"Berthiaume, Maggie",L,"Punjwani, Sahar",28.4,Kinkaid PP
-5,Neg,"Whisenhunt, Toby",L,"Powers, Spencer",29.1,Kinkaid PP
-5,Neg,"Whisenhunt, Toby",L,"Punjwani, Sahar",29.2,Kinkaid PP
-6,Aff,"Gregg, Mary",L,"Powers, Spencer",28.3,Kinkaid PP
-6,Aff,"Gregg, Mary",L,"Punjwani, Sahar",28.4,Kinkaid PP
-1,Neg,"Jensen, William",L,"Scott, Adam",28.3,Liberal Arts and Science PS
-1,Neg,"Jensen, William",L,"Poe, Ian",28.4,Liberal Arts and Science PS
-2,Aff,"Cronin, Mac",L,"Scott, Adam",28.8,Liberal Arts and Science PS
-2,Aff,"Cronin, Mac",L,"Poe, Ian",28.6,Liberal Arts and Science PS
-3,Neg,"Walrath, Caitlin",L,"Scott, Adam",28.3,Liberal Arts and Science PS
-3,Neg,"Walrath, Caitlin",L,"Poe, Ian",28.5,Liberal Arts and Science PS
-4,Aff,"Meloche, Brad",L,"Scott, Adam",27.9,Liberal Arts and Science PS
-4,Aff,"Meloche, Brad",L,"Poe, Ian",28.2,Liberal Arts and Science PS
-5,Neg,"Liles, Derek",L,"Scott, Adam",28.5,Liberal Arts and Science PS
-5,Neg,"Liles, Derek",L,"Poe, Ian",28.6,Liberal Arts and Science PS
-6,Aff,"Quinn, Colin",W,"Scott, Adam",28.7,Liberal Arts and Science PS
-6,Aff,"Quinn, Colin",W,"Poe, Ian",28.4,Liberal Arts and Science PS
-1,Neg,"Guevara, Omar",L,"Shah, Parth",28.7,Maine East SS
-1,Neg,"Guevara, Omar",L,"Sobski, Nicole",28.9,Maine East SS
-2,Aff,"Reese, Devon",W,"Shah, Parth",28.8,Maine East SS
-2,Aff,"Reese, Devon",W,"Sobski, Nicole",28.7,Maine East SS
-3,Aff,"Pereda, Nick",L,"Shah, Parth",28.7,Maine East SS
-3,Aff,"Pereda, Nick",L,"Sobski, Nicole",28.5,Maine East SS
-4,Neg,"Pilcher, Max",W,"Shah, Parth",28.1,Maine East SS
-4,Neg,"Pilcher, Max",W,"Sobski, Nicole",28.3,Maine East SS
-5,Aff,"Oddo, Eric",W,"Shah, Parth",28.9,Maine East SS
-5,Aff,"Oddo, Eric",W,"Sobski, Nicole",28.6,Maine East SS
-6,Neg,"Lingel, Dan",L,"Shah, Parth",28.5,Maine East SS
-6,Neg,"Lingel, Dan",L,"Sobski, Nicole",28.4,Maine East SS
-1,Neg,"McCullough, Hunter",W,"Tran, Chris",28.7,Jesuit CP TH
-1,Neg,"McCullough, Hunter",W,"Hall, Adam",28.6,Jesuit CP TH
-2,Aff,"Garrett, Lincoln",W,"Tran, Chris",28.7,Jesuit CP TH
-2,Aff,"Garrett, Lincoln",W,"Hall, Adam",28.6,Jesuit CP TH
-3,Neg,"Pointer, Steve",L,"Tran, Chris",29,Jesuit CP TH
-3,Neg,"Pointer, Steve",L,"Hall, Adam",28.9,Jesuit CP TH
-4,Aff,"Marriott-Voss, Mason",W,"Tran, Chris",28.7,Jesuit CP TH
-4,Aff,"Marriott-Voss, Mason",W,"Hall, Adam",28.8,Jesuit CP TH
-5,Aff,"Batterman, Bill",W,"Tran, Chris",28.9,Jesuit CP TH
-5,Aff,"Batterman, Bill",W,"Hall, Adam",28.8,Jesuit CP TH
-6,Neg,"Mithani, Aly",L,"Tran, Chris",28.5,Jesuit CP TH
-6,Neg,"Mithani, Aly",L,"Hall, Adam",28.4,Jesuit CP TH
-1,Neg,"Solice, Maggie",W,"Tingle, Kristin",28.8,Barstow TD
-1,Neg,"Solice, Maggie",W,"Durwood, Tyler",28.9,Barstow TD
-2,Aff,"Pointer, Steve",W,"Tingle, Kristin",28.8,Barstow TD
-2,Aff,"Pointer, Steve",W,"Durwood, Tyler",28.7,Barstow TD
-3,Aff,"Lowe, Kristen",W,"Tingle, Kristin",29.1,Barstow TD
-3,Aff,"Lowe, Kristen",W,"Durwood, Tyler",29,Barstow TD
-4,Neg,"McCullough, Hunter",L,"Tingle, Kristin",28.7,Barstow TD
-4,Neg,"McCullough, Hunter",L,"Durwood, Tyler",28.8,Barstow TD
-5,Neg,"Struth, Matt",W,"Tingle, Kristin",28.8,Barstow TD
-5,Neg,"Struth, Matt",W,"Durwood, Tyler",28.9,Barstow TD
-6,Aff,"Fry, Chris",L,"Tingle, Kristin",29,Barstow TD
-6,Aff,"Fry, Chris",L,"Durwood, Tyler",28.8,Barstow TD
-1,Neg,"Shore, Sam",W,"Kern, Emily",28.3,Marquette Univ TM
-1,Neg,"Shore, Sam",W,"Medeiros, Bernard",28.6,Marquette Univ TM
-2,Aff,"Leon, Patricia",W,"Kern, Emily",28.5,Marquette Univ TM
-2,Aff,"Leon, Patricia",W,"Medeiros, Bernard",28.6,Marquette Univ TM
-3,Aff,"Solice, Maggie",L,"Kern, Emily",28.7,Marquette Univ TM
-3,Aff,"Solice, Maggie",L,"Medeiros, Bernard",28.6,Marquette Univ TM
-4,Neg,"Guevara, Omar",W,"Kern, Emily",28,Marquette Univ TM
-4,Neg,"Guevara, Omar",W,"Medeiros, Bernard",28.5,Marquette Univ TM
-5,Neg,"Gregg, Mary",L,"Kern, Emily",29.1,Marquette Univ TM
-5,Neg,"Gregg, Mary",L,"Medeiros, Bernard",29.2,Marquette Univ TM
-6,Aff,"Coleman, Matt",L,"Kern, Emily",28.2,Marquette Univ TM
-6,Aff,"Coleman, Matt",L,"Medeiros, Bernard",28.4,Marquette Univ TM
-1,Neg,"Morrow, CODY",L,"Anderson, Julian",28.1,Peninsula AL
-1,Neg,"Morrow, CODY",L,"Lu, Kristen",28,Peninsula AL
-2,Aff,"Bannister, Dan",L,"Anderson, Julian",28.7,Peninsula AL
-2,Aff,"Bannister, Dan",L,"Lu, Kristen",28.6,Peninsula AL
-3,Aff,"Klopotek, Joseph",W,"Anderson, Julian",28.4,Peninsula AL
-3,Aff,"Klopotek, Joseph",W,"Lu, Kristen",29.2,Peninsula AL
-4,Neg,"Heidt, David",W,"Anderson, Julian",28.7,Peninsula AL
-4,Neg,"Heidt, David",W,"Lu, Kristen",28.6,Peninsula AL
-5,Aff,"Randall, Dana",W,"Anderson, Julian",28.5,Peninsula AL
-5,Aff,"Randall, Dana",W,"Lu, Kristen",28.6,Peninsula AL
-6,Neg,"Forslund, Eric",W,"Anderson, Julian",29,Peninsula AL
-6,Neg,"Forslund, Eric",W,"Lu, Kristen",28.4,Peninsula AL
-1,Neg,"Frederick, Dylan",L,"Colbert, Payton",29,West Des Moines Valley CK
-1,Neg,"Frederick, Dylan",L,"Kennett, Lexi",28.7,West Des Moines Valley CK
-2,Aff,"Hampton, Jyleesa",L,"Colbert, Payton",28.7,West Des Moines Valley CK
-2,Aff,"Hampton, Jyleesa",L,"Kennett, Lexi",28.2,West Des Moines Valley CK
-3,Neg,"Reese, Devon",L,"Colbert, Payton",27.9,West Des Moines Valley CK
-3,Neg,"Reese, Devon",L,"Kennett, Lexi",27.8,West Des Moines Valley CK
-4,Aff,"Borbon, Michelle",L,"Colbert, Payton",28.5,West Des Moines Valley CK
-4,Aff,"Borbon, Michelle",L,"Kennett, Lexi",27.8,West Des Moines Valley CK
-5,Neg,"Cronin, Mac",L,"Colbert, Payton",28.7,West Des Moines Valley CK
-5,Neg,"Cronin, Mac",L,"Kennett, Lexi",28.3,West Des Moines Valley CK
-6,Aff,"Liles, Derek",L,"Colbert, Payton",28.9,West Des Moines Valley CK
-6,Aff,"Liles, Derek",L,"Kennett, Lexi",28.6,West Des Moines Valley CK
-1,Aff,"Marriott-Voss, Mason",W,"Muse, Ethan",29.2,Dallas Highland Park ML
-1,Aff,"Marriott-Voss, Mason",W,"Lam, Mark",28.7,Dallas Highland Park ML
-2,Neg,"Struth, Matt",W,"Muse, Ethan",29,Dallas Highland Park ML
-2,Neg,"Struth, Matt",W,"Lam, Mark",28.4,Dallas Highland Park ML
-3,Aff,"Jensen, William",W,"Muse, Ethan",29.2,Dallas Highland Park ML
-3,Aff,"Jensen, William",W,"Lam, Mark",28.1,Dallas Highland Park ML
-4,Neg,"Forslund, Eric",W,"Muse, Ethan",29.3,Dallas Highland Park ML
-4,Neg,"Forslund, Eric",W,"Lam, Mark",27.9,Dallas Highland Park ML
-5,Neg,"Samuels, Phil",L,"Muse, Ethan",29.3,Dallas Highland Park ML
-5,Neg,"Samuels, Phil",L,"Lam, Mark",28.8,Dallas Highland Park ML
-6,Aff,"Pereda, Nick",W,"Muse, Ethan",29.4,Dallas Highland Park ML
-6,Aff,"Pereda, Nick",W,"Lam, Mark",28.2,Dallas Highland Park ML
-1,Neg,"Hoffmann, Jackson",W,"Huynh, Madison",29.1,Harker HK
-1,Neg,"Hoffmann, Jackson",W,"Kuppahally, Anusha",28.9,Harker HK
-2,Aff,"Miller, Josh",W,"Huynh, Madison",28.9,Harker HK
-2,Aff,"Miller, Josh",W,"Kuppahally, Anusha",28.7,Harker HK
-3,Aff,"Garrett, Lincoln",L,"Huynh, Madison",28.6,Harker HK
-3,Aff,"Garrett, Lincoln",L,"Kuppahally, Anusha",28.7,Harker HK
-4,Neg,"Berthiaume, Maggie",W,"Huynh, Madison",28.6,Harker HK
-4,Neg,"Berthiaume, Maggie",W,"Kuppahally, Anusha",29,Harker HK
-5,Aff,"Fry, Chris",L,"Huynh, Madison",28.6,Harker HK
-5,Aff,"Fry, Chris",L,"Kuppahally, Anusha",28.5,Harker HK
-6,Neg,"Roark, Collin",W,"Huynh, Madison",28.5,Harker HK
-6,Neg,"Roark, Collin",W,"Kuppahally, Anusha",28.8,Harker HK
-1,Neg,"Bannister, Dan",L,"Lorenz, Liam",28.9,Niles North LI
-1,Neg,"Bannister, Dan",L,"Ivackovic, Alan",29.1,Niles North LI
-2,Aff,"Fry, Chris",W,"Lorenz, Liam",28.8,Niles North LI
-2,Aff,"Fry, Chris",W,"Ivackovic, Alan",28.7,Niles North LI
-3,Aff,"Randall, Dana",W,"Lorenz, Liam",28.8,Niles North LI
-3,Aff,"Randall, Dana",W,"Ivackovic, Alan",28.9,Niles North LI
-4,Neg,"Trufanov, Anthony",W,"Lorenz, Liam",28.7,Niles North LI
-4,Neg,"Trufanov, Anthony",W,"Ivackovic, Alan",29.3,Niles North LI
-5,Neg,"Jensen, William",L,"Lorenz, Liam",28.9,Niles North LI
-5,Neg,"Jensen, William",L,"Ivackovic, Alan",29.1,Niles North LI
-6,Aff,"Malsin, Mikaela",W,"Lorenz, Liam",28.7,Niles North LI
-6,Aff,"Malsin, Mikaela",W,"Ivackovic, Alan",28.8,Niles North LI
-1,Aff,"Gregg, Mary",L,"Daftari, Manav",28.6,Westminster DA
-1,Aff,"Gregg, Mary",L,"Alford, George",28.4,Westminster DA
-2,Neg,"Shore, Sam",W,"Daftari, Manav",28.3,Westminster DA
-2,Neg,"Shore, Sam",W,"Alford, George",28.5,Westminster DA
-3,Aff,"Yorko, Austen",W,"Daftari, Manav",28.7,Westminster DA
-3,Aff,"Yorko, Austen",W,"Alford, George",28.6,Westminster DA
-4,Neg,"Weston, David",L,"Daftari, Manav",28.5,Westminster DA
-4,Neg,"Weston, David",L,"Alford, George",28.6,Westminster DA
-5,Neg,"Garrett, Lincoln",W,"Daftari, Manav",28.3,Westminster DA
-5,Neg,"Garrett, Lincoln",W,"Alford, George",28.2,Westminster DA
-6,Aff,"Borbon, Michelle",W,"Daftari, Manav",28.9,Westminster DA
-6,Aff,"Borbon, Michelle",W,"Alford, George",28.7,Westminster DA
-1,Neg,"Vaziri, Cameron",W,"Rascoe, Christopher",28.8,Westminster RB
-1,Neg,"Vaziri, Cameron",W,"Bald, Holland",28.7,Westminster RB
-2,Aff,"Marriott-Voss, Mason",W,"Rascoe, Christopher",28.9,Westminster RB
-2,Aff,"Marriott-Voss, Mason",W,"Bald, Holland",28.8,Westminster RB
-3,Aff,"Turner, John",W,"Rascoe, Christopher",28.8,Westminster RB
-3,Aff,"Turner, John",W,"Bald, Holland",28.4,Westminster RB
-4,Neg,"Shore, Sam",L,"Rascoe, Christopher",28.9,Westminster RB
-4,Neg,"Shore, Sam",L,"Bald, Holland",28.7,Westminster RB
-5,Neg,"Hoffmann, Jackson",W,"Rascoe, Christopher",29.2,Westminster RB
-5,Neg,"Hoffmann, Jackson",W,"Bald, Holland",29.1,Westminster RB
-6,Aff,"Stupek, Johnnie",L,"Rascoe, Christopher",29.2,Westminster RB
-6,Aff,"Stupek, Johnnie",L,"Bald, Holland",29.1,Westminster RB
-1,Aff,"Liles, Derek",W,"Vinod, Kavitha",28.3,St Francis VS
-1,Aff,"Liles, Derek",W,"Shen, Justin",28.4,St Francis VS
-2,Neg,"Chen, Yao Yao",L,"Vinod, Kavitha",28.1,St Francis VS
-2,Neg,"Chen, Yao Yao",L,"Shen, Justin",28.3,St Francis VS
-3,Neg,"Meloche, Brad",L,"Vinod, Kavitha",28.4,St Francis VS
-3,Neg,"Meloche, Brad",L,"Shen, Justin",28.8,St Francis VS
-4,Aff,"White, Darius",W,"Vinod, Kavitha",28.7,St Francis VS
-4,Aff,"White, Darius",W,"Shen, Justin",28.5,St Francis VS
-5,Neg,"Marriott-Voss, Mason",L,"Vinod, Kavitha",28.2,St Francis VS
-5,Neg,"Marriott-Voss, Mason",L,"Shen, Justin",28.4,St Francis VS
-6,Aff,"Clark, Josh",L,"Vinod, Kavitha",28.5,St Francis VS
-6,Aff,"Clark, Josh",L,"Shen, Justin",28.8,St Francis VS
-1,Aff,"Sternberg, Jordana",L,"Ho, Amy",28.7,Kinkaid HK
-1,Aff,"Sternberg, Jordana",L,"Knobloch, Dani",28.6,Kinkaid HK
-2,Neg,"Hampton, Jyleesa",W,"Ho, Amy",28.5,Kinkaid HK
-2,Neg,"Hampton, Jyleesa",W,"Knobloch, Dani",28.6,Kinkaid HK
-3,Aff,"Hagney, Mitch",W,"Ho, Amy",29.5,Kinkaid HK
-3,Aff,"Hagney, Mitch",W,"Knobloch, Dani",29.3,Kinkaid HK
-4,Neg,"Marriott-Voss, Mason",L,"Ho, Amy",28.4,Kinkaid HK
-4,Neg,"Marriott-Voss, Mason",L,"Knobloch, Dani",28.5,Kinkaid HK
-5,Aff,"Weston, David",W,"Ho, Amy",28.8,Kinkaid HK
-5,Aff,"Weston, David",W,"Knobloch, Dani",28.7,Kinkaid HK
-6,Neg,"Samuels, Phil",L,"Ho, Amy",28.6,Kinkaid HK
-6,Neg,"Samuels, Phil",L,"Knobloch, Dani",28.5,Kinkaid HK
-1,Neg,"Gregg, Mary",W,"Desai, Het",28.9,Coppell DR
-1,Neg,"Gregg, Mary",W,"Rajayopal, Shreyas",28.8,Coppell DR
-2,Aff,"Vaziri, Cameron",W,"Desai, Het",29.1,Coppell DR
-2,Aff,"Vaziri, Cameron",W,"Rajayopal, Shreyas",29.2,Coppell DR
-3,Aff,"McCullough, Hunter",L,"Desai, Het",28.7,Coppell DR
-3,Aff,"McCullough, Hunter",L,"Rajayopal, Shreyas",28.8,Coppell DR
-4,Neg,"Kingston, David",W,"Desai, Het",29,Coppell DR
-4,Neg,"Kingston, David",W,"Rajayopal, Shreyas",28.9,Coppell DR
-5,Aff,"Struth, Matt",L,"Desai, Het",28.7,Coppell DR
-5,Aff,"Struth, Matt",L,"Rajayopal, Shreyas",28.6,Coppell DR
-6,Neg,"Cronin, Mac",W,"Desai, Het",28.9,Coppell DR
-6,Neg,"Cronin, Mac",W,"Rajayopal, Shreyas",29.1,Coppell DR
-1,Neg,"Reese, Devon",L,"Khan, Hajirah",28.3,Niles North KS
-1,Neg,"Reese, Devon",L,"Sonnier, Lauren",28.2,Niles North KS
-2,Aff,"Meloche, Brad",L,"Khan, Hajirah",28.5,Niles North KS
-2,Aff,"Meloche, Brad",L,"Sonnier, Lauren",28.6,Niles North KS
-3,Aff,"Walrath, Caitlin",W,"Khan, Hajirah",28.4,Niles North KS
-3,Aff,"Walrath, Caitlin",W,"Sonnier, Lauren",28.6,Niles North KS
-4,Neg,"Oddo, Eric",L,"Khan, Hajirah",28.9,Niles North KS
-4,Neg,"Oddo, Eric",L,"Sonnier, Lauren",28.7,Niles North KS
-5,Neg,"Yorko, Austen",L,"Khan, Hajirah",28.3,Niles North KS
-5,Neg,"Yorko, Austen",L,"Sonnier, Lauren",28.2,Niles North KS
-6,Aff,"Bricker, Brett",W,"Khan, Hajirah",29.4,Niles North KS
-6,Aff,"Bricker, Brett",W,"Sonnier, Lauren",29.3,Niles North KS
-1,Neg,"Wheeler, Scott",W,"Shah, Deven",28.6,Harker SL
-1,Neg,"Wheeler, Scott",W,"Lee, Andy",28.8,Harker SL
-2,Aff,"Coleman, Matt",L,"Shah, Deven",28.4,Harker SL
-2,Aff,"Coleman, Matt",L,"Lee, Andy",28.3,Harker SL
-3,Neg,"Gregg, Mary",W,"Shah, Deven",28.6,Harker SL
-3,Neg,"Gregg, Mary",W,"Lee, Andy",28.4,Harker SL
-4,Aff,"Stupek, Johnnie",L,"Shah, Deven",29.3,Harker SL
-4,Aff,"Stupek, Johnnie",L,"Lee, Andy",29,Harker SL
-5,Aff,"Clark, Josh",W,"Shah, Deven",28.7,Harker SL
-5,Aff,"Clark, Josh",W,"Lee, Andy",28.5,Harker SL
-6,Neg,"Malsin, Mikaela",L,"Shah, Deven",28.4,Harker SL
-6,Neg,"Malsin, Mikaela",L,"Lee, Andy",28.3,Harker SL
-1,Aff,"Harrison, Bennett",W,"Kim, Matthew",28.3,SLC West KB
-1,Aff,"Harrison, Bennett",W,"Banuri, Ramis",28.2,SLC West KB
-2,Neg,"Garrett, Lincoln",L,"Kim, Matthew",28.3,SLC West KB
-2,Neg,"Garrett, Lincoln",L,"Banuri, Ramis",28.4,SLC West KB
-3,Neg,"Leon, Patricia",W,"Kim, Matthew",28.8,SLC West KB
-3,Neg,"Leon, Patricia",W,"Banuri, Ramis",28.9,SLC West KB
-4,Aff,"Mithani, Aly",W,"Kim, Matthew",29.1,SLC West KB
-4,Aff,"Mithani, Aly",W,"Banuri, Ramis",28.8,SLC West KB
-5,Aff,"Vaziri, Cameron",L,"Kim, Matthew",28.9,SLC West KB
-5,Aff,"Vaziri, Cameron",L,"Banuri, Ramis",28.4,SLC West KB
-6,Neg,"Miller, Josh",L,"Kim, Matthew",28.6,SLC West KB
-6,Neg,"Miller, Josh",L,"Banuri, Ramis",28.9,SLC West KB
-1,Aff,"Kingston, David",W,"Kwon, Joshua",28.4,Greenhill KT
-1,Aff,"Kingston, David",W,"Tathgir, Shaurya",28.1,Greenhill KT
-2,Neg,"Randall, Dana",L,"Kwon, Joshua",28,Greenhill KT
-2,Neg,"Randall, Dana",L,"Tathgir, Shaurya",28.1,Greenhill KT
-3,Aff,"Harrison, Bennett",W,"Kwon, Joshua",28.6,Greenhill KT
-3,Aff,"Harrison, Bennett",W,"Tathgir, Shaurya",28.7,Greenhill KT
-4,Neg,"Frederick, Dylan",L,"Kwon, Joshua",29.5,Greenhill KT
-4,Neg,"Frederick, Dylan",L,"Tathgir, Shaurya",29.3,Greenhill KT
-5,Aff,"Marriott-Voss, Mason",W,"Kwon, Joshua",28.5,Greenhill KT
-5,Aff,"Marriott-Voss, Mason",W,"Tathgir, Shaurya",28.7,Greenhill KT
-6,Neg,"Borbon, Michelle",L,"Kwon, Joshua",28.6,Greenhill KT
-6,Neg,"Borbon, Michelle",L,"Tathgir, Shaurya",28.5,Greenhill KT
-1,Aff,"Hagney, Mitch",W,"Savill, Olivia",28.3,Crossings Christian SC
-1,Aff,"Hagney, Mitch",W,"Clayton, Elizabeth",28.6,Crossings Christian SC
-2,Neg,"Miller, Josh",L,"Savill, Olivia",28.3,Crossings Christian SC
-2,Neg,"Miller, Josh",L,"Clayton, Elizabeth",28.5,Crossings Christian SC
-3,Aff,"Chen, Yao Yao",L,"Savill, Olivia",28.3,Crossings Christian SC
-3,Aff,"Chen, Yao Yao",L,"Clayton, Elizabeth",28.5,Crossings Christian SC
-4,Neg,"Smith, Jacob",L,"Savill, Olivia",28.3,Crossings Christian SC
-4,Neg,"Smith, Jacob",L,"Clayton, Elizabeth",28.6,Crossings Christian SC
-5,Aff,"Heidt, David",L,"Savill, Olivia",28.4,Crossings Christian SC
-5,Aff,"Heidt, David",L,"Clayton, Elizabeth",28.5,Crossings Christian SC
-6,Neg,"Bricker, Brett",L,"Savill, Olivia",29.1,Crossings Christian SC
-6,Neg,"Bricker, Brett",L,"Clayton, Elizabeth",29.2,Crossings Christian SC
-1,Aff,"Sykes, Jason",L,"Ferrer-Falto, Giovannie",29,Jesuit CP FJ
-1,Aff,"Sykes, Jason",L,"Jackson, Ethan",29.1,Jesuit CP FJ
-2,Neg,"Marriott-Voss, Mason",L,"Ferrer-Falto, Giovannie",28.6,Jesuit CP FJ
-2,Neg,"Marriott-Voss, Mason",L,"Jackson, Ethan",28.7,Jesuit CP FJ
-3,Aff,"Mithani, Aly",W,"Ferrer-Falto, Giovannie",28.1,Jesuit CP FJ
-3,Aff,"Mithani, Aly",W,"Jackson, Ethan",27.9,Jesuit CP FJ
-4,Neg,"Haley-Hill, Mr.",W,"Ferrer-Falto, Giovannie",29,Jesuit CP FJ
-4,Neg,"Haley-Hill, Mr.",W,"Jackson, Ethan",28.8,Jesuit CP FJ
-5,Aff,"Pereda, Nick",L,"Ferrer-Falto, Giovannie",28.7,Jesuit CP FJ
-5,Aff,"Pereda, Nick",L,"Jackson, Ethan",28.5,Jesuit CP FJ
-6,Neg,"Turner, John",W,"Ferrer-Falto, Giovannie",28.4,Jesuit CP FJ
-6,Neg,"Turner, John",W,"Jackson, Ethan",28.6,Jesuit CP FJ
-1,Neg,"Harrison, Bennett",L,"Di Filippo, Nick",28,Notre Dame DS
-1,Neg,"Harrison, Bennett",L,"Suico, Patricia",28.1,Notre Dame DS
-2,Aff,"Lowe, Kristen",L,"Di Filippo, Nick",28.5,Notre Dame DS
-2,Aff,"Lowe, Kristen",L,"Suico, Patricia",28.6,Notre Dame DS
-3,Neg,"Guevara, Omar",W,"Di Filippo, Nick",28.6,Notre Dame DS
-3,Neg,"Guevara, Omar",W,"Suico, Patricia",28.9,Notre Dame DS
-4,Aff,"Smith, Jacob",W,"Di Filippo, Nick",28.5,Notre Dame DS
-4,Aff,"Smith, Jacob",W,"Suico, Patricia",28.4,Notre Dame DS
-5,Aff,"Garrett, Lincoln",L,"Di Filippo, Nick",27.4,Notre Dame DS
-5,Aff,"Garrett, Lincoln",L,"Suico, Patricia",27.6,Notre Dame DS
-6,Neg,"Kilpatrick, David",W,"Di Filippo, Nick",28.3,Notre Dame DS
-6,Neg,"Kilpatrick, David",W,"Suico, Patricia",28.4,Notre Dame DS
-1,Neg,"Hampton, Jyleesa",L,"Doolittle, Jacob",28.3,Kapaun Mount Carmel DR
-1,Neg,"Hampton, Jyleesa",L,"Rocheleau, Loic",28.4,Kapaun Mount Carmel DR
-2,Aff,"Frederick, Dylan",W,"Doolittle, Jacob",29,Kapaun Mount Carmel DR
-2,Aff,"Frederick, Dylan",W,"Rocheleau, Loic",28.9,Kapaun Mount Carmel DR
-3,Aff,"Meloche, Brad",W,"Doolittle, Jacob",29,Kapaun Mount Carmel DR
-3,Aff,"Meloche, Brad",W,"Rocheleau, Loic",28.9,Kapaun Mount Carmel DR
-4,Neg,"Stupek, Johnnie",W,"Doolittle, Jacob",29.1,Kapaun Mount Carmel DR
-4,Neg,"Stupek, Johnnie",W,"Rocheleau, Loic",29.2,Kapaun Mount Carmel DR
-5,Aff,"Bannister, Dan",L,"Doolittle, Jacob",28.8,Kapaun Mount Carmel DR
-5,Aff,"Bannister, Dan",L,"Rocheleau, Loic",29,Kapaun Mount Carmel DR
-6,Neg,"Ellis, Tim",W,"Doolittle, Jacob",28.6,Kapaun Mount Carmel DR
-6,Neg,"Ellis, Tim",W,"Rocheleau, Loic",28.8,Kapaun Mount Carmel DR
-1,Neg,"Stupek, Johnnie",L,"Firozabadi, Nadia",28.9,Niles West FW
-1,Neg,"Stupek, Johnnie",L,"Waters, Sarah",28.7,Niles West FW
-2,Aff,"Bricker, Brett",L,"Firozabadi, Nadia",29.2,Niles West FW
-2,Aff,"Bricker, Brett",L,"Waters, Sarah",29,Niles West FW
-3,Neg,"Berthiaume, Maggie",W,"Firozabadi, Nadia",28.4,Niles West FW
-3,Neg,"Berthiaume, Maggie",W,"Waters, Sarah",28.3,Niles West FW
-4,Aff,"Sternberg, Jordana",W,"Firozabadi, Nadia",28.7,Niles West FW
-4,Aff,"Sternberg, Jordana",W,"Waters, Sarah",28.6,Niles West FW
-5,Neg,"McFarland, Tracy",W,"Firozabadi, Nadia",28.4,Niles West FW
-5,Neg,"McFarland, Tracy",W,"Waters, Sarah",28.1,Niles West FW
-6,Aff,"Miller, Josh",W,"Firozabadi, Nadia",28.7,Niles West FW
-6,Aff,"Miller, Josh",W,"Waters, Sarah",28.5,Niles West FW
-1,Aff,"Kilpatrick, David",L,"Loyd, Gavin",28.6,Hebron LK
-1,Aff,"Kilpatrick, David",L,"Krish, Sunil",28.7,Hebron LK
-2,Neg,"Gustavson, Sam",W,"Loyd, Gavin",28.6,Hebron LK
-2,Neg,"Gustavson, Sam",W,"Krish, Sunil",28.9,Hebron LK
-3,Neg,"Yorko, Austen",L,"Loyd, Gavin",28.5,Hebron LK
-3,Neg,"Yorko, Austen",L,"Krish, Sunil",28.4,Hebron LK
-4,Aff,"Samuels, Phil",W,"Loyd, Gavin",28.5,Hebron LK
-4,Aff,"Samuels, Phil",W,"Krish, Sunil",28.7,Hebron LK
-5,Aff,"Haley-Hill, Mr.",L,"Loyd, Gavin",29.1,Hebron LK
-5,Aff,"Haley-Hill, Mr.",L,"Krish, Sunil",29.3,Hebron LK
-6,Neg,"Pointer, Steve",W,"Loyd, Gavin",28.8,Hebron LK
-6,Neg,"Pointer, Steve",W,"Krish, Sunil",28.7,Hebron LK
-1,Aff,"Hackett, Tony",W,"Berry, Jake",29,Washburn Rural BP
-1,Aff,"Hackett, Tony",W,"Park, Jimin",28.9,Washburn Rural BP
-2,Neg,"McIntosh, Valerie",W,"Berry, Jake",28.9,Washburn Rural BP
-2,Neg,"McIntosh, Valerie",W,"Park, Jimin",28.8,Washburn Rural BP
-3,Aff,"Trufanov, Anthony",L,"Berry, Jake",28.7,Washburn Rural BP
-3,Aff,"Trufanov, Anthony",L,"Park, Jimin",28.8,Washburn Rural BP
-4,Neg,"Hoffmann, Jackson",W,"Berry, Jake",29.1,Washburn Rural BP
-4,Neg,"Hoffmann, Jackson",W,"Park, Jimin",29,Washburn Rural BP
-5,Neg,"Bannister, Dan",W,"Berry, Jake",29.2,Washburn Rural BP
-5,Neg,"Bannister, Dan",W,"Park, Jimin",29.1,Washburn Rural BP
-6,Aff,"Lowe, Kristen",L,"Berry, Jake",29.1,Washburn Rural BP
-6,Aff,"Lowe, Kristen",L,"Park, Jimin",29,Washburn Rural BP
-1,Aff,"Pereda, Nick",L,"Nguyen, Chloe",27.9,Meadows NS
-1,Aff,"Pereda, Nick",L,"Salehian, Kayla",28,Meadows NS
-2,Aff,"Weston, David",,"Nguyen, Chloe",28.6,Meadows NS
-2,Aff,"Weston, David",,"Salehian, Kayla",28.4,Meadows NS
-3,Neg,"Coleman, Matt",W,"Nguyen, Chloe",28.8,Meadows NS
-3,Neg,"Coleman, Matt",W,"Salehian, Kayla",28.7,Meadows NS
-4,Neg,"Quinn, Colin",L,"Nguyen, Chloe",28.8,Meadows NS
-4,Neg,"Quinn, Colin",L,"Salehian, Kayla",28.7,Meadows NS
-5,Aff,"Pointer, Steve",L,"Nguyen, Chloe",28.1,Meadows NS
-5,Aff,"Pointer, Steve",L,"Salehian, Kayla",28,Meadows NS
-1,Neg,"Liles, Derek",L,"Herman, Andrew",27.8,Isidore Newman HV
-1,Neg,"Liles, Derek",L,"Vandenburgh, Beau",27.7,Isidore Newman HV
-2,Aff,"McCullough, Hunter",L,"Herman, Andrew",28.2,Isidore Newman HV
-2,Aff,"McCullough, Hunter",L,"Vandenburgh, Beau",28.3,Isidore Newman HV
-3,Aff,"Morrow, CODY",L,"Herman, Andrew",27.8,Isidore Newman HV
-3,Aff,"Morrow, CODY",L,"Vandenburgh, Beau",27.7,Isidore Newman HV
-4,Neg,"Meloche, Brad",W,"Herman, Andrew",28,Isidore Newman HV
-4,Neg,"Meloche, Brad",W,"Vandenburgh, Beau",28.3,Isidore Newman HV
-5,Aff,"Hackett, Tony",L,"Herman, Andrew",28.3,Isidore Newman HV
-5,Aff,"Hackett, Tony",L,"Vandenburgh, Beau",28.2,Isidore Newman HV
-6,Neg,"McFarland, Tracy",L,"Herman, Andrew",27.5,Isidore Newman HV
-6,Neg,"McFarland, Tracy",L,"Vandenburgh, Beau",27.6,Isidore Newman HV
-1,Neg,"Ellis, Tim",L,"Aggarwal, Armaan",28.2,Casady AR
-1,Neg,"Ellis, Tim",L,"Rajaram, Malavika",28.3,Casady AR
-2,Aff,"Roark, Collin",L,"Aggarwal, Armaan",28.5,Casady AR
-2,Aff,"Roark, Collin",L,"Rajaram, Malavika",28.4,Casady AR
-3,Neg,"Hampton, Jyleesa",L,"Aggarwal, Armaan",28.7,Casady AR
-3,Neg,"Hampton, Jyleesa",L,"Rajaram, Malavika",28.4,Casady AR
-4,Aff,"Leon, Patricia",L,"Aggarwal, Armaan",28.5,Casady AR
-4,Aff,"Leon, Patricia",L,"Rajaram, Malavika",28.3,Casady AR
-5,Neg,"Scott, Lucia",W,"Aggarwal, Armaan",28.5,Casady AR
-5,Neg,"Scott, Lucia",W,"Rajaram, Malavika",28.6,Casady AR
-6,Aff,"Morrow, CODY",L,"Aggarwal, Armaan",27.7,Casady AR
-6,Aff,"Morrow, CODY",L,"Rajaram, Malavika",27.9,Casady AR
-1,Neg,"Weston, David",L,"You, Jeffrey",28.2,Westwood YK
-1,Neg,"Weston, David",L,"Kumar, Ananth",28.4,Westwood YK
-2,Aff,"Wheeler, Scott",L,"You, Jeffrey",28.3,Westwood YK
-2,Aff,"Wheeler, Scott",L,"Kumar, Ananth",28.4,Westwood YK
-3,Neg,"Mithani, Aly",L,"You, Jeffrey",27.8,Westwood YK
-3,Neg,"Mithani, Aly",L,"Kumar, Ananth",28,Westwood YK
-4,Aff,"Miller, Josh",L,"You, Jeffrey",28.2,Westwood YK
-4,Aff,"Miller, Josh",L,"Kumar, Ananth",28.4,Westwood YK
-5,Aff,"Liles, Derek",W,"You, Jeffrey",28.9,Westwood YK
-5,Aff,"Liles, Derek",W,"Kumar, Ananth",28.8,Westwood YK
-6,Neg,"Jensen, William",L,"You, Jeffrey",28.4,Westwood YK
-6,Neg,"Jensen, William",L,"Kumar, Ananth",28.5,Westwood YK
-1,Aff,"Shore, Sam",L,"Chang, Ellie",28.4,OES CT
-1,Aff,"Shore, Sam",L,"Tsai, Alexa",28.5,OES CT
-2,Neg,"Hoffmann, Jackson",W,"Chang, Ellie",29,OES CT
-2,Neg,"Hoffmann, Jackson",W,"Tsai, Alexa",29.1,OES CT
-3,Neg,"Coleman, Matt",L,"Chang, Ellie",28.3,OES CT
-3,Neg,"Coleman, Matt",L,"Tsai, Alexa",28.5,OES CT
-4,Aff,"Snider, Tommy",W,"Chang, Ellie",28.9,OES CT
-4,Aff,"Snider, Tommy",W,"Tsai, Alexa",29.1,OES CT
-5,Aff,"Bricker, Brett",W,"Chang, Ellie",29.1,OES CT
-5,Aff,"Bricker, Brett",W,"Tsai, Alexa",29.3,OES CT
-6,Neg,"Pereda, Nick",L,"Chang, Ellie",28.6,OES CT
-6,Neg,"Pereda, Nick",L,"Tsai, Alexa",28.5,OES CT
-1,Neg,"Yorko, Austen",W,"Sayers, Benjamin",28.5,Westminster SM
-1,Neg,"Yorko, Austen",W,"Manghat, Rishi",28.4,Westminster SM
-2,Aff,"Hoffmann, Jackson",L,"Sayers, Benjamin",28.8,Westminster SM
-2,Aff,"Hoffmann, Jackson",L,"Manghat, Rishi",28.7,Westminster SM
-3,Aff,"Borbon, Michelle",L,"Sayers, Benjamin",28.3,Westminster SM
-3,Aff,"Borbon, Michelle",L,"Manghat, Rishi",28.4,Westminster SM
-4,Neg,"Berger, Aron",L,"Sayers, Benjamin",28.5,Westminster SM
-4,Neg,"Berger, Aron",L,"Manghat, Rishi",28.4,Westminster SM
-5,Neg,"Heidt, David",W,"Sayers, Benjamin",28.3,Westminster SM
-5,Neg,"Heidt, David",W,"Manghat, Rishi",28.2,Westminster SM
-6,Aff,"Ellis, Tim",L,"Sayers, Benjamin",28.7,Westminster SM
-6,Aff,"Ellis, Tim",L,"Manghat, Rishi",28.5,Westminster SM
-1,Aff,"Vaziri, Cameron",L,"Christiansen, Noah",28.9,McQueen CL
-1,Aff,"Vaziri, Cameron",L,"Leutzinger, Mia",27.9,McQueen CL
-2,Neg,"Leon, Patricia",L,"Christiansen, Noah",28.7,McQueen CL
-2,Neg,"Leon, Patricia",L,"Leutzinger, Mia",28.4,McQueen CL
-3,Aff,"Whisenhunt, Toby",W,"Christiansen, Noah",29.5,McQueen CL
-3,Aff,"Whisenhunt, Toby",W,"Leutzinger, Mia",30,McQueen CL
-4,Neg,"Snider, Tommy",L,"Christiansen, Noah",29,McQueen CL
-4,Neg,"Snider, Tommy",L,"Leutzinger, Mia",28.7,McQueen CL
-5,Neg,"Hackett, Tony",W,"Christiansen, Noah",28.8,McQueen CL
-5,Neg,"Hackett, Tony",W,"Leutzinger, Mia",28.6,McQueen CL
-6,Aff,"Struth, Matt",W,"Christiansen, Noah",29,McQueen CL
-6,Aff,"Struth, Matt",W,"Leutzinger, Mia",28.9,McQueen CL
-1,Neg,"Leon, Patricia",W,"Garg, Sakshi",28.7,Little Rock Central GL
-1,Neg,"Leon, Patricia",W,"Lam, Valorie",28.4,Little Rock Central GL
-2,Aff,"Hackett, Tony",W,"Garg, Sakshi",28.8,Little Rock Central GL
-2,Aff,"Hackett, Tony",W,"Lam, Valorie",28.9,Little Rock Central GL
-3,Aff,"Ellis, Tim",W,"Garg, Sakshi",29,Little Rock Central GL
-3,Aff,"Ellis, Tim",W,"Lam, Valorie",28.9,Little Rock Central GL
-4,Neg,"Gregg, Mary",L,"Garg, Sakshi",29.2,Little Rock Central GL
-4,Neg,"Gregg, Mary",L,"Lam, Valorie",29.1,Little Rock Central GL
-5,Neg,"Walrath, Caitlin",L,"Garg, Sakshi",28.9,Little Rock Central GL
-5,Neg,"Walrath, Caitlin",L,"Lam, Valorie",28.8,Little Rock Central GL
-6,Aff,"Roark, Collin",L,"Garg, Sakshi",28.7,Little Rock Central GL
-6,Aff,"Roark, Collin",L,"Lam, Valorie",28.6,Little Rock Central GL
-1,Neg,"Roark, Collin",W,"He, Eric",28.7,Grapevine HV
-1,Neg,"Roark, Collin",W,"Vionito, Rebecca",28.2,Grapevine HV
-2,Aff,"Quinn, Colin",L,"He, Eric",28.9,Grapevine HV
-2,Aff,"Quinn, Colin",L,"Vionito, Rebecca",28.5,Grapevine HV
-3,Aff,"Forslund, Eric",L,"He, Eric",29,Grapevine HV
-3,Aff,"Forslund, Eric",L,"Vionito, Rebecca",28.3,Grapevine HV
-4,Neg,"Hackett, Tony",L,"He, Eric",28.7,Grapevine HV
-4,Neg,"Hackett, Tony",L,"Vionito, Rebecca",28.5,Grapevine HV
-5,Aff,"Yorko, Austen",W,"He, Eric",28.5,Grapevine HV
-5,Aff,"Yorko, Austen",W,"Vionito, Rebecca",28.4,Grapevine HV
-6,Neg,"Solice, Maggie",L,"He, Eric",28.7,Grapevine HV
-6,Neg,"Solice, Maggie",L,"Vionito, Rebecca",28.4,Grapevine HV
-1,Aff,"Randall, Dana",L,"Hanna, Jackson",28.2,Crossings Christian HK
-1,Aff,"Randall, Dana",L,"King, Caleb",28.1,Crossings Christian HK
-2,Neg,"Pereda, Nick",L,"Hanna, Jackson",28.4,Crossings Christian HK
-2,Neg,"Pereda, Nick",L,"King, Caleb",27,Crossings Christian HK
-3,Neg,"Batterman, Bill",L,"Hanna, Jackson",28.4,Crossings Christian HK
-3,Neg,"Batterman, Bill",L,"King, Caleb",28.3,Crossings Christian HK
-4,Aff,"Fry, Chris",L,"Hanna, Jackson",28,Crossings Christian HK
-4,Aff,"Fry, Chris",L,"King, Caleb",27.9,Crossings Christian HK
-5,Aff,"Scott, Lucia",L,"Hanna, Jackson",28.3,Crossings Christian HK
-5,Aff,"Scott, Lucia",L,"King, Caleb",28.4,Crossings Christian HK
-6,Neg,"Quinn, Colin",L,"Hanna, Jackson",28.3,Crossings Christian HK
-6,Neg,"Quinn, Colin",L,"King, Caleb",28.1,Crossings Christian HK
-1,Aff,"Weston, David",W,"Ghanate, Nishita",28.6,Woodward GR
-1,Aff,"Weston, David",W,"Reddy, Sachi",28.3,Woodward GR
-2,Neg,"Scott, Lucia",W,"Ghanate, Nishita",28.9,Woodward GR
-2,Neg,"Scott, Lucia",W,"Reddy, Sachi",28.6,Woodward GR
-3,Neg,"Jensen, William",L,"Ghanate, Nishita",28.7,Woodward GR
-3,Neg,"Jensen, William",L,"Reddy, Sachi",28.5,Woodward GR
-4,Aff,"Lingel, Dan",L,"Ghanate, Nishita",28.7,Woodward GR
-4,Aff,"Lingel, Dan",L,"Reddy, Sachi",28.5,Woodward GR
-5,Aff,"McFarland, Tracy",L,"Ghanate, Nishita",28.3,Woodward GR
-5,Aff,"McFarland, Tracy",L,"Reddy, Sachi",28,Woodward GR
-6,Neg,"Shore, Sam",L,"Ghanate, Nishita",28.2,Woodward GR
-6,Neg,"Shore, Sam",L,"Reddy, Sachi",28.3,Woodward GR
-1,Neg,"Heidt, David",L,"Chikko, Dylan",28.4,Niles West CK
-1,Neg,"Heidt, David",L,"Kim, Hannah",28.5,Niles West CK
-2,Aff,"Jensen, William",L,"Chikko, Dylan",28.9,Niles West CK
-2,Aff,"Jensen, William",L,"Kim, Hannah",28.7,Niles West CK
-3,Aff,"Reese, Devon",W,"Chikko, Dylan",28.2,Niles West CK
-3,Aff,"Reese, Devon",W,"Kim, Hannah",28.1,Niles West CK
-4,Neg,"Samuels, Phil",L,"Chikko, Dylan",28.4,Niles West CK
-4,Neg,"Samuels, Phil",L,"Kim, Hannah",28.6,Niles West CK
-5,Neg,"Miller, Josh",W,"Chikko, Dylan",28.4,Niles West CK
-5,Neg,"Miller, Josh",W,"Kim, Hannah",28.5,Niles West CK
-6,Aff,"Turner, John",L,"Chikko, Dylan",28.3,Niles West CK
-6,Aff,"Turner, John",L,"Kim, Hannah",28.5,Niles West CK
-1,Aff,"Chen, Yao Yao",L,"Lalani, Aly",28.8,Hebron LB
-1,Aff,"Chen, Yao Yao",L,"Bhagwandin, Xain",28.7,Hebron LB
-2,Neg,"Gregg, Mary",W,"Lalani, Aly",29.2,Hebron LB
-2,Neg,"Gregg, Mary",W,"Bhagwandin, Xain",29.1,Hebron LB
-3,Neg,"Gustavson, Sam",L,"Lalani, Aly",28.6,Hebron LB
-3,Neg,"Gustavson, Sam",L,"Bhagwandin, Xain",28.5,Hebron LB
-4,Aff,"Berger, Aron",W,"Lalani, Aly",28.6,Hebron LB
-4,Aff,"Berger, Aron",W,"Bhagwandin, Xain",28.7,Hebron LB
-5,Neg,"Pereda, Nick",W,"Lalani, Aly",29,Hebron LB
-5,Neg,"Pereda, Nick",W,"Bhagwandin, Xain",28.6,Hebron LB
-6,Aff,"Garrett, Lincoln",W,"Lalani, Aly",28.5,Hebron LB
-6,Aff,"Garrett, Lincoln",W,"Bhagwandin, Xain",28.4,Hebron LB
-1,Neg,"Pereda, Nick",W,"Kingston, Emma",28.3,Blue Valley Northwest KV
-1,Neg,"Pereda, Nick",W,"Venkatachalam, Shruthi",28.1,Blue Valley Northwest KV
-2,Aff,"Whisenhunt, Toby",L,"Kingston, Emma",28.6,Blue Valley Northwest KV
-2,Aff,"Whisenhunt, Toby",L,"Venkatachalam, Shruthi",28.5,Blue Valley Northwest KV
-3,Aff,"Sternberg, Jordana",L,"Kingston, Emma",28.6,Blue Valley Northwest KV
-3,Aff,"Sternberg, Jordana",L,"Venkatachalam, Shruthi",28.5,Blue Valley Northwest KV
-4,Neg,"Miller, Josh",W,"Kingston, Emma",28.5,Blue Valley Northwest KV
-4,Neg,"Miller, Josh",W,"Venkatachalam, Shruthi",28.3,Blue Valley Northwest KV
-5,Aff,"Ellis, Tim",L,"Kingston, Emma",28.7,Blue Valley Northwest KV
-5,Aff,"Ellis, Tim",L,"Venkatachalam, Shruthi",28.2,Blue Valley Northwest KV
-6,Neg,"Gray, Robbins",L,"Kingston, Emma",28.4,Blue Valley Northwest KV
-6,Neg,"Gray, Robbins",L,"Venkatachalam, Shruthi",28.3,Blue Valley Northwest KV
-1,Aff,"Heidt, David",W,"Altman, Jack",28.8,New Trier AK
-1,Aff,"Heidt, David",W,"Kim, Roland",28.7,New Trier AK
-2,Neg,"Berthiaume, Maggie",L,"Altman, Jack",28.7,New Trier AK
-2,Neg,"Berthiaume, Maggie",L,"Kim, Roland",28.9,New Trier AK
-3,Neg,"Hoffmann, Jackson",W,"Altman, Jack",29.2,New Trier AK
-3,Neg,"Hoffmann, Jackson",W,"Kim, Roland",29.3,New Trier AK
-4,Aff,"McIntosh, Valerie",W,"Altman, Jack",29.2,New Trier AK
-4,Aff,"McIntosh, Valerie",W,"Kim, Roland",29.3,New Trier AK
-5,Aff,"Gregg, Mary",W,"Altman, Jack",29.4,New Trier AK
-5,Aff,"Gregg, Mary",W,"Kim, Roland",29.5,New Trier AK
-6,Neg,"Stupek, Johnnie",W,"Altman, Jack",29.3,New Trier AK
-6,Neg,"Stupek, Johnnie",W,"Kim, Roland",29.4,New Trier AK
-1,Aff,"Reese, Devon",W,"Ross, Dain",28.5,Caddo Magnet RM
-1,Aff,"Reese, Devon",W,"Miley, Palmer",27.8,Caddo Magnet RM
-2,Neg,"Frederick, Dylan",L,"Ross, Dain",28.6,Caddo Magnet RM
-2,Neg,"Frederick, Dylan",L,"Miley, Palmer",28.5,Caddo Magnet RM
-3,Neg,"Berger, Aron",L,"Ross, Dain",28.7,Caddo Magnet RM
-3,Neg,"Berger, Aron",L,"Miley, Palmer",28.3,Caddo Magnet RM
-4,Aff,"Liles, Derek",W,"Ross, Dain",29,Caddo Magnet RM
-4,Aff,"Liles, Derek",W,"Miley, Palmer",28.5,Caddo Magnet RM
-5,Neg,"Lingel, Dan",L,"Ross, Dain",28.5,Caddo Magnet RM
-5,Neg,"Lingel, Dan",L,"Miley, Palmer",28.3,Caddo Magnet RM
-6,Aff,"Shore, Sam",W,"Ross, Dain",28.4,Caddo Magnet RM
-6,Aff,"Shore, Sam",W,"Miley, Palmer",28.6,Caddo Magnet RM
-1,Aff,"Bricker, Brett",W,"Sears, Wheeler",28.8,St. Mark's School of Texas SW
-1,Aff,"Bricker, Brett",W,"Wang, Max",28.6,St. Mark's School of Texas SW
-2,Neg,"Stupek, Johnnie",W,"Sears, Wheeler",29.4,St. Mark's School of Texas SW
-2,Neg,"Stupek, Johnnie",W,"Wang, Max",29.2,St. Mark's School of Texas SW
-3,Neg,"Harrison, Bennett",L,"Sears, Wheeler",28.5,St. Mark's School of Texas SW
-3,Neg,"Harrison, Bennett",L,"Wang, Max",28.4,St. Mark's School of Texas SW
-4,Aff,"Quinn, Colin",W,"Sears, Wheeler",29,St. Mark's School of Texas SW
-4,Aff,"Quinn, Colin",W,"Wang, Max",28.6,St. Mark's School of Texas SW
-5,Neg,"Batterman, Bill",L,"Sears, Wheeler",29,St. Mark's School of Texas SW
-5,Neg,"Batterman, Bill",L,"Wang, Max",28.7,St. Mark's School of Texas SW
-6,Aff,"Forslund, Eric",L,"Sears, Wheeler",28.7,St. Mark's School of Texas SW
-6,Aff,"Forslund, Eric",L,"Wang, Max",28.5,St. Mark's School of Texas SW
-1,Aff,"Leon, Patricia",L,"Sharma, Siya",28.3,St Francis SN
-1,Aff,"Leon, Patricia",L,"Nguyen, Arianne",28.2,St Francis SN
-2,Neg,"Fry, Chris",L,"Sharma, Siya",28.3,St Francis SN
-2,Neg,"Fry, Chris",L,"Nguyen, Arianne",28.5,St Francis SN
-3,Aff,"Batterman, Bill",W,"Sharma, Siya",28.5,St Francis SN
-3,Aff,"Batterman, Bill",W,"Nguyen, Arianne",28.7,St Francis SN
-4,Neg,"Pereda, Nick",L,"Sharma, Siya",28.5,St Francis SN
-4,Neg,"Pereda, Nick",L,"Nguyen, Arianne",28.7,St Francis SN
-5,Neg,"Quinn, Colin",L,"Sharma, Siya",28.5,St Francis SN
-5,Neg,"Quinn, Colin",L,"Nguyen, Arianne",28.4,St Francis SN
-6,Aff,"McFarland, Tracy",W,"Sharma, Siya",28.5,St Francis SN
-6,Aff,"McFarland, Tracy",W,"Nguyen, Arianne",28,St Francis SN
-1,Aff,"Forslund, Eric",L,"Goldstein, Alanna",28.4,New Trier GL
-1,Aff,"Forslund, Eric",L,"Lim, Zach",28.6,New Trier GL
-2,Neg,"Hackett, Tony",L,"Goldstein, Alanna",28.5,New Trier GL
-2,Neg,"Hackett, Tony",L,"Lim, Zach",28.6,New Trier GL
-3,Neg,"Fry, Chris",W,"Goldstein, Alanna",28,New Trier GL
-3,Neg,"Fry, Chris",W,"Lim, Zach",28.3,New Trier GL
-4,Aff,"Borbon, Michelle",W,"Goldstein, Alanna",28.6,New Trier GL
-4,Aff,"Borbon, Michelle",W,"Lim, Zach",28.7,New Trier GL
-1,Neg,"Scott, Lucia",L,"Ganesan, Jayashree",28.6,Coppell GG
-1,Neg,"Scott, Lucia",L,"Gupta, Prayaag",28.3,Coppell GG
-2,Aff,"McIntosh, Valerie",L,"Ganesan, Jayashree",28.2,Coppell GG
-2,Aff,"McIntosh, Valerie",L,"Gupta, Prayaag",28.3,Coppell GG
-3,Neg,"Morrow, CODY",W,"Ganesan, Jayashree",28.2,Coppell GG
-3,Neg,"Morrow, CODY",W,"Gupta, Prayaag",28.1,Coppell GG
-4,Aff,"Haley-Hill, Mr.",L,"Ganesan, Jayashree",28.5,Coppell GG
-4,Aff,"Haley-Hill, Mr.",L,"Gupta, Prayaag",28.2,Coppell GG
-5,Neg,"White, Darius",W,"Ganesan, Jayashree",28.9,Coppell GG
-5,Neg,"White, Darius",W,"Gupta, Prayaag",28.6,Coppell GG
-6,Aff,"McCullough, Hunter",L,"Ganesan, Jayashree",28.3,Coppell GG
-6,Aff,"McCullough, Hunter",L,"Gupta, Prayaag",28.4,Coppell GG
-1,Aff,"Stupek, Johnnie",W,"Nguyen, Vanessa",29.1,Kapaun Mount Carmel NM
-1,Aff,"Stupek, Johnnie",W,"Magana, Catherine",28.6,Kapaun Mount Carmel NM
-2,Neg,"Roark, Collin",W,"Nguyen, Vanessa",29.2,Kapaun Mount Carmel NM
-2,Neg,"Roark, Collin",W,"Magana, Catherine",28.9,Kapaun Mount Carmel NM
-3,Neg,"Ellis, Tim",L,"Nguyen, Vanessa",28.8,Kapaun Mount Carmel NM
-3,Neg,"Ellis, Tim",L,"Magana, Catherine",28.5,Kapaun Mount Carmel NM
-4,Aff,"Trufanov, Anthony",L,"Nguyen, Vanessa",29.1,Kapaun Mount Carmel NM
-4,Aff,"Trufanov, Anthony",L,"Magana, Catherine",28.6,Kapaun Mount Carmel NM
-5,Neg,"Oddo, Eric",L,"Nguyen, Vanessa",28.8,Kapaun Mount Carmel NM
-5,Neg,"Oddo, Eric",L,"Magana, Catherine",28.7,Kapaun Mount Carmel NM
-6,Aff,"Frederick, Dylan",W,"Nguyen, Vanessa",28.5,Kapaun Mount Carmel NM
-6,Aff,"Frederick, Dylan",W,"Magana, Catherine",28.6,Kapaun Mount Carmel NM
-1,Aff,"Yorko, Austen",L,"Mitchell, Connor",28.1,Maize MP
-1,Aff,"Yorko, Austen",L,"Piros, Hannah",28.3,Maize MP
-2,Neg,"Pointer, Steve",L,"Mitchell, Connor",28.5,Maize MP
-2,Neg,"Pointer, Steve",L,"Piros, Hannah",28.4,Maize MP
-3,Neg,"Klopotek, Joseph",L,"Mitchell, Connor",28.2,Maize MP
-3,Neg,"Klopotek, Joseph",L,"Piros, Hannah",29.1,Maize MP
-4,Aff,"Pilcher, Max",L,"Mitchell, Connor",28,Maize MP
-4,Aff,"Pilcher, Max",L,"Piros, Hannah",28.2,Maize MP
-5,Aff,"Cronin, Mac",W,"Mitchell, Connor",28.5,Maize MP
-5,Aff,"Cronin, Mac",W,"Piros, Hannah",28.6,Maize MP
-6,Neg,"Morrow, CODY",W,"Mitchell, Connor",28,Maize MP
-6,Neg,"Morrow, CODY",W,"Piros, Hannah",27.8,Maize MP
-1,Aff,"Wheeler, Scott",L,"Senapathy, Sahitya",28.4,St. Mark's School of Texas SY
-1,Aff,"Wheeler, Scott",L,"Yang, David",28.7,St. Mark's School of Texas SY
-2,Neg,"Whisenhunt, Toby",W,"Senapathy, Sahitya",28.7,St. Mark's School of Texas SY
-2,Neg,"Whisenhunt, Toby",W,"Yang, David",28.9,St. Mark's School of Texas SY
-3,Neg,"Pereda, Nick",W,"Senapathy, Sahitya",28.6,St. Mark's School of Texas SY
-3,Neg,"Pereda, Nick",W,"Yang, David",28.8,St. Mark's School of Texas SY
-4,Aff,"Kingston, David",L,"Senapathy, Sahitya",28.7,St. Mark's School of Texas SY
-4,Aff,"Kingston, David",L,"Yang, David",28.8,St. Mark's School of Texas SY
-5,Neg,"Weston, David",L,"Senapathy, Sahitya",28.5,St. Mark's School of Texas SY
-5,Neg,"Weston, David",L,"Yang, David",28.6,St. Mark's School of Texas SY
-6,Aff,"Solice, Maggie",W,"Senapathy, Sahitya",28.8,St. Mark's School of Texas SY
-6,Aff,"Solice, Maggie",W,"Yang, David",28.5,St. Mark's School of Texas SY
-1,Aff,"Roark, Collin",L,"Castaneda, Alejandro",28.5,Hendrickson CF
-1,Aff,"Roark, Collin",L,"Faheem, Mahnoor",28.4,Hendrickson CF
-2,Neg,"Reese, Devon",L,"Castaneda, Alejandro",28.4,Hendrickson CF
-2,Neg,"Reese, Devon",L,"Faheem, Mahnoor",28.6,Hendrickson CF
-3,Neg,"Whisenhunt, Toby",L,"Castaneda, Alejandro",28.9,Hendrickson CF
-3,Neg,"Whisenhunt, Toby",L,"Faheem, Mahnoor",29.9,Hendrickson CF
-4,Aff,"Heidt, David",L,"Castaneda, Alejandro",28.5,Hendrickson CF
-4,Aff,"Heidt, David",L,"Faheem, Mahnoor",28.4,Hendrickson CF
-5,Aff,"Miller, Josh",L,"Castaneda, Alejandro",28.3,Hendrickson CF
-5,Aff,"Miller, Josh",L,"Faheem, Mahnoor",28.2,Hendrickson CF
-6,Neg,"Liles, Derek",W,"Castaneda, Alejandro",29,Hendrickson CF
-6,Neg,"Liles, Derek",W,"Faheem, Mahnoor",28.7,Hendrickson CF
-1,Aff,"McCullough, Hunter",L,"Descant, Griffin",28.1,Isidore Newman DQ
-1,Aff,"McCullough, Hunter",L,"Qi, Kevin",28.4,Isidore Newman DQ
-2,Neg,"Meloche, Brad",W,"Descant, Griffin",28.7,Isidore Newman DQ
-2,Neg,"Meloche, Brad",W,"Qi, Kevin",28.8,Isidore Newman DQ
-3,Neg,"Randall, Dana",L,"Descant, Griffin",28,Isidore Newman DQ
-3,Neg,"Randall, Dana",L,"Qi, Kevin",28.1,Isidore Newman DQ
-4,Aff,"Hackett, Tony",W,"Descant, Griffin",28.6,Isidore Newman DQ
-4,Aff,"Hackett, Tony",W,"Qi, Kevin",28.8,Isidore Newman DQ
-5,Neg,"Clark, Josh",L,"Descant, Griffin",28.4,Isidore Newman DQ
-5,Neg,"Clark, Josh",L,"Qi, Kevin",28.6,Isidore Newman DQ
-6,Aff,"Pointer, Steve",L,"Descant, Griffin",28.4,Isidore Newman DQ
-6,Aff,"Pointer, Steve",L,"Qi, Kevin",28.6,Isidore Newman DQ
-1,Aff,"Solice, Maggie",L,"Lasseter, Storm",28.6,School of Science and Engineering Magnet LN
-1,Aff,"Solice, Maggie",L,"Northcutt-Wyly, Olivia",28.7,School of Science and Engineering Magnet LN
-2,Neg,"Harrison, Bennett",L,"Lasseter, Storm",28.1,School of Science and Engineering Magnet LN
-2,Neg,"Harrison, Bennett",L,"Northcutt-Wyly, Olivia",28.2,School of Science and Engineering Magnet LN
-3,Aff,"Hampton, Jyleesa",W,"Lasseter, Storm",28.5,School of Science and Engineering Magnet LN
-3,Aff,"Hampton, Jyleesa",W,"Northcutt-Wyly, Olivia",29,School of Science and Engineering Magnet LN
-4,Neg,"Liles, Derek",L,"Lasseter, Storm",28.8,School of Science and Engineering Magnet LN
-4,Neg,"Liles, Derek",L,"Northcutt-Wyly, Olivia",28.6,School of Science and Engineering Magnet LN
-5,Neg,"Chen, Yao Yao",W,"Lasseter, Storm",28.4,School of Science and Engineering Magnet LN
-5,Neg,"Chen, Yao Yao",W,"Northcutt-Wyly, Olivia",28.6,School of Science and Engineering Magnet LN
-6,Aff,"Cronin, Mac",L,"Lasseter, Storm",28.5,School of Science and Engineering Magnet LN
-6,Aff,"Cronin, Mac",L,"Northcutt-Wyly, Olivia",28.8,School of Science and Engineering Magnet LN
-1,Neg,"Forslund, Eric",W,"Banuri, Kiyan",28.5,SLC West BN
-1,Neg,"Forslund, Eric",W,"Nelson, Kenneth",28.8,SLC West BN
-2,Aff,"Shore, Sam",L,"Banuri, Kiyan",28.4,SLC West BN
-2,Aff,"Shore, Sam",L,"Nelson, Kenneth",28.2,SLC West BN
-3,Aff,"Hoffmann, Jackson",L,"Banuri, Kiyan",29.1,SLC West BN
-3,Aff,"Hoffmann, Jackson",L,"Nelson, Kenneth",28.9,SLC West BN
-4,Neg,"Lowe, Kristen",W,"Banuri, Kiyan",29,SLC West BN
-4,Neg,"Lowe, Kristen",W,"Nelson, Kenneth",28.9,SLC West BN
-5,Neg,"Randall, Dana",L,"Banuri, Kiyan",28.3,SLC West BN
-5,Neg,"Randall, Dana",L,"Nelson, Kenneth",28.4,SLC West BN
-6,Aff,"Gray, Robbins",W,"Banuri, Kiyan",28.6,SLC West BN
-6,Aff,"Gray, Robbins",W,"Nelson, Kenneth",28.7,SLC West BN
-1,Neg,"Hagney, Mitch",L,"Brody, Benjamin",28.5,Winston Churchill BM
-1,Neg,"Hagney, Mitch",L,"Myers, Alexandra",28.4,Winston Churchill BM
-2,Aff,"Gustavson, Sam",L,"Brody, Benjamin",28.2,Winston Churchill BM
-2,Aff,"Gustavson, Sam",L,"Myers, Alexandra",28.3,Winston Churchill BM
-3,Aff,"Berthiaume, Maggie",L,"Brody, Benjamin",28.2,Winston Churchill BM
-3,Aff,"Berthiaume, Maggie",L,"Myers, Alexandra",28.1,Winston Churchill BM
-4,Neg,"Borbon, Michelle",W,"Brody, Benjamin",28.4,Winston Churchill BM
-4,Neg,"Borbon, Michelle",W,"Myers, Alexandra",27.9,Winston Churchill BM
-5,Neg,"Shore, Sam",L,"Brody, Benjamin",28.1,Winston Churchill BM
-5,Neg,"Shore, Sam",L,"Myers, Alexandra",28.2,Winston Churchill BM
-6,Aff,"Yorko, Austen",L,"Brody, Benjamin",28.1,Winston Churchill BM
-6,Aff,"Yorko, Austen",L,"Myers, Alexandra",28.2,Winston Churchill BM
-1,Neg,"Marriott-Voss, Mason",L,"Holcombe, Riler",28.9,Jesuit CP HM
-1,Neg,"Marriott-Voss, Mason",L,"Moore, Jack",29,Jesuit CP HM
-2,Aff,"Berthiaume, Maggie",W,"Holcombe, Riler",28.8,Jesuit CP HM
-2,Aff,"Berthiaume, Maggie",W,"Moore, Jack",29.2,Jesuit CP HM
-3,Aff,"Gustavson, Sam",W,"Holcombe, Riler",28.9,Jesuit CP HM
-3,Aff,"Gustavson, Sam",W,"Moore, Jack",28.8,Jesuit CP HM
-4,Neg,"Mithani, Aly",L,"Holcombe, Riler",29.2,Jesuit CP HM
-4,Neg,"Mithani, Aly",L,"Moore, Jack",29,Jesuit CP HM
-5,Aff,"Shore, Sam",W,"Holcombe, Riler",29,Jesuit CP HM
-5,Aff,"Shore, Sam",W,"Moore, Jack",28.8,Jesuit CP HM
-6,Neg,"McCullough, Hunter",W,"Holcombe, Riler",29,Jesuit CP HM
-6,Neg,"McCullough, Hunter",W,"Moore, Jack",29.1,Jesuit CP HM
-1,Aff,"Hoffmann, Jackson",L,"Hurst, Sophia",28.6,Greenhill HR
-1,Aff,"Hoffmann, Jackson",L,"Rothstein, Ethan",28.8,Greenhill HR
-2,Neg,"Wheeler, Scott",W,"Hurst, Sophia",28.5,Greenhill HR
-2,Neg,"Wheeler, Scott",W,"Rothstein, Ethan",28.6,Greenhill HR
-3,Neg,"Hagney, Mitch",L,"Hurst, Sophia",29.1,Greenhill HR
-3,Neg,"Hagney, Mitch",L,"Rothstein, Ethan",29.2,Greenhill HR
-4,Aff,"Lowe, Kristen",L,"Hurst, Sophia",28.8,Greenhill HR
-4,Aff,"Lowe, Kristen",L,"Rothstein, Ethan",28.7,Greenhill HR
-5,Aff,"Chen, Yao Yao",L,"Hurst, Sophia",28.5,Greenhill HR
-5,Aff,"Chen, Yao Yao",L,"Rothstein, Ethan",28.3,Greenhill HR
-6,Neg,"Yorko, Austen",W,"Hurst, Sophia",28.3,Greenhill HR
-6,Neg,"Yorko, Austen",W,"Rothstein, Ethan",28.4,Greenhill HR
-1,Aff,"Ambrose, Malachi",W,"Kim, Sarah",28.7,Stevens Point Area Senior High (SPASH) KS
-1,Aff,"Ambrose, Malachi",W,"Swiston, Ella",28.5,Stevens Point Area Senior High (SPASH) KS
-2,Neg,"Vaziri, Cameron",L,"Kim, Sarah",27.5,Stevens Point Area Senior High (SPASH) KS
-2,Neg,"Vaziri, Cameron",L,"Swiston, Ella",27.4,Stevens Point Area Senior High (SPASH) KS
-3,Aff,"Leon, Patricia",L,"Kim, Sarah",28.6,Stevens Point Area Senior High (SPASH) KS
-3,Aff,"Leon, Patricia",L,"Swiston, Ella",28.4,Stevens Point Area Senior High (SPASH) KS
-4,Neg,"White, Darius",L,"Kim, Sarah",28.8,Stevens Point Area Senior High (SPASH) KS
-4,Neg,"White, Darius",L,"Swiston, Ella",28.6,Stevens Point Area Senior High (SPASH) KS
-5,Neg,"Borbon, Michelle",L,"Kim, Sarah",27.7,Stevens Point Area Senior High (SPASH) KS
-5,Neg,"Borbon, Michelle",L,"Swiston, Ella",27.4,Stevens Point Area Senior High (SPASH) KS
-6,Aff,"Flowers, Chris",W,"Kim, Sarah",29,Stevens Point Area Senior High (SPASH) KS
-6,Aff,"Flowers, Chris",W,"Swiston, Ella",28.5,Stevens Point Area Senior High (SPASH) KS
-1,Neg,"Ambrose, Malachi",L,"Perales, Rania",28.4,JBS Law Magnet PT
-1,Neg,"Ambrose, Malachi",L,"Taylor, Asya",28.6,JBS Law Magnet PT
-2,Aff,"Harrison, Bennett",W,"Perales, Rania",28.3,JBS Law Magnet PT
-2,Aff,"Harrison, Bennett",W,"Taylor, Asya",28.4,JBS Law Magnet PT
-3,Aff,"Gregg, Mary",L,"Perales, Rania",28.1,JBS Law Magnet PT
-3,Aff,"Gregg, Mary",L,"Taylor, Asya",28.2,JBS Law Magnet PT
-4,Neg,"Sternberg, Jordana",L,"Perales, Rania",28.4,JBS Law Magnet PT
-4,Neg,"Sternberg, Jordana",L,"Taylor, Asya",28.5,JBS Law Magnet PT
-5,Aff,"Quinn, Colin",W,"Perales, Rania",28.6,JBS Law Magnet PT
-5,Aff,"Quinn, Colin",W,"Taylor, Asya",28.9,JBS Law Magnet PT
-6,Neg,"Frederick, Dylan",L,"Perales, Rania",28.4,JBS Law Magnet PT
-6,Neg,"Frederick, Dylan",L,"Taylor, Asya",28.3,JBS Law Magnet PT
-1,Neg,"Bricker, Brett",L,"Gray, Daniel",28.5,Fullerton Union GK
-1,Neg,"Bricker, Brett",L,"Koh, Ryan",28.7,Fullerton Union GK
-2,Aff,"Randall, Dana",W,"Gray, Daniel",28.2,Fullerton Union GK
-2,Aff,"Randall, Dana",W,"Koh, Ryan",28.4,Fullerton Union GK
-3,Neg,"Sternberg, Jordana",W,"Gray, Daniel",28.7,Fullerton Union GK
-3,Neg,"Sternberg, Jordana",W,"Koh, Ryan",28.8,Fullerton Union GK
-4,Aff,"Hoffmann, Jackson",L,"Gray, Daniel",28.7,Fullerton Union GK
-4,Aff,"Hoffmann, Jackson",L,"Koh, Ryan",28.9,Fullerton Union GK
-5,Aff,"Lingel, Dan",W,"Gray, Daniel",28.4,Fullerton Union GK
-5,Aff,"Lingel, Dan",W,"Koh, Ryan",28.6,Fullerton Union GK
-6,Neg,"Garrett, Lincoln",L,"Gray, Daniel",28.2,Fullerton Union GK
-6,Neg,"Garrett, Lincoln",L,"Koh, Ryan",28.3,Fullerton Union GK
-1,Neg,"Hackett, Tony",L,"Comiskey, Brendan",28.6,Grapevine CW
-1,Neg,"Hackett, Tony",L,"Wouters, Eric",28.5,Grapevine CW
-2,Aff,"Scott, Lucia",L,"Comiskey, Brendan",28.7,Grapevine CW
-2,Aff,"Scott, Lucia",L,"Wouters, Eric",28.8,Grapevine CW
-3,Aff,"Guevara, Omar",L,"Comiskey, Brendan",28.7,Grapevine CW
-3,Aff,"Guevara, Omar",L,"Wouters, Eric",28.5,Grapevine CW
-4,Neg,"Leon, Patricia",W,"Comiskey, Brendan",28.6,Grapevine CW
-4,Neg,"Leon, Patricia",W,"Wouters, Eric",28.4,Grapevine CW
-5,Aff,"White, Darius",L,"Comiskey, Brendan",28.8,Grapevine CW
-5,Aff,"White, Darius",L,"Wouters, Eric",28.7,Grapevine CW
-6,Neg,"Flowers, Chris",L,"Comiskey, Brendan",28.6,Grapevine CW
-6,Neg,"Flowers, Chris",L,"Wouters, Eric",28.4,Grapevine CW
+1,Neg,"Barquin, Joseph",W,"Ferdowsian, Ryan",29,Arizona State FG
+1,Neg,"Barquin, Joseph",W,"Guthrie, Logan",28.9,Arizona State FG
+2,Aff,"Johnson, Lauren",L,"Ferdowsian, Ryan",28.5,Arizona State FG
+2,Aff,"Johnson, Lauren",L,"Guthrie, Logan",28.6,Arizona State FG
+3,Aff,"Gonzalez, Gabriela",W,"Ferdowsian, Ryan",29,Arizona State FG
+3,Aff,"Gonzalez, Gabriela",W,"Guthrie, Logan",29.2,Arizona State FG
+4,Neg,"Jallits, Matthew",W,"Ferdowsian, Ryan",29,Arizona State FG
+4,Neg,"Jallits, Matthew",W,"Guthrie, Logan",28.9,Arizona State FG
+5,Neg,"Stidham, Jasmine",W,"Ferdowsian, Ryan",29.4,Arizona State FG
+5,Neg,"Stidham, Jasmine",W,"Guthrie, Logan",29.3,Arizona State FG
+6,Aff,"Knight, Gabby",L,"Ferdowsian, Ryan",29.6,Arizona State FG
+6,Aff,"Knight, Gabby",L,"Guthrie, Logan",29.9,Arizona State FG
+7,Aff,"Thomas, Michelle",W,"Ferdowsian, Ryan",28.9,Arizona State FG
+7,Aff,"Thomas, Michelle",W,"Guthrie, Logan",28.8,Arizona State FG
+8,Neg,"Salcedo, Joel",W,"Ferdowsian, Ryan",29.4,Arizona State FG
+8,Neg,"Salcedo, Joel",W,"Guthrie, Logan",29.3,Arizona State FG
+1,Neg,"Dabney, Amanda",W,"Fitzpatrick, Ross",28.7,Kansas FT
+1,Neg,"Dabney, Amanda",W,"Thomas, Jake",28.6,Kansas FT
+2,Aff,"Leonardi, Chris",W,"Fitzpatrick, Ross",29,Kansas FT
+2,Aff,"Leonardi, Chris",W,"Thomas, Jake",29.3,Kansas FT
+3,Neg,"Baez, Kristiana",W,"Fitzpatrick, Ross",28.6,Kansas FT
+3,Neg,"Baez, Kristiana",W,"Thomas, Jake",28.5,Kansas FT
+4,Aff,"Kilpatrick, David",L,"Fitzpatrick, Ross",28.2,Kansas FT
+4,Aff,"Kilpatrick, David",L,"Thomas, Jake",28.6,Kansas FT
+5,Aff,"Snelling, Tyler",W,"Fitzpatrick, Ross",29.1,Kansas FT
+5,Aff,"Snelling, Tyler",W,"Thomas, Jake",29,Kansas FT
+6,Neg,"McCullough, Hunter",W,"Fitzpatrick, Ross",28.7,Kansas FT
+6,Neg,"McCullough, Hunter",W,"Thomas, Jake",28.6,Kansas FT
+7,Neg,"Berger, Aron",L,"Fitzpatrick, Ross",28.9,Kansas FT
+7,Neg,"Berger, Aron",L,"Thomas, Jake",28.7,Kansas FT
+8,Aff,"Montee, Andy",W,"Fitzpatrick, Ross",28.8,Kansas FT
+8,Aff,"Montee, Andy",W,"Thomas, Jake",28.6,Kansas FT
+1,Aff,"Fendley, Seth",W,"Hanson, Raelynn",29.7,Oklahoma HR
+1,Aff,"Fendley, Seth",W,"Rogers, Brandon",29.6,Oklahoma HR
+2,Neg,"Thomas, Troi",W,"Hanson, Raelynn",28.8,Oklahoma HR
+2,Neg,"Thomas, Troi",W,"Rogers, Brandon",28.9,Oklahoma HR
+3,Neg,"Glass, Rob",W,"Hanson, Raelynn",28.8,Oklahoma HR
+3,Neg,"Glass, Rob",W,"Rogers, Brandon",29,Oklahoma HR
+4,Aff,"Knight, Gabby",L,"Hanson, Raelynn",29.1,Oklahoma HR
+4,Aff,"Knight, Gabby",L,"Rogers, Brandon",28.9,Oklahoma HR
+5,Neg,"Byram, Timothy",W,"Hanson, Raelynn",28.4,Oklahoma HR
+5,Neg,"Byram, Timothy",W,"Rogers, Brandon",28.5,Oklahoma HR
+6,Aff,"Martin, Shauntrice",L,"Hanson, Raelynn",28.3,Oklahoma HR
+6,Aff,"Martin, Shauntrice",L,"Rogers, Brandon",28,Oklahoma HR
+7,Neg,"Symonds, Adam",W,"Hanson, Raelynn",28.5,Oklahoma HR
+7,Neg,"Symonds, Adam",W,"Rogers, Brandon",28.6,Oklahoma HR
+8,Aff,"Salcedo, Joel",L,"Hanson, Raelynn",29.1,Oklahoma HR
+8,Aff,"Salcedo, Joel",L,"Rogers, Brandon",29.2,Oklahoma HR
+1,Neg,"McCullough, Hunter",L,"Goldberg, Mimi",28.5,Cornell GS
+1,Neg,"McCullough, Hunter",L,"Safer, Shara",28.6,Cornell GS
+2,Aff,"Dabney, Amanda",W,"Goldberg, Mimi",28.7,Cornell GS
+2,Aff,"Dabney, Amanda",W,"Safer, Shara",29,Cornell GS
+3,Neg,"Bajorek, Benton",W,"Goldberg, Mimi",29.1,Cornell GS
+3,Neg,"Bajorek, Benton",W,"Safer, Shara",29.2,Cornell GS
+4,Aff,"Foley, Jordan",W,"Goldberg, Mimi",28.8,Cornell GS
+4,Aff,"Foley, Jordan",W,"Safer, Shara",28.5,Cornell GS
+5,Aff,"Kilpatrick, David",L,"Goldberg, Mimi",28.6,Cornell GS
+5,Aff,"Kilpatrick, David",L,"Safer, Shara",28.5,Cornell GS
+6,Neg,"Salcedo, Joel",W,"Goldberg, Mimi",29.5,Cornell GS
+6,Neg,"Salcedo, Joel",W,"Safer, Shara",29.3,Cornell GS
+7,Neg,"Thomas, Michelle",L,"Goldberg, Mimi",28.6,Cornell GS
+7,Neg,"Thomas, Michelle",L,"Safer, Shara",28.7,Cornell GS
+8,Aff,"Bricker, Brett",W,"Goldberg, Mimi",29.6,Cornell GS
+8,Aff,"Bricker, Brett",W,"Safer, Shara",29.5,Cornell GS
+1,Aff,"Lipton, Adam",W,"Gustavson, Sam",29.4,Iowa GL
+1,Aff,"Lipton, Adam",W,"Liriano, Geordano",29.2,Iowa GL
+2,Neg,"Astacio, Carlos",W,"Gustavson, Sam",29.3,Iowa GL
+2,Neg,"Astacio, Carlos",W,"Liriano, Geordano",29.4,Iowa GL
+3,Aff,"Poapst, Jackie",W,"Gustavson, Sam",29.3,Iowa GL
+3,Aff,"Poapst, Jackie",W,"Liriano, Geordano",29.4,Iowa GL
+4,Neg,"Thach, Lee",W,"Gustavson, Sam",29.1,Iowa GL
+4,Neg,"Thach, Lee",W,"Liriano, Geordano",29,Iowa GL
+5,Aff,"Baker, Will",L,"Gustavson, Sam",28.8,Iowa GL
+5,Aff,"Baker, Will",L,"Liriano, Geordano",29.2,Iowa GL
+6,Neg,"Knight, Gabby",W,"Gustavson, Sam",29.8,Iowa GL
+6,Neg,"Knight, Gabby",W,"Liriano, Geordano",29.7,Iowa GL
+7,Neg,"Bunas, Shae",W,"Gustavson, Sam",29.4,Iowa GL
+7,Neg,"Bunas, Shae",W,"Liriano, Geordano",29.2,Iowa GL
+8,Aff,"Ortiz, Kate",L,"Gustavson, Sam",29.7,Iowa GL
+8,Aff,"Ortiz, Kate",L,"Liriano, Geordano",29.8,Iowa GL
+1,Neg,"Garcia-Lugo, Juan",W,"Beutelspacher, Dustyn",28.7,UT Dallas BK
+1,Neg,"Garcia-Lugo, Juan",W,"Kaul, Ragya",28.8,UT Dallas BK
+2,Aff,"Bajorek, Benton",W,"Beutelspacher, Dustyn",28.5,UT Dallas BK
+2,Aff,"Bajorek, Benton",W,"Kaul, Ragya",28.8,UT Dallas BK
+3,Neg,"Waldinger, Patrick",W,"Beutelspacher, Dustyn",29,UT Dallas BK
+3,Neg,"Waldinger, Patrick",W,"Kaul, Ragya",28.9,UT Dallas BK
+4,Aff,"Snelling, Tyler",L,"Beutelspacher, Dustyn",28.7,UT Dallas BK
+4,Aff,"Snelling, Tyler",L,"Kaul, Ragya",29,UT Dallas BK
+5,Aff,"Stidham, Jasmine",L,"Beutelspacher, Dustyn",28.9,UT Dallas BK
+5,Aff,"Stidham, Jasmine",L,"Kaul, Ragya",29.2,UT Dallas BK
+6,Neg,"Garner, Richard",W,"Beutelspacher, Dustyn",28.9,UT Dallas BK
+6,Neg,"Garner, Richard",W,"Kaul, Ragya",28.8,UT Dallas BK
+7,Neg,"Stout, Daniel",L,"Beutelspacher, Dustyn",28.5,UT Dallas BK
+7,Neg,"Stout, Daniel",L,"Kaul, Ragya",28.4,UT Dallas BK
+8,Aff,"Baez, Kristiana",W,"Beutelspacher, Dustyn",28.6,UT Dallas BK
+8,Aff,"Baez, Kristiana",W,"Kaul, Ragya",28.7,UT Dallas BK
+1,Neg,"Rizk, Michael",L,"Callaghan, Dennis",29.2,Florida CK
+1,Neg,"Rizk, Michael",L,"Karcher, Charles",29.1,Florida CK
+2,Aff,"Salcedo, Joel",W,"Callaghan, Dennis",28.6,Florida CK
+2,Aff,"Salcedo, Joel",W,"Karcher, Charles",28.7,Florida CK
+3,Neg,"Larsen, Beau",W,"Callaghan, Dennis",28.3,Florida CK
+3,Neg,"Larsen, Beau",W,"Karcher, Charles",28.1,Florida CK
+4,Aff,"Jallits, Matthew",L,"Callaghan, Dennis",28.3,Florida CK
+4,Aff,"Jallits, Matthew",L,"Karcher, Charles",27.8,Florida CK
+5,Aff,"Joseph, Anthony",L,"Callaghan, Dennis",28.5,Florida CK
+5,Aff,"Joseph, Anthony",L,"Karcher, Charles",28.7,Florida CK
+6,Neg,"Holley, Sierra",L,"Callaghan, Dennis",29.8,Florida CK
+6,Neg,"Holley, Sierra",L,"Karcher, Charles",29.2,Florida CK
+7,Aff,"Bugrov, Max",W,"Callaghan, Dennis",28.7,Florida CK
+7,Aff,"Bugrov, Max",W,"Karcher, Charles",28.8,Florida CK
+8,Neg,"Kilpatrick, David",W,"Callaghan, Dennis",27.5,Florida CK
+8,Neg,"Kilpatrick, David",W,"Karcher, Charles",27.4,Florida CK
+1,Neg,"Queirolo, Kat",L,"Jeronimo, Isabel",27.7,St Mary's JP
+1,Neg,"Queirolo, Kat",L,"Perez, Luke",27.6,St Mary's JP
+2,Aff,"Swihart, Nikolas",W,"Jeronimo, Isabel",29,St Mary's JP
+2,Aff,"Swihart, Nikolas",W,"Perez, Luke",28.9,St Mary's JP
+3,Neg,"Gonzalez, Gabriela",L,"Jeronimo, Isabel",28.9,St Mary's JP
+3,Neg,"Gonzalez, Gabriela",L,"Perez, Luke",28.2,St Mary's JP
+4,Aff,"Thomas, Michelle",W,"Jeronimo, Isabel",28.6,St Mary's JP
+4,Aff,"Thomas, Michelle",W,"Perez, Luke",28.5,St Mary's JP
+5,Neg,"Lloyd, Zhane",L,"Jeronimo, Isabel",28.8,St Mary's JP
+5,Neg,"Lloyd, Zhane",L,"Perez, Luke",28.3,St Mary's JP
+6,Aff,"Dabney, Amanda",W,"Jeronimo, Isabel",28.7,St Mary's JP
+6,Aff,"Dabney, Amanda",W,"Perez, Luke",28.3,St Mary's JP
+7,Neg,"Martin, Shauntrice",W,"Jeronimo, Isabel",29,St Mary's JP
+7,Neg,"Martin, Shauntrice",W,"Perez, Luke",28,St Mary's JP
+8,Aff,"Bugrov, Max",L,"Jeronimo, Isabel",28.7,St Mary's JP
+8,Aff,"Bugrov, Max",L,"Perez, Luke",28.6,St Mary's JP
+1,Aff,"McCullough, Hunter",W,"Moore, Nix",28.9,Central Oklahoma CM
+1,Aff,"McCullough, Hunter",W,"Colquitt, Grant",28.8,Central Oklahoma CM
+2,Neg,"Johnson, Lauren",W,"Moore, Nix",28.8,Central Oklahoma CM
+2,Neg,"Johnson, Lauren",W,"Colquitt, Grant",28.7,Central Oklahoma CM
+3,Neg,"Baker, Will",L,"Moore, Nix",28.9,Central Oklahoma CM
+3,Neg,"Baker, Will",L,"Colquitt, Grant",28.8,Central Oklahoma CM
+4,Aff,"Gonzalez, Gabriela",W,"Moore, Nix",28.8,Central Oklahoma CM
+4,Aff,"Gonzalez, Gabriela",W,"Colquitt, Grant",29.1,Central Oklahoma CM
+5,Neg,"Garner, Richard",W,"Moore, Nix",29.6,Central Oklahoma CM
+5,Neg,"Garner, Richard",W,"Colquitt, Grant",29,Central Oklahoma CM
+6,Aff,"Joseph, Anthony",L,"Moore, Nix",29.2,Central Oklahoma CM
+6,Aff,"Joseph, Anthony",L,"Colquitt, Grant",29.5,Central Oklahoma CM
+7,Aff,"Leonardi, Chris",W,"Moore, Nix",29.1,Central Oklahoma CM
+7,Aff,"Leonardi, Chris",W,"Colquitt, Grant",29.1,Central Oklahoma CM
+1,Aff,"Barquin, Joseph",L,"Abdulla, Ali",28.8,Rochester AV
+1,Aff,"Barquin, Joseph",L,"Voltime-Fleurisca, Charles",28.7,Rochester AV
+2,Neg,"Swihart, Nikolas",L,"Abdulla, Ali",28.8,Rochester AV
+2,Neg,"Swihart, Nikolas",L,"Voltime-Fleurisca, Charles",28.7,Rochester AV
+3,Aff,"Evans, Ignacio",W,"Abdulla, Ali",29,Rochester AV
+3,Aff,"Evans, Ignacio",W,"Voltime-Fleurisca, Charles",29.1,Rochester AV
+4,Neg,"Song, Grace",W,"Abdulla, Ali",28.7,Rochester AV
+4,Neg,"Song, Grace",W,"Voltime-Fleurisca, Charles",28.6,Rochester AV
+5,Aff,"Garcia-Lugo, Juan",L,"Abdulla, Ali",28.7,Rochester AV
+5,Aff,"Garcia-Lugo, Juan",L,"Voltime-Fleurisca, Charles",28.6,Rochester AV
+6,Neg,"Kelsie, Amber",L,"Abdulla, Ali",28.3,Rochester AV
+6,Neg,"Kelsie, Amber",L,"Voltime-Fleurisca, Charles",28.2,Rochester AV
+7,Neg,"Green, LaToya",W,"Abdulla, Ali",28.8,Rochester AV
+7,Neg,"Green, LaToya",W,"Voltime-Fleurisca, Charles",28.7,Rochester AV
+8,Aff,"Joseph, Anthony",L,"Abdulla, Ali",28.9,Rochester AV
+8,Aff,"Joseph, Anthony",L,"Voltime-Fleurisca, Charles",29,Rochester AV
+1,Aff,"Shaheed, Aliyah",W,"Harrington, Michael",29.7,Liberty HT
+1,Aff,"Shaheed, Aliyah",W,"Thomas, Brianna",29.8,Liberty HT
+2,Neg,"Martin, Shauntrice",W,"Harrington, Michael",30,Liberty HT
+2,Neg,"Martin, Shauntrice",W,"Thomas, Brianna",29.9,Liberty HT
+3,Aff,"Lloyd, Zhane",W,"Harrington, Michael",29.9,Liberty HT
+3,Aff,"Lloyd, Zhane",W,"Thomas, Brianna",30,Liberty HT
+4,Neg,"Glass, Rob",L,"Harrington, Michael",29.7,Liberty HT
+4,Neg,"Glass, Rob",L,"Thomas, Brianna",29.9,Liberty HT
+5,Aff,"Johnson, Willie",W,"Harrington, Michael",29.2,Liberty HT
+5,Aff,"Johnson, Willie",W,"Thomas, Brianna",29.5,Liberty HT
+6,Neg,"Imes, Josh",W,"Harrington, Michael",29.3,Liberty HT
+6,Neg,"Imes, Josh",W,"Thomas, Brianna",29.2,Liberty HT
+7,Neg,"Rajan, Romin",W,"Harrington, Michael",29.3,Liberty HT
+7,Neg,"Rajan, Romin",W,"Thomas, Brianna",29.7,Liberty HT
+8,Aff,"Baker, Will",W,"Harrington, Michael",29.3,Liberty HT
+8,Aff,"Baker, Will",W,"Thomas, Brianna",29.4,Liberty HT
+1,Aff,"Bugrov, Max",W,"McFarlane, Nichelae",28.3,Binghamton MD
+1,Aff,"Bugrov, Max",W,"Diaz, Taina",28.4,Binghamton MD
+2,Neg,"Weddington, Tommye",W,"McFarlane, Nichelae",29.2,Binghamton MD
+2,Neg,"Weddington, Tommye",W,"Diaz, Taina",29,Binghamton MD
+3,Aff,"Kilpatrick, David",L,"McFarlane, Nichelae",28.7,Binghamton MD
+3,Aff,"Kilpatrick, David",L,"Diaz, Taina",28.6,Binghamton MD
+4,Neg,"Thomas, Troi",L,"McFarlane, Nichelae",28.9,Binghamton MD
+4,Neg,"Thomas, Troi",L,"Diaz, Taina",28.8,Binghamton MD
+5,Neg,"Evans, Ignacio",W,"McFarlane, Nichelae",28.9,Binghamton MD
+5,Neg,"Evans, Ignacio",W,"Diaz, Taina",29,Binghamton MD
+6,Aff,"Vitolo-Haddad, CV",L,"McFarlane, Nichelae",29.2,Binghamton MD
+6,Aff,"Vitolo-Haddad, CV",L,"Diaz, Taina",29,Binghamton MD
+7,Aff,"Queirolo, Kat",W,"McFarlane, Nichelae",28.9,Binghamton MD
+7,Aff,"Queirolo, Kat",W,"Diaz, Taina",28.8,Binghamton MD
+8,Neg,"Montee, Andy",L,"McFarlane, Nichelae",28.7,Binghamton MD
+8,Neg,"Montee, Andy",L,"Diaz, Taina",28.5,Binghamton MD
+1,Neg,"Jallits, Matthew",W,"Baker, Ellen",28.8,West Virginia BM
+1,Neg,"Jallits, Matthew",W,"Modestita, Brooke",28.7,West Virginia BM
+2,Aff,"Lloyd, Zhane",W,"Baker, Ellen",29.8,West Virginia BM
+2,Aff,"Lloyd, Zhane",W,"Modestita, Brooke",30,West Virginia BM
+3,Aff,"Stout, Daniel",L,"Baker, Ellen",29.5,West Virginia BM
+3,Aff,"Stout, Daniel",L,"Modestita, Brooke",29.4,West Virginia BM
+4,Neg,"Hiland, Al",W,"Baker, Ellen",28.9,West Virginia BM
+4,Neg,"Hiland, Al",W,"Modestita, Brooke",28.8,West Virginia BM
+5,Aff,"Gonzalez, Gabriela",W,"Baker, Ellen",29.3,West Virginia BM
+5,Aff,"Gonzalez, Gabriela",W,"Modestita, Brooke",29.5,West Virginia BM
+6,Neg,"Joseph, Anthony",W,"Baker, Ellen",29.7,West Virginia BM
+6,Neg,"Joseph, Anthony",W,"Modestita, Brooke",30,West Virginia BM
+7,Aff,"Berger, Aron",W,"Baker, Ellen",29.2,West Virginia BM
+7,Aff,"Berger, Aron",W,"Modestita, Brooke",29.4,West Virginia BM
+8,Neg,"Baker, Will",L,"Baker, Ellen",29.1,West Virginia BM
+8,Neg,"Baker, Will",L,"Modestita, Brooke",29.2,West Virginia BM
+1,Aff,"Leonardi, Chris",L,"Monteith, Squid",28.2,Emporia State MK
+1,Aff,"Leonardi, Chris",L,"Kuiper, Keryk",28.3,Emporia State MK
+2,Neg,"Knight, Gabby",W,"Monteith, Squid",29.2,Emporia State MK
+2,Neg,"Knight, Gabby",W,"Kuiper, Keryk",29.3,Emporia State MK
+3,Neg,"Garcia-Lugo, Juan",W,"Monteith, Squid",28.8,Emporia State MK
+3,Neg,"Garcia-Lugo, Juan",W,"Kuiper, Keryk",28.9,Emporia State MK
+4,Aff,"Beier, Ian",W,"Monteith, Squid",28.8,Emporia State MK
+4,Aff,"Beier, Ian",W,"Kuiper, Keryk",29,Emporia State MK
+5,Neg,"Johnson, Lauren",W,"Monteith, Squid",29,Emporia State MK
+5,Neg,"Johnson, Lauren",W,"Kuiper, Keryk",29.1,Emporia State MK
+6,Aff,"McCullough, Hunter",L,"Monteith, Squid",28.4,Emporia State MK
+6,Aff,"McCullough, Hunter",L,"Kuiper, Keryk",28.5,Emporia State MK
+7,Neg,"Kilpatrick, David",W,"Monteith, Squid",28.5,Emporia State MK
+7,Neg,"Kilpatrick, David",W,"Kuiper, Keryk",28.9,Emporia State MK
+8,Aff,"Thomas, Michelle",L,"Monteith, Squid",28.4,Emporia State MK
+8,Aff,"Thomas, Michelle",L,"Kuiper, Keryk",28.3,Emporia State MK
+1,Aff,"Queirolo, Kat",W,"Curry, Izzy",28.5,Missouri - Kansas City CS
+1,Aff,"Queirolo, Kat",W,"Schartz, Brennan",28.6,Missouri - Kansas City CS
+2,Neg,"Baker, Will",W,"Curry, Izzy",28.9,Missouri - Kansas City CS
+2,Neg,"Baker, Will",W,"Schartz, Brennan",28.8,Missouri - Kansas City CS
+3,Neg,"Weddington, Tommye",W,"Curry, Izzy",28.5,Missouri - Kansas City CS
+3,Neg,"Weddington, Tommye",W,"Schartz, Brennan",28.3,Missouri - Kansas City CS
+4,Aff,"Snelling, Tyler",L,"Curry, Izzy",28.7,Missouri - Kansas City CS
+4,Aff,"Snelling, Tyler",L,"Schartz, Brennan",28.8,Missouri - Kansas City CS
+5,Neg,"Stout, Daniel",W,"Curry, Izzy",28.6,Missouri - Kansas City CS
+5,Neg,"Stout, Daniel",W,"Schartz, Brennan",28.9,Missouri - Kansas City CS
+6,Aff,"Symonds, Adam",L,"Curry, Izzy",28.3,Missouri - Kansas City CS
+6,Aff,"Symonds, Adam",L,"Schartz, Brennan",28.4,Missouri - Kansas City CS
+7,Aff,"Poapst, Jackie",W,"Curry, Izzy",28,Missouri - Kansas City CS
+7,Aff,"Poapst, Jackie",W,"Schartz, Brennan",28.1,Missouri - Kansas City CS
+1,Neg,"Hampton, Jyleesa",W,"Bathily, Aida",28.4,Wake Forest BM
+1,Neg,"Hampton, Jyleesa",W,"Menon, Krishna",28.6,Wake Forest BM
+2,Aff,"Thomas, Michelle",W,"Bathily, Aida",30,Wake Forest BM
+2,Aff,"Thomas, Michelle",W,"Menon, Krishna",29.9,Wake Forest BM
+3,Aff,"Baker, Will",W,"Bathily, Aida",28.6,Wake Forest BM
+3,Aff,"Baker, Will",W,"Menon, Krishna",28.7,Wake Forest BM
+4,Neg,"Kilpatrick, David",W,"Bathily, Aida",28.4,Wake Forest BM
+4,Neg,"Kilpatrick, David",W,"Menon, Krishna",28.5,Wake Forest BM
+5,Aff,"Gillespie, John",L,"Bathily, Aida",27,Wake Forest BM
+5,Aff,"Gillespie, John",L,"Menon, Krishna",28,Wake Forest BM
+6,Neg,"Leonardi, Chris",W,"Bathily, Aida",29,Wake Forest BM
+6,Neg,"Leonardi, Chris",W,"Menon, Krishna",29.1,Wake Forest BM
+7,Aff,"Poapst, Jackie",L,"Bathily, Aida",29.4,Wake Forest BM
+7,Aff,"Poapst, Jackie",L,"Menon, Krishna",29.3,Wake Forest BM
+8,Neg,"Stout, Daniel",L,"Bathily, Aida",29.4,Wake Forest BM
+8,Neg,"Stout, Daniel",L,"Menon, Krishna",29.6,Wake Forest BM
+1,Neg,"Johnson, Willie",W,"Sen, Pia",28.9,Texas SW
+1,Neg,"Johnson, Willie",W,"Watts, Zachary",27.9,Texas SW
+2,Aff,"Keenan, V",W,"Sen, Pia",28.4,Texas SW
+2,Aff,"Keenan, V",W,"Watts, Zachary",28.6,Texas SW
+3,Aff,"Baez, Kristiana",L,"Sen, Pia",28.4,Texas SW
+3,Aff,"Baez, Kristiana",L,"Watts, Zachary",28.3,Texas SW
+4,Neg,"Weddington, Tommye",L,"Sen, Pia",28.1,Texas SW
+4,Neg,"Weddington, Tommye",L,"Watts, Zachary",28.2,Texas SW
+5,Neg,"Kennedy, Sean",L,"Sen, Pia",28.3,Texas SW
+5,Neg,"Kennedy, Sean",L,"Watts, Zachary",28.4,Texas SW
+6,Aff,"Schauer, Courtney",W,"Sen, Pia",29,Texas SW
+6,Aff,"Schauer, Courtney",W,"Watts, Zachary",29.1,Texas SW
+7,Neg,"Baker, Will",W,"Sen, Pia",28.9,Texas SW
+7,Neg,"Baker, Will",W,"Watts, Zachary",29,Texas SW
+8,Aff,"Rubaie, Brian",W,"Sen, Pia",28.9,Texas SW
+8,Aff,"Rubaie, Brian",W,"Watts, Zachary",28.8,Texas SW
+1,Aff,"Holley, Sierra",W,"Morales, Bianca",30,Weber State MP
+1,Aff,"Holley, Sierra",W,"Phelps, Hannah",29,Weber State MP
+2,Neg,"Leonardi, Chris",L,"Morales, Bianca",28.5,Weber State MP
+2,Neg,"Leonardi, Chris",L,"Phelps, Hannah",28.4,Weber State MP
+3,Neg,"Schauer, Courtney",W,"Morales, Bianca",29.4,Weber State MP
+3,Neg,"Schauer, Courtney",W,"Phelps, Hannah",28.9,Weber State MP
+4,Aff,"Moore, Matthew",W,"Morales, Bianca",28.9,Weber State MP
+4,Aff,"Moore, Matthew",W,"Phelps, Hannah",28.6,Weber State MP
+5,Neg,"Johnson, Willie",L,"Morales, Bianca",30,Weber State MP
+5,Neg,"Johnson, Willie",L,"Phelps, Hannah",29,Weber State MP
+6,Aff,"Barquin, Joseph",L,"Morales, Bianca",29.3,Weber State MP
+6,Aff,"Barquin, Joseph",L,"Phelps, Hannah",29.2,Weber State MP
+7,Aff,"Mariscal, Leslie",W,"Morales, Bianca",30,Weber State MP
+7,Aff,"Mariscal, Leslie",W,"Phelps, Hannah",28,Weber State MP
+8,Neg,"Joseph, Anthony",W,"Morales, Bianca",30,Weber State MP
+8,Neg,"Joseph, Anthony",W,"Phelps, Hannah",28.8,Weber State MP
+1,Aff,"Dabney, Amanda",L,"Mendelson, Emily",28.9,Binghamton MeDe
+1,Aff,"Dabney, Amanda",L,"De Los Santos Orisley, (Riz)",28.8,Binghamton MeDe
+2,Neg,"Snelling, Tyler",W,"Mendelson, Emily",29.5,Binghamton MeDe
+2,Neg,"Snelling, Tyler",W,"De Los Santos Orisley, (Riz)",29.6,Binghamton MeDe
+3,Aff,"Cerja, Cecilia",W,"Mendelson, Emily",30,Binghamton MeDe
+3,Aff,"Cerja, Cecilia",W,"De Los Santos Orisley, (Riz)",29.9,Binghamton MeDe
+4,Neg,"Byram, Timothy",W,"Mendelson, Emily",28.5,Binghamton MeDe
+4,Neg,"Byram, Timothy",W,"De Los Santos Orisley, (Riz)",28.4,Binghamton MeDe
+5,Neg,"Gonzalez, Gabriela",L,"Mendelson, Emily",28.8,Binghamton MeDe
+5,Neg,"Gonzalez, Gabriela",L,"De Los Santos Orisley, (Riz)",29,Binghamton MeDe
+6,Aff,"Lipton, Adam",W,"Mendelson, Emily",29,Binghamton MeDe
+6,Aff,"Lipton, Adam",W,"De Los Santos Orisley, (Riz)",28.8,Binghamton MeDe
+7,Neg,"Yahom, Jefferson",W,"Mendelson, Emily",28.9,Binghamton MeDe
+7,Neg,"Yahom, Jefferson",W,"De Los Santos Orisley, (Riz)",29,Binghamton MeDe
+8,Aff,"Evans, Ignacio",W,"Mendelson, Emily",29.1,Binghamton MeDe
+8,Aff,"Evans, Ignacio",W,"De Los Santos Orisley, (Riz)",29.7,Binghamton MeDe
+1,Neg,"Kilpatrick, David",L,"Dille, Zane",28.4,Southern California DK
+1,Neg,"Kilpatrick, David",L,"Kuffour, Julian",28.9,Southern California DK
+2,Aff,"Lee, George",W,"Dille, Zane",29,Southern California DK
+2,Aff,"Lee, George",W,"Kuffour, Julian",29.1,Southern California DK
+3,Neg,"Wash, Ryan",W,"Dille, Zane",29,Southern California DK
+3,Neg,"Wash, Ryan",W,"Kuffour, Julian",29.5,Southern California DK
+4,Aff,"Cerja, Cecilia",W,"Dille, Zane",29.1,Southern California DK
+4,Aff,"Cerja, Cecilia",W,"Kuffour, Julian",29.8,Southern California DK
+5,Aff,"Clarke, Kevin",W,"Dille, Zane",28.8,Southern California DK
+5,Aff,"Clarke, Kevin",W,"Kuffour, Julian",29.1,Southern California DK
+6,Neg,"Martin, Shauntrice",W,"Dille, Zane",29,Southern California DK
+6,Neg,"Martin, Shauntrice",W,"Kuffour, Julian",29.8,Southern California DK
+7,Aff,"Bunas, Shae",L,"Dille, Zane",28.9,Southern California DK
+7,Aff,"Bunas, Shae",L,"Kuffour, Julian",29,Southern California DK
+8,Neg,"Evans, Ignacio",L,"Dille, Zane",29,Southern California DK
+8,Neg,"Evans, Ignacio",L,"Kuffour, Julian",28.8,Southern California DK
+1,Aff,"Murphy, Devane",W,"Baez, Alex",29.7,UT Dallas BG
+1,Aff,"Murphy, Devane",W,"Gilbert, Evan",29.9,UT Dallas BG
+2,Neg,"Stout, Daniel",W,"Baez, Alex",28.5,UT Dallas BG
+2,Neg,"Stout, Daniel",W,"Gilbert, Evan",28.6,UT Dallas BG
+3,Neg,"Joseph, Anthony",L,"Baez, Alex",28.9,UT Dallas BG
+3,Neg,"Joseph, Anthony",L,"Gilbert, Evan",29,UT Dallas BG
+4,Aff,"Thomas, Troi",W,"Baez, Alex",29.1,UT Dallas BG
+4,Aff,"Thomas, Troi",W,"Gilbert, Evan",29,UT Dallas BG
+5,Aff,"Byram, Timothy",L,"Baez, Alex",28.3,UT Dallas BG
+5,Aff,"Byram, Timothy",L,"Gilbert, Evan",28.2,UT Dallas BG
+6,Neg,"Stidham, Jasmine",W,"Baez, Alex",28.7,UT Dallas BG
+6,Neg,"Stidham, Jasmine",W,"Gilbert, Evan",29.1,UT Dallas BG
+7,Aff,"Yahom, Jefferson",L,"Baez, Alex",28.7,UT Dallas BG
+7,Aff,"Yahom, Jefferson",L,"Gilbert, Evan",28.8,UT Dallas BG
+8,Neg,"Jallits, Matthew",W,"Baez, Alex",28.6,UT Dallas BG
+8,Neg,"Jallits, Matthew",W,"Gilbert, Evan",28.7,UT Dallas BG
+1,Aff,"Petit, Louie",W,"Hauschildt, Michael",28.7,Missouri - Kansas City HD
+1,Aff,"Petit, Louie",W,"Davis, Nathan",28.6,Missouri - Kansas City HD
+2,Neg,"Buttgereit, Thomas",W,"Hauschildt, Michael",29.1,Missouri - Kansas City HD
+2,Neg,"Buttgereit, Thomas",W,"Davis, Nathan",28.9,Missouri - Kansas City HD
+3,Aff,"Thach, Lee",W,"Hauschildt, Michael",29,Missouri - Kansas City HD
+3,Aff,"Thach, Lee",W,"Davis, Nathan",29.1,Missouri - Kansas City HD
+4,Neg,"Knight, Gabby",W,"Hauschildt, Michael",29.4,Missouri - Kansas City HD
+4,Neg,"Knight, Gabby",W,"Davis, Nathan",29.3,Missouri - Kansas City HD
+5,Aff,"Martin, Shauntrice",W,"Hauschildt, Michael",28.1,Missouri - Kansas City HD
+5,Aff,"Martin, Shauntrice",W,"Davis, Nathan",28.2,Missouri - Kansas City HD
+6,Neg,"Symonds, Adam",L,"Hauschildt, Michael",28.8,Missouri - Kansas City HD
+6,Neg,"Symonds, Adam",L,"Davis, Nathan",28.7,Missouri - Kansas City HD
+7,Neg,"Glass, Rob",L,"Hauschildt, Michael",28.6,Missouri - Kansas City HD
+7,Neg,"Glass, Rob",L,"Davis, Nathan",28.7,Missouri - Kansas City HD
+8,Aff,"Mills, Jordan",W,"Hauschildt, Michael",29.2,Missouri - Kansas City HD
+8,Aff,"Mills, Jordan",W,"Davis, Nathan",29.3,Missouri - Kansas City HD
+1,Aff,"Poapst, Jackie",W,"Watson, Solomon",28.7,UT Dallas WM
+1,Aff,"Poapst, Jackie",W,"Mccarty, Max",28.6,UT Dallas WM
+2,Neg,"Montee, Andy",W,"Watson, Solomon",28.7,UT Dallas WM
+2,Neg,"Montee, Andy",W,"Mccarty, Max",28.8,UT Dallas WM
+3,Aff,"Glass, Rob",L,"Watson, Solomon",28.6,UT Dallas WM
+3,Aff,"Glass, Rob",L,"Mccarty, Max",28.5,UT Dallas WM
+4,Neg,"Moore, Matthew",L,"Watson, Solomon",28.8,UT Dallas WM
+4,Neg,"Moore, Matthew",L,"Mccarty, Max",28.7,UT Dallas WM
+5,Neg,"Garcia-Lugo, Juan",W,"Watson, Solomon",28.9,UT Dallas WM
+5,Neg,"Garcia-Lugo, Juan",W,"Mccarty, Max",28.8,UT Dallas WM
+6,Aff,"Thomas, Erika",W,"Watson, Solomon",28.9,UT Dallas WM
+6,Aff,"Thomas, Erika",W,"Mccarty, Max",28.8,UT Dallas WM
+7,Neg,"Hiland, Al",L,"Watson, Solomon",29.4,UT Dallas WM
+7,Neg,"Hiland, Al",L,"Mccarty, Max",28.9,UT Dallas WM
+8,Aff,"Revelins, Armands",W,"Watson, Solomon",28.6,UT Dallas WM
+8,Aff,"Revelins, Armands",W,"Mccarty, Max",28.4,UT Dallas WM
+1,Neg,"Weddington, Tommye",L,"Benavides, Jennifer",28.2,Wake Forest BC
+1,Neg,"Weddington, Tommye",L,"Cortez-Perez, Maria",28.1,Wake Forest BC
+2,Aff,"Thomas, Troi",L,"Benavides, Jennifer",28.6,Wake Forest BC
+2,Aff,"Thomas, Troi",L,"Cortez-Perez, Maria",28.7,Wake Forest BC
+3,Neg,"Kennedy, Sean",W,"Benavides, Jennifer",28.2,Wake Forest BC
+3,Neg,"Kennedy, Sean",W,"Cortez-Perez, Maria",28.4,Wake Forest BC
+4,Aff,"Stout, Daniel",W,"Benavides, Jennifer",28,Wake Forest BC
+4,Aff,"Stout, Daniel",W,"Cortez-Perez, Maria",27.8,Wake Forest BC
+5,Aff,"Yahom, Jefferson",W,"Benavides, Jennifer",29.3,Wake Forest BC
+5,Aff,"Yahom, Jefferson",W,"Cortez-Perez, Maria",29.4,Wake Forest BC
+6,Neg,"Astacio, Carlos",L,"Benavides, Jennifer",28.5,Wake Forest BC
+6,Neg,"Astacio, Carlos",L,"Cortez-Perez, Maria",28.4,Wake Forest BC
+7,Aff,"Knight, Gabby",L,"Benavides, Jennifer",28.7,Wake Forest BC
+7,Aff,"Knight, Gabby",L,"Cortez-Perez, Maria",28.8,Wake Forest BC
+8,Neg,"Swihart, Nikolas",W,"Benavides, Jennifer",29.3,Wake Forest BC
+8,Neg,"Swihart, Nikolas",W,"Cortez-Perez, Maria",29.1,Wake Forest BC
+1,Neg,"Fendley, Seth",L,"Chang, Darren",29,Cornell CD
+1,Neg,"Fendley, Seth",L,"Dahms, Lindsey",28.8,Cornell CD
+2,Aff,"Martin, Shauntrice",L,"Chang, Darren",27.9,Cornell CD
+2,Aff,"Martin, Shauntrice",L,"Dahms, Lindsey",27.8,Cornell CD
+3,Aff,"Dunn, Izak",W,"Chang, Darren",28.4,Cornell CD
+3,Aff,"Dunn, Izak",W,"Dahms, Lindsey",28.6,Cornell CD
+4,Neg,"Clarke, Kevin",W,"Chang, Darren",28.7,Cornell CD
+4,Neg,"Clarke, Kevin",W,"Dahms, Lindsey",29.1,Cornell CD
+5,Aff,"Kozak, Christopher",W,"Chang, Darren",29.1,Cornell CD
+5,Aff,"Kozak, Christopher",W,"Dahms, Lindsey",29.2,Cornell CD
+6,Neg,"Barquin, Joseph",W,"Chang, Darren",29.4,Cornell CD
+6,Neg,"Barquin, Joseph",W,"Dahms, Lindsey",29.5,Cornell CD
+7,Aff,"Moore, Matthew",L,"Chang, Darren",29,Cornell CD
+7,Aff,"Moore, Matthew",L,"Dahms, Lindsey",29.2,Cornell CD
+8,Neg,"Bajorek, Benton",W,"Chang, Darren",29.6,Cornell CD
+8,Neg,"Bajorek, Benton",W,"Dahms, Lindsey",29.7,Cornell CD
+1,Neg,"Taylor, James",W,"Richardson, Gabrielle",28.8,James Madison BR
+1,Neg,"Taylor, James",W,"Bellis, Alec",28,James Madison BR
+2,Aff,"Stidham, Jasmine",L,"Richardson, Gabrielle",29.1,James Madison BR
+2,Aff,"Stidham, Jasmine",L,"Bellis, Alec",28.8,James Madison BR
+3,Aff,"Thomas, Michelle",W,"Richardson, Gabrielle",29.1,James Madison BR
+3,Aff,"Thomas, Michelle",W,"Bellis, Alec",28.6,James Madison BR
+4,Neg,"Garner, Richard",L,"Richardson, Gabrielle",28.4,James Madison BR
+4,Neg,"Garner, Richard",L,"Bellis, Alec",27.9,James Madison BR
+5,Aff,"Moore, Matthew",L,"Richardson, Gabrielle",28.5,James Madison BR
+5,Aff,"Moore, Matthew",L,"Bellis, Alec",28.1,James Madison BR
+6,Neg,"Johnson, Lauren",W,"Richardson, Gabrielle",29.1,James Madison BR
+6,Neg,"Johnson, Lauren",W,"Bellis, Alec",28.6,James Madison BR
+7,Aff,"Joseph, Anthony",W,"Richardson, Gabrielle",29.4,James Madison BR
+7,Aff,"Joseph, Anthony",W,"Bellis, Alec",28.7,James Madison BR
+1,Neg,"Dailey, Colin",W,"Alvarez, Brenda",29,Kansas AS
+1,Neg,"Dailey, Colin",W,"Snow, Ryan",29.1,Kansas AS
+2,Aff,"Poapst, Jackie",W,"Alvarez, Brenda",28.5,Kansas AS
+2,Aff,"Poapst, Jackie",W,"Snow, Ryan",28.6,Kansas AS
+3,Neg,"Lloyd, Zhane",L,"Alvarez, Brenda",28.9,Kansas AS
+3,Neg,"Lloyd, Zhane",L,"Snow, Ryan",28.7,Kansas AS
+4,Aff,"Lipton, Adam",L,"Alvarez, Brenda",28.6,Kansas AS
+4,Aff,"Lipton, Adam",L,"Snow, Ryan",29,Kansas AS
+5,Neg,"Joseph, Anthony",W,"Alvarez, Brenda",29,Kansas AS
+5,Neg,"Joseph, Anthony",W,"Snow, Ryan",29.1,Kansas AS
+6,Aff,"Salcedo, Joel",L,"Alvarez, Brenda",29.1,Kansas AS
+6,Aff,"Salcedo, Joel",L,"Snow, Ryan",29.2,Kansas AS
+7,Aff,"Byram, Timothy",L,"Alvarez, Brenda",28.2,Kansas AS
+7,Aff,"Byram, Timothy",L,"Snow, Ryan",28.1,Kansas AS
+8,Neg,"Song, Grace",L,"Alvarez, Brenda",28.3,Kansas AS
+8,Neg,"Song, Grace",L,"Snow, Ryan",28.4,Kansas AS
+1,Neg,"Berger, Aron",W,"Butler, Azja",29.2,Kansas BD
+1,Neg,"Berger, Aron",W,"Delph, Kyndall",29.3,Kansas BD
+2,Aff,"Clarke, Kevin",W,"Butler, Azja",29.1,Kansas BD
+2,Aff,"Clarke, Kevin",W,"Delph, Kyndall",29,Kansas BD
+3,Aff,"Byram, Timothy",L,"Butler, Azja",29.5,Kansas BD
+3,Aff,"Byram, Timothy",L,"Delph, Kyndall",29.4,Kansas BD
+4,Neg,"Bunas, Shae",W,"Butler, Azja",29.1,Kansas BD
+4,Neg,"Bunas, Shae",W,"Delph, Kyndall",29.3,Kansas BD
+5,Neg,"Kilpatrick, David",W,"Butler, Azja",29.3,Kansas BD
+5,Neg,"Kilpatrick, David",W,"Delph, Kyndall",29.6,Kansas BD
+6,Aff,"Astacio, Carlos",W,"Butler, Azja",29.5,Kansas BD
+6,Aff,"Astacio, Carlos",W,"Delph, Kyndall",29.4,Kansas BD
+7,Neg,"Poapst, Jackie",W,"Butler, Azja",29.5,Kansas BD
+7,Neg,"Poapst, Jackie",W,"Delph, Kyndall",29.6,Kansas BD
+8,Aff,"Foley, Jordan",L,"Butler, Azja",29.5,Kansas BD
+8,Aff,"Foley, Jordan",L,"Delph, Kyndall",29.4,Kansas BD
+1,Aff,"Baez, Kristiana",W,"White, Vontrez",28.5,Cal State Fullerton WS
+1,Aff,"Baez, Kristiana",W,"Salgado, Isaiah",28.7,Cal State Fullerton WS
+2,Neg,"Evans, Ignacio",W,"White, Vontrez",28.8,Cal State Fullerton WS
+2,Neg,"Evans, Ignacio",W,"Salgado, Isaiah",28.6,Cal State Fullerton WS
+3,Aff,"Johnson, Lauren",L,"White, Vontrez",28.5,Cal State Fullerton WS
+3,Aff,"Johnson, Lauren",L,"Salgado, Isaiah",28.6,Cal State Fullerton WS
+4,Neg,"Foley, Jordan",L,"White, Vontrez",28.7,Cal State Fullerton WS
+4,Neg,"Foley, Jordan",L,"Salgado, Isaiah",28.6,Cal State Fullerton WS
+5,Neg,"Lee, George",W,"White, Vontrez",29.2,Cal State Fullerton WS
+5,Neg,"Lee, George",W,"Salgado, Isaiah",29.1,Cal State Fullerton WS
+6,Aff,"Taylor, James",L,"White, Vontrez",28.5,Cal State Fullerton WS
+6,Aff,"Taylor, James",L,"Salgado, Isaiah",28.6,Cal State Fullerton WS
+7,Aff,"Denney, Ashley",W,"White, Vontrez",28.5,Cal State Fullerton WS
+7,Aff,"Denney, Ashley",W,"Salgado, Isaiah",28.6,Cal State Fullerton WS
+8,Neg,"Snelling, Tyler",L,"White, Vontrez",28.9,Cal State Fullerton WS
+8,Neg,"Snelling, Tyler",L,"Salgado, Isaiah",28.7,Cal State Fullerton WS
+1,Aff,"Jallits, Matthew",L,"Bertagnolli, Amari",28.5,Wyoming BP
+1,Aff,"Jallits, Matthew",L,"Porterfield, Jaxon",28.3,Wyoming BP
+2,Neg,"Bunas, Shae",W,"Bertagnolli, Amari",28.7,Wyoming BP
+2,Neg,"Bunas, Shae",W,"Porterfield, Jaxon",28.5,Wyoming BP
+3,Aff,"Bajorek, Benton",L,"Bertagnolli, Amari",28.8,Wyoming BP
+3,Aff,"Bajorek, Benton",L,"Porterfield, Jaxon",28.9,Wyoming BP
+4,Neg,"Swihart, Nikolas",L,"Bertagnolli, Amari",28.8,Wyoming BP
+4,Neg,"Swihart, Nikolas",L,"Porterfield, Jaxon",28.9,Wyoming BP
+5,Aff,"Song, Grace",W,"Bertagnolli, Amari",28.7,Wyoming BP
+5,Aff,"Song, Grace",W,"Porterfield, Jaxon",28.6,Wyoming BP
+6,Neg,"Mills, Jordan",L,"Bertagnolli, Amari",29.3,Wyoming BP
+6,Neg,"Mills, Jordan",L,"Porterfield, Jaxon",28.5,Wyoming BP
+7,Aff,"Dabney, Amanda",W,"Bertagnolli, Amari",27.9,Wyoming BP
+7,Aff,"Dabney, Amanda",W,"Porterfield, Jaxon",27.8,Wyoming BP
+8,Neg,"Thompson, Lindsay",L,"Bertagnolli, Amari",28.4,Wyoming BP
+8,Neg,"Thompson, Lindsay",L,"Porterfield, Jaxon",28.7,Wyoming BP
+1,Aff,"Astacio, Carlos",L,"Baker-Heans, Anna",27.5,NewSchool BW
+1,Aff,"Astacio, Carlos",L,"Wilson, Maya",27.6,NewSchool BW
+2,Neg,"Dabney, Amanda",L,"Baker-Heans, Anna",28.5,NewSchool BW
+2,Neg,"Dabney, Amanda",L,"Wilson, Maya",28.6,NewSchool BW
+3,Aff,"Dailey, Colin",W,"Baker-Heans, Anna",28,NewSchool BW
+3,Aff,"Dailey, Colin",W,"Wilson, Maya",27.9,NewSchool BW
+4,Neg,"Thomas, Michelle",L,"Baker-Heans, Anna",28.2,NewSchool BW
+4,Neg,"Thomas, Michelle",L,"Wilson, Maya",28.3,NewSchool BW
+5,Neg,"Denney, Ashley",L,"Baker-Heans, Anna",28.6,NewSchool BW
+5,Neg,"Denney, Ashley",L,"Wilson, Maya",28.7,NewSchool BW
+6,Aff,"Swanson, Matthew",W,"Baker-Heans, Anna",29.5,NewSchool BW
+6,Aff,"Swanson, Matthew",W,"Wilson, Maya",29.6,NewSchool BW
+7,Aff,"Fendley, Seth",L,"Baker-Heans, Anna",28.9,NewSchool BW
+7,Aff,"Fendley, Seth",L,"Wilson, Maya",27.9,NewSchool BW
+8,Neg,"Glass, Rob",L,"Baker-Heans, Anna",27.4,NewSchool BW
+8,Neg,"Glass, Rob",L,"Wilson, Maya",27.7,NewSchool BW
+1,Aff,"Lloyd, Zhane",W,"Juarez, Nicolas",29.5,Oklahoma JS
+1,Aff,"Lloyd, Zhane",W,"Smith, Jacob",29.2,Oklahoma JS
+2,Neg,"Garcia-Lugo, Juan",W,"Juarez, Nicolas",29.4,Oklahoma JS
+2,Neg,"Garcia-Lugo, Juan",W,"Smith, Jacob",29.3,Oklahoma JS
+3,Neg,"Snelling, Tyler",W,"Juarez, Nicolas",28.9,Oklahoma JS
+3,Neg,"Snelling, Tyler",W,"Smith, Jacob",29,Oklahoma JS
+4,Aff,"Joseph, Anthony",W,"Juarez, Nicolas",29.2,Oklahoma JS
+4,Aff,"Joseph, Anthony",W,"Smith, Jacob",29.1,Oklahoma JS
+5,Neg,"Martin, Shauntrice",L,"Juarez, Nicolas",28.3,Oklahoma JS
+5,Neg,"Martin, Shauntrice",L,"Smith, Jacob",29,Oklahoma JS
+6,Aff,"Cerja, Cecilia",W,"Juarez, Nicolas",29.5,Oklahoma JS
+6,Aff,"Cerja, Cecilia",W,"Smith, Jacob",29.7,Oklahoma JS
+7,Aff,"Rajan, Romin",L,"Juarez, Nicolas",29,Oklahoma JS
+7,Aff,"Rajan, Romin",L,"Smith, Jacob",29.2,Oklahoma JS
+8,Neg,"Leonardi, Chris",W,"Juarez, Nicolas",29.2,Oklahoma JS
+8,Neg,"Leonardi, Chris",W,"Smith, Jacob",29.3,Oklahoma JS
+1,Neg,"Johnson, Lauren",W,"Luciani, Lauren",28.4,Cornell LT
+1,Neg,"Johnson, Lauren",W,"Tilmes, Nicholas",28.5,Cornell LT
+2,Aff,"Buttgereit, Thomas",L,"Luciani, Lauren",29,Cornell LT
+2,Aff,"Buttgereit, Thomas",L,"Tilmes, Nicholas",28.8,Cornell LT
+3,Aff,"Yahom, Jefferson",W,"Luciani, Lauren",28.8,Cornell LT
+3,Aff,"Yahom, Jefferson",W,"Tilmes, Nicholas",28.7,Cornell LT
+4,Neg,"Queirolo, Kat",W,"Luciani, Lauren",29,Cornell LT
+4,Neg,"Queirolo, Kat",W,"Tilmes, Nicholas",29.1,Cornell LT
+5,Neg,"Clarke, Kevin",L,"Luciani, Lauren",28.9,Cornell LT
+5,Neg,"Clarke, Kevin",L,"Tilmes, Nicholas",29,Cornell LT
+6,Aff,"Kilpatrick, David",W,"Luciani, Lauren",28.9,Cornell LT
+6,Aff,"Kilpatrick, David",W,"Tilmes, Nicholas",28.8,Cornell LT
+7,Neg,"Godbey, Samantha",W,"Luciani, Lauren",29.3,Cornell LT
+7,Neg,"Godbey, Samantha",W,"Tilmes, Nicholas",29.4,Cornell LT
+8,Aff,"Leonardi, Chris",L,"Luciani, Lauren",28.9,Cornell LT
+8,Aff,"Leonardi, Chris",L,"Tilmes, Nicholas",28.8,Cornell LT
+1,Aff,"Cerja, Cecilia",W,"Benthall, Jahne",29.5,Louisville BY
+1,Aff,"Cerja, Cecilia",W,"Yeargin, Deontrey",29.7,Louisville BY
+2,Neg,"Imes, Josh",W,"Benthall, Jahne",29,Louisville BY
+2,Neg,"Imes, Josh",W,"Yeargin, Deontrey",29.1,Louisville BY
+3,Neg,"Byram, Timothy",W,"Benthall, Jahne",29.3,Louisville BY
+3,Neg,"Byram, Timothy",W,"Yeargin, Deontrey",29.6,Louisville BY
+4,Aff,"Glass, Rob",W,"Benthall, Jahne",29.8,Louisville BY
+4,Aff,"Glass, Rob",W,"Yeargin, Deontrey",30,Louisville BY
+5,Neg,"Gillespie, John",W,"Benthall, Jahne",29,Louisville BY
+5,Neg,"Gillespie, John",W,"Yeargin, Deontrey",29.2,Louisville BY
+6,Aff,"Gonzalez, Gabriela",L,"Benthall, Jahne",28.9,Louisville BY
+6,Aff,"Gonzalez, Gabriela",L,"Yeargin, Deontrey",29,Louisville BY
+7,Aff,"Reid-Brinkley, Shanara",W,"Benthall, Jahne",28.7,Louisville BY
+7,Aff,"Reid-Brinkley, Shanara",W,"Yeargin, Deontrey",29.2,Louisville BY
+8,Neg,"Ortiz, Kate",W,"Benthall, Jahne",29.9,Louisville BY
+8,Neg,"Ortiz, Kate",W,"Yeargin, Deontrey",30,Louisville BY
+1,Aff,"Yahom, Jefferson",W,"Yan, Jefferey",29.7,Binghamton YA
+1,Aff,"Yahom, Jefferson",W,"Allan, James",29.6,Binghamton YA
+2,Neg,"Foley, Jordan",W,"Yan, Jefferey",28.9,Binghamton YA
+2,Neg,"Foley, Jordan",W,"Allan, James",29.2,Binghamton YA
+3,Aff,"Jallits, Matthew",W,"Yan, Jefferey",29,Binghamton YA
+3,Aff,"Jallits, Matthew",W,"Allan, James",28.9,Binghamton YA
+4,Neg,"Snelling, Tyler",W,"Yan, Jefferey",28.9,Binghamton YA
+4,Neg,"Snelling, Tyler",W,"Allan, James",29.1,Binghamton YA
+5,Neg,"Baker, Will",W,"Yan, Jefferey",29.1,Binghamton YA
+5,Neg,"Baker, Will",W,"Allan, James",29.4,Binghamton YA
+6,Aff,"Symonds, Adam",W,"Yan, Jefferey",29,Binghamton YA
+6,Aff,"Symonds, Adam",W,"Allan, James",28.9,Binghamton YA
+7,Neg,"Szczechowski, Erin",L,"Yan, Jefferey",29.2,Binghamton YA
+7,Neg,"Szczechowski, Erin",L,"Allan, James",29.1,Binghamton YA
+8,Aff,"Murphy, Devane",W,"Yan, Jefferey",29.4,Binghamton YA
+8,Aff,"Murphy, Devane",W,"Allan, James",29.3,Binghamton YA
+1,Aff,"Denney, Ashley",W,"Sims, Niko",29,Emporia State SW
+1,Aff,"Denney, Ashley",W,"Warfield, Kalese",29.2,Emporia State SW
+2,Neg,"Shaheed, Aliyah",W,"Sims, Niko",29,Emporia State SW
+2,Neg,"Shaheed, Aliyah",W,"Warfield, Kalese",29.1,Emporia State SW
+3,Neg,"Stout, Daniel",W,"Sims, Niko",28.7,Emporia State SW
+3,Neg,"Stout, Daniel",W,"Warfield, Kalese",29.8,Emporia State SW
+4,Aff,"Thach, Lee",L,"Sims, Niko",29.5,Emporia State SW
+4,Aff,"Thach, Lee",L,"Warfield, Kalese",28.7,Emporia State SW
+5,Neg,"Hampton, Jyleesa",W,"Sims, Niko",28.8,Emporia State SW
+5,Neg,"Hampton, Jyleesa",W,"Warfield, Kalese",29,Emporia State SW
+6,Aff,"Baker, Will",W,"Sims, Niko",29.1,Emporia State SW
+6,Aff,"Baker, Will",W,"Warfield, Kalese",29.4,Emporia State SW
+7,Aff,"Glass, Rob",W,"Sims, Niko",29.1,Emporia State SW
+7,Aff,"Glass, Rob",W,"Warfield, Kalese",29.2,Emporia State SW
+8,Neg,"Murphy, Devane",L,"Sims, Niko",29,Emporia State SW
+8,Neg,"Murphy, Devane",L,"Warfield, Kalese",29.1,Emporia State SW
+1,Aff,"Stout, Daniel",W,"Willett H, Dylan",29.6,Missouri - Kansas City WM
+1,Aff,"Stout, Daniel",W,"Mitchell, Parker",29.1,Missouri - Kansas City WM
+2,Neg,"Swanson, Matthew",W,"Willett H, Dylan",29.3,Missouri - Kansas City WM
+2,Neg,"Swanson, Matthew",W,"Mitchell, Parker",29.4,Missouri - Kansas City WM
+3,Neg,"Poapst, Jackie",L,"Willett H, Dylan",29.2,Missouri - Kansas City WM
+3,Neg,"Poapst, Jackie",L,"Mitchell, Parker",29.1,Missouri - Kansas City WM
+4,Aff,"Murphy, Devane",W,"Willett H, Dylan",29.6,Missouri - Kansas City WM
+4,Aff,"Murphy, Devane",W,"Mitchell, Parker",29.7,Missouri - Kansas City WM
+5,Aff,"Glass, Rob",W,"Willett H, Dylan",28.8,Missouri - Kansas City WM
+5,Aff,"Glass, Rob",W,"Mitchell, Parker",28.9,Missouri - Kansas City WM
+6,Neg,"Bunas, Shae",W,"Willett H, Dylan",29.1,Missouri - Kansas City WM
+6,Neg,"Bunas, Shae",W,"Mitchell, Parker",29,Missouri - Kansas City WM
+7,Neg,"Reid-Brinkley, Shanara",L,"Willett H, Dylan",28.9,Missouri - Kansas City WM
+7,Neg,"Reid-Brinkley, Shanara",L,"Mitchell, Parker",28.8,Missouri - Kansas City WM
+8,Aff,"Dailey, Colin",W,"Willett H, Dylan",29.2,Missouri - Kansas City WM
+8,Aff,"Dailey, Colin",W,"Mitchell, Parker",29.4,Missouri - Kansas City WM
+1,Neg,"Stidham, Jasmine",L,"Yan, Ashley",28.9,Binghamton YP
+1,Neg,"Stidham, Jasmine",L,"Pan Jia, (Anita)",28.8,Binghamton YP
+2,Aff,"Astacio, Carlos",L,"Yan, Ashley",29.1,Binghamton YP
+2,Aff,"Astacio, Carlos",L,"Pan Jia, (Anita)",29.2,Binghamton YP
+3,Aff,"Vitolo-Haddad, CV",W,"Yan, Ashley",28.8,Binghamton YP
+3,Aff,"Vitolo-Haddad, CV",W,"Pan Jia, (Anita)",28.7,Binghamton YP
+4,Neg,"Larsen, Beau",W,"Yan, Ashley",28.6,Binghamton YP
+4,Neg,"Larsen, Beau",W,"Pan Jia, (Anita)",28.4,Binghamton YP
+5,Aff,"Lloyd, Zhane",W,"Yan, Ashley",29.1,Binghamton YP
+5,Aff,"Lloyd, Zhane",W,"Pan Jia, (Anita)",28.9,Binghamton YP
+6,Neg,"Cerja, Cecilia",L,"Yan, Ashley",28.9,Binghamton YP
+6,Neg,"Cerja, Cecilia",L,"Pan Jia, (Anita)",29,Binghamton YP
+7,Neg,"Garcia-Lugo, Juan",L,"Yan, Ashley",28.6,Binghamton YP
+7,Neg,"Garcia-Lugo, Juan",L,"Pan Jia, (Anita)",28.8,Binghamton YP
+8,Aff,"Lipton, Adam",W,"Yan, Ashley",28.8,Binghamton YP
+8,Aff,"Lipton, Adam",W,"Pan Jia, (Anita)",29,Binghamton YP
+1,Neg,"Lipton, Adam",L,"Pokorny, Miranda",28.7,San Francisco State PI
+1,Neg,"Lipton, Adam",L,"Ibarra, David",28.5,San Francisco State PI
+2,Aff,"Gillespie, John",L,"Pokorny, Miranda",16,San Francisco State PI
+2,Aff,"Gillespie, John",L,"Ibarra, David",15,San Francisco State PI
+3,Neg,"Evans, Ignacio",L,"Pokorny, Miranda",28.7,San Francisco State PI
+3,Neg,"Evans, Ignacio",L,"Ibarra, David",28.6,San Francisco State PI
+4,Aff,"Dailey, Colin",L,"Pokorny, Miranda",28.6,San Francisco State PI
+4,Aff,"Dailey, Colin",L,"Ibarra, David",28.5,San Francisco State PI
+5,Aff,"Barquin, Joseph",L,"Pokorny, Miranda",28.6,San Francisco State PI
+5,Aff,"Barquin, Joseph",L,"Ibarra, David",28.7,San Francisco State PI
+6,Neg,"Swanson, Matthew",W,"Pokorny, Miranda",29.8,San Francisco State PI
+6,Neg,"Swanson, Matthew",W,"Ibarra, David",29.7,San Francisco State PI
+7,Aff,"Thomas, Erika",W,"Pokorny, Miranda",29.2,San Francisco State PI
+7,Aff,"Thomas, Erika",W,"Ibarra, David",29.1,San Francisco State PI
+1,Neg,"Glass, Rob",W,"Copeland, June",28.8,Army CM
+1,Neg,"Glass, Rob",W,"Minter, Isabella",29,Army CM
+2,Aff,"Evans, Ignacio",L,"Copeland, June",28.5,Army CM
+2,Aff,"Evans, Ignacio",L,"Minter, Isabella",28.9,Army CM
+3,Aff,"Murphy, Devane",L,"Copeland, June",29.7,Army CM
+3,Aff,"Murphy, Devane",L,"Minter, Isabella",29.8,Army CM
+4,Neg,"Bugrov, Max",W,"Copeland, June",28.7,Army CM
+4,Neg,"Bugrov, Max",W,"Minter, Isabella",29,Army CM
+5,Neg,"Moore, Matthew",W,"Copeland, June",28.6,Army CM
+5,Neg,"Moore, Matthew",W,"Minter, Isabella",29,Army CM
+6,Aff,"Garner, Richard",L,"Copeland, June",28.2,Army CM
+6,Aff,"Garner, Richard",L,"Minter, Isabella",28.7,Army CM
+7,Aff,"Rubaie, Brian",W,"Copeland, June",28.5,Army CM
+7,Aff,"Rubaie, Brian",W,"Minter, Isabella",29,Army CM
+8,Neg,"Weddington, Tommye",W,"Copeland, June",28.7,Army CM
+8,Neg,"Weddington, Tommye",W,"Minter, Isabella",28.8,Army CM
+1,Aff,"Taylor, James",L,"Frank, Madyson",28.3,Puget Sound FR
+1,Aff,"Taylor, James",L,"Ritner, Hannah",27.9,Puget Sound FR
+2,Neg,"Keenan, V",L,"Frank, Madyson",28,Puget Sound FR
+2,Neg,"Keenan, V",L,"Ritner, Hannah",28.2,Puget Sound FR
+3,Neg,"Song, Grace",W,"Frank, Madyson",28.8,Puget Sound FR
+3,Neg,"Song, Grace",W,"Ritner, Hannah",28.9,Puget Sound FR
+4,Aff,"Swihart, Nikolas",W,"Frank, Madyson",29.1,Puget Sound FR
+4,Aff,"Swihart, Nikolas",W,"Ritner, Hannah",29,Puget Sound FR
+5,Neg,"Knight, Gabby",L,"Frank, Madyson",28.8,Puget Sound FR
+5,Neg,"Knight, Gabby",L,"Ritner, Hannah",28.7,Puget Sound FR
+6,Aff,"Kelsie, Amber",W,"Frank, Madyson",28.5,Puget Sound FR
+6,Aff,"Kelsie, Amber",W,"Ritner, Hannah",28.4,Puget Sound FR
+7,Aff,"Weddington, Tommye",W,"Frank, Madyson",28.6,Puget Sound FR
+7,Aff,"Weddington, Tommye",W,"Ritner, Hannah",28.5,Puget Sound FR
+8,Neg,"Baez, Kristiana",L,"Frank, Madyson",28.4,Puget Sound FR
+8,Neg,"Baez, Kristiana",L,"Ritner, Hannah",28.5,Puget Sound FR
+1,Aff,"Thach, Lee",W,"Aaron, Brianna",29.6,Wake Forest AN
+1,Aff,"Thach, Lee",W,"Nys, Nate",29.3,Wake Forest AN
+2,Neg,"Gillespie, John",W,"Aaron, Brianna",30,Wake Forest AN
+2,Neg,"Gillespie, John",W,"Nys, Nate",29,Wake Forest AN
+3,Neg,"Johnson, Lauren",W,"Aaron, Brianna",28.7,Wake Forest AN
+3,Neg,"Johnson, Lauren",W,"Nys, Nate",28.8,Wake Forest AN
+4,Aff,"Stidham, Jasmine",L,"Aaron, Brianna",29.5,Wake Forest AN
+4,Aff,"Stidham, Jasmine",L,"Nys, Nate",29.2,Wake Forest AN
+5,Neg,"Leonardi, Chris",W,"Aaron, Brianna",29.1,Wake Forest AN
+5,Neg,"Leonardi, Chris",W,"Nys, Nate",29,Wake Forest AN
+6,Aff,"Imes, Josh",L,"Aaron, Brianna",29.1,Wake Forest AN
+6,Aff,"Imes, Josh",L,"Nys, Nate",29,Wake Forest AN
+7,Aff,"Stout, Daniel",W,"Aaron, Brianna",29.7,Wake Forest AN
+7,Aff,"Stout, Daniel",W,"Nys, Nate",29.2,Wake Forest AN
+8,Neg,"Thomas, Michelle",W,"Aaron, Brianna",29.1,Wake Forest AN
+8,Neg,"Thomas, Michelle",W,"Nys, Nate",28.6,Wake Forest AN
+1,Aff,"Kilpatrick, David",W,"Esquivel-Yglesias, Gabriel",28.6,Kansas EH
+1,Aff,"Kilpatrick, David",W,"Henry, Julia",28.7,Kansas EH
+2,Neg,"Joseph, Anthony",W,"Esquivel-Yglesias, Gabriel",29,Kansas EH
+2,Neg,"Joseph, Anthony",W,"Henry, Julia",29.5,Kansas EH
+3,Aff,"Waldinger, Patrick",L,"Esquivel-Yglesias, Gabriel",28.8,Kansas EH
+3,Aff,"Waldinger, Patrick",L,"Henry, Julia",28.7,Kansas EH
+4,Neg,"Rubaie, Brian",W,"Esquivel-Yglesias, Gabriel",29,Kansas EH
+4,Neg,"Rubaie, Brian",W,"Henry, Julia",29.2,Kansas EH
+5,Aff,"Johnson, Lauren",L,"Esquivel-Yglesias, Gabriel",28.9,Kansas EH
+5,Aff,"Johnson, Lauren",L,"Henry, Julia",28.8,Kansas EH
+6,Neg,"Jallits, Matthew",W,"Esquivel-Yglesias, Gabriel",28.6,Kansas EH
+6,Neg,"Jallits, Matthew",W,"Henry, Julia",28.8,Kansas EH
+7,Aff,"Hiland, Al",W,"Esquivel-Yglesias, Gabriel",29.3,Kansas EH
+7,Aff,"Hiland, Al",W,"Henry, Julia",29,Kansas EH
+8,Neg,"Dailey, Colin",L,"Esquivel-Yglesias, Gabriel",29.1,Kansas EH
+8,Neg,"Dailey, Colin",L,"Henry, Julia",29.3,Kansas EH
+1,Aff,"Song, Grace",W,"Jenkins, Brent",28.5,Southwestern JA
+1,Aff,"Song, Grace",W,"Avalos, Isabella",28.4,Southwestern JA
+2,Neg,"Bajorek, Benton",L,"Jenkins, Brent",27.9,Southwestern JA
+2,Neg,"Bajorek, Benton",L,"Avalos, Isabella",27.5,Southwestern JA
+3,Neg,"Bugrov, Max",L,"Jenkins, Brent",28.7,Southwestern JA
+3,Neg,"Bugrov, Max",L,"Avalos, Isabella",28.4,Southwestern JA
+4,Aff,"Rajan, Romin",L,"Jenkins, Brent",28.3,Southwestern JA
+4,Aff,"Rajan, Romin",L,"Avalos, Isabella",28.2,Southwestern JA
+5,Aff,"Revelins, Armands",L,"Jenkins, Brent",27.9,Southwestern JA
+5,Aff,"Revelins, Armands",L,"Avalos, Isabella",28.2,Southwestern JA
+6,Neg,"Yonter, Victoria",L,"Jenkins, Brent",27.9,Southwestern JA
+6,Neg,"Yonter, Victoria",L,"Avalos, Isabella",27.8,Southwestern JA
+7,Neg,"Beier, Ian",W,"Jenkins, Brent",28,Southwestern JA
+7,Neg,"Beier, Ian",W,"Avalos, Isabella",27.9,Southwestern JA
+8,Aff,"Swanson, Matthew",L,"Jenkins, Brent",27,Southwestern JA
+8,Aff,"Swanson, Matthew",L,"Avalos, Isabella",26.5,Southwestern JA
+1,Aff,"Garcia-Lugo, Juan",L,"Ujaama, Kalimah",28.5,Florida UJ
+1,Aff,"Garcia-Lugo, Juan",L,"Jean-Baptiste, Shandlie",28.6,Florida UJ
+2,Neg,"Lipton, Adam",L,"Ujaama, Kalimah",28.5,Florida UJ
+2,Neg,"Lipton, Adam",L,"Jean-Baptiste, Shandlie",28.3,Florida UJ
+3,Aff,"Shaheed, Aliyah",W,"Ujaama, Kalimah",29,Florida UJ
+3,Aff,"Shaheed, Aliyah",W,"Jean-Baptiste, Shandlie",29.1,Florida UJ
+4,Neg,"Cooper, Deven",W,"Ujaama, Kalimah",28.4,Florida UJ
+4,Neg,"Cooper, Deven",W,"Jean-Baptiste, Shandlie",28.3,Florida UJ
+5,Neg,"Larsen, Beau",W,"Ujaama, Kalimah",28.4,Florida UJ
+5,Neg,"Larsen, Beau",W,"Jean-Baptiste, Shandlie",28.5,Florida UJ
+6,Aff,"Jallits, Matthew",L,"Ujaama, Kalimah",28.5,Florida UJ
+6,Aff,"Jallits, Matthew",L,"Jean-Baptiste, Shandlie",28.7,Florida UJ
+7,Neg,"Queirolo, Kat",L,"Ujaama, Kalimah",28.7,Florida UJ
+7,Neg,"Queirolo, Kat",L,"Jean-Baptiste, Shandlie",28.6,Florida UJ
+8,Aff,"Thompson, Lindsay",W,"Ujaama, Kalimah",28.9,Florida UJ
+8,Aff,"Thompson, Lindsay",W,"Jean-Baptiste, Shandlie",29.1,Florida UJ
+1,Aff,"Reid-Brinkley, Shanara",W,"Kapur, Maya",27.4,NewSchool/Puget Sound KW
+1,Aff,"Reid-Brinkley, Shanara",W,"Willoughby, Natalie",28.9,NewSchool/Puget Sound KW
+2,Neg,"Holley, Sierra",L,"Kapur, Maya",29.2,NewSchool/Puget Sound KW
+2,Neg,"Holley, Sierra",L,"Willoughby, Natalie",29.8,NewSchool/Puget Sound KW
+3,Neg,"Thomas, Michelle",L,"Kapur, Maya",28.4,NewSchool/Puget Sound KW
+3,Neg,"Thomas, Michelle",L,"Willoughby, Natalie",28.2,NewSchool/Puget Sound KW
+4,Aff,"Green, LaToya",L,"Kapur, Maya",28.3,NewSchool/Puget Sound KW
+4,Aff,"Green, LaToya",L,"Willoughby, Natalie",28.5,NewSchool/Puget Sound KW
+5,Aff,"Shaheed, Aliyah",W,"Kapur, Maya",28.9,NewSchool/Puget Sound KW
+5,Aff,"Shaheed, Aliyah",W,"Willoughby, Natalie",29,NewSchool/Puget Sound KW
+6,Neg,"Johnson, Willie",L,"Kapur, Maya",27,NewSchool/Puget Sound KW
+6,Neg,"Johnson, Willie",L,"Willoughby, Natalie",28,NewSchool/Puget Sound KW
+7,Neg,"Gonzalez, Gabriela",L,"Kapur, Maya",28,NewSchool/Puget Sound KW
+7,Neg,"Gonzalez, Gabriela",L,"Willoughby, Natalie",28.3,NewSchool/Puget Sound KW
+8,Aff,"Kilpatrick, David",L,"Kapur, Maya",28,NewSchool/Puget Sound KW
+8,Aff,"Kilpatrick, David",L,"Willoughby, Natalie",28.1,NewSchool/Puget Sound KW
+1,Neg,"Szczechowski, Erin",L,"Chung, Jenna",28.1,NewSchool CH
+1,Neg,"Szczechowski, Erin",L,"Hossain, Riba",28.2,NewSchool CH
+2,Aff,"Dailey, Colin",W,"Chung, Jenna",28.3,NewSchool CH
+2,Aff,"Dailey, Colin",W,"Hossain, Riba",28.5,NewSchool CH
+3,Neg,"Hiland, Al",L,"Chung, Jenna",28,NewSchool CH
+3,Neg,"Hiland, Al",L,"Hossain, Riba",28.1,NewSchool CH
+4,Aff,"Cooper, Deven",L,"Chung, Jenna",28,NewSchool CH
+4,Aff,"Cooper, Deven",L,"Hossain, Riba",28.1,NewSchool CH
+5,Aff,"Dabney, Amanda",L,"Chung, Jenna",28.2,NewSchool CH
+5,Aff,"Dabney, Amanda",L,"Hossain, Riba",28.1,NewSchool CH
+6,Neg,"Rajan, Romin",W,"Chung, Jenna",28.4,NewSchool CH
+6,Neg,"Rajan, Romin",W,"Hossain, Riba",28.5,NewSchool CH
+7,Neg,"Bugrov, Max",L,"Chung, Jenna",28.5,NewSchool CH
+7,Neg,"Bugrov, Max",L,"Hossain, Riba",28.6,NewSchool CH
+8,Aff,"Yonter, Victoria",L,"Chung, Jenna",27.5,NewSchool CH
+8,Aff,"Yonter, Victoria",L,"Hossain, Riba",27.6,NewSchool CH
+1,Aff,"Larsen, Beau",L,"Gaskey, Shauna",28.2,UT San Antonio GM
+1,Aff,"Larsen, Beau",L,"Myers, Micheal",28.3,UT San Antonio GM
+2,Neg,"Cerja, Cecilia",L,"Gaskey, Shauna",28.2,UT San Antonio GM
+2,Neg,"Cerja, Cecilia",L,"Myers, Micheal",28.3,UT San Antonio GM
+3,Neg,"Vitolo-Haddad, CV",L,"Gaskey, Shauna",28.5,UT San Antonio GM
+3,Neg,"Vitolo-Haddad, CV",L,"Myers, Micheal",28.6,UT San Antonio GM
+4,Aff,"Dabney, Amanda",L,"Gaskey, Shauna",28.4,UT San Antonio GM
+4,Aff,"Dabney, Amanda",L,"Myers, Micheal",28.3,UT San Antonio GM
+5,Neg,"Szczechowski, Erin",W,"Gaskey, Shauna",28.6,UT San Antonio GM
+5,Neg,"Szczechowski, Erin",W,"Myers, Micheal",28.8,UT San Antonio GM
+6,Aff,"Holley, Sierra",W,"Gaskey, Shauna",29.6,UT San Antonio GM
+6,Aff,"Holley, Sierra",W,"Myers, Micheal",29.3,UT San Antonio GM
+7,Aff,"Gonzalez, Gabriela",W,"Gaskey, Shauna",28.2,UT San Antonio GM
+7,Aff,"Gonzalez, Gabriela",W,"Myers, Micheal",28.4,UT San Antonio GM
+8,Neg,"Lloyd, Zhane",L,"Gaskey, Shauna",29.1,UT San Antonio GM
+8,Neg,"Lloyd, Zhane",L,"Myers, Micheal",29,UT San Antonio GM
+1,Neg,"Song, Grace",L,"Lee, Agnes",28.2,Cal State Fullerton LA
+1,Neg,"Song, Grace",L,"Aquino, Ajay",28.1,Cal State Fullerton LA
+2,Aff,"Holley, Sierra",W,"Lee, Agnes",28.5,Cal State Fullerton LA
+2,Aff,"Holley, Sierra",W,"Aquino, Ajay",28.4,Cal State Fullerton LA
+3,Aff,"Larsen, Beau",L,"Lee, Agnes",28.5,Cal State Fullerton LA
+3,Aff,"Larsen, Beau",L,"Aquino, Ajay",27.8,Cal State Fullerton LA
+4,Neg,"Murphy, Devane",L,"Lee, Agnes",28.5,Cal State Fullerton LA
+4,Neg,"Murphy, Devane",L,"Aquino, Ajay",28.4,Cal State Fullerton LA
+5,Aff,"Berger, Aron",L,"Lee, Agnes",28.2,Cal State Fullerton LA
+5,Aff,"Berger, Aron",L,"Aquino, Ajay",28,Cal State Fullerton LA
+6,Neg,"Lloyd, Zhane",L,"Lee, Agnes",28.4,Cal State Fullerton LA
+6,Neg,"Lloyd, Zhane",L,"Aquino, Ajay",28.1,Cal State Fullerton LA
+7,Neg,"Dabney, Amanda",L,"Lee, Agnes",27.6,Cal State Fullerton LA
+7,Neg,"Dabney, Amanda",L,"Aquino, Ajay",27.7,Cal State Fullerton LA
+8,Aff,"Barquin, Joseph",L,"Lee, Agnes",27.6,Cal State Fullerton LA
+8,Aff,"Barquin, Joseph",L,"Aquino, Ajay",27.5,Cal State Fullerton LA
+1,Aff,"Beier, Ian",W,"Mason, Adejoke",28.8,NYU MH
+1,Aff,"Beier, Ian",W,"Hanoka, Paige",28.5,NYU MH
+2,Neg,"Salcedo, Joel",L,"Mason, Adejoke",28.5,NYU MH
+2,Neg,"Salcedo, Joel",L,"Hanoka, Paige",28.1,NYU MH
+3,Neg,"Cerja, Cecilia",L,"Mason, Adejoke",29.5,NYU MH
+3,Neg,"Cerja, Cecilia",L,"Hanoka, Paige",29,NYU MH
+4,Aff,"Lee, George",W,"Mason, Adejoke",29.3,NYU MH
+4,Aff,"Lee, George",W,"Hanoka, Paige",29,NYU MH
+5,Aff,"Astacio, Carlos",W,"Mason, Adejoke",29.5,NYU MH
+5,Aff,"Astacio, Carlos",W,"Hanoka, Paige",28.4,NYU MH
+6,Neg,"Thomas, Erika",L,"Mason, Adejoke",28.6,NYU MH
+6,Neg,"Thomas, Erika",L,"Hanoka, Paige",28.4,NYU MH
+7,Neg,"Weddington, Tommye",L,"Mason, Adejoke",28.4,NYU MH
+7,Neg,"Weddington, Tommye",L,"Hanoka, Paige",28.1,NYU MH
+8,Aff,"McCullough, Hunter",W,"Mason, Adejoke",28.5,NYU MH
+8,Aff,"McCullough, Hunter",W,"Hanoka, Paige",28.2,NYU MH
+1,Aff,"Rizk, Michael",W,"Gardner, Marielle",29.3,St Mary's GS
+1,Aff,"Rizk, Michael",W,"Szafraniec, Maya",29.4,St Mary's GS
+2,Neg,"Lloyd, Zhane",L,"Gardner, Marielle",28.3,St Mary's GS
+2,Neg,"Lloyd, Zhane",L,"Szafraniec, Maya",28,St Mary's GS
+3,Aff,"Stidham, Jasmine",W,"Gardner, Marielle",29,St Mary's GS
+3,Aff,"Stidham, Jasmine",W,"Szafraniec, Maya",28.9,St Mary's GS
+4,Neg,"Szczechowski, Erin",L,"Gardner, Marielle",28.8,St Mary's GS
+4,Neg,"Szczechowski, Erin",L,"Szafraniec, Maya",28.5,St Mary's GS
+5,Aff,"Queirolo, Kat",L,"Gardner, Marielle",28.8,St Mary's GS
+5,Aff,"Queirolo, Kat",L,"Szafraniec, Maya",28.7,St Mary's GS
+6,Neg,"Keenan, V",W,"Gardner, Marielle",28.2,St Mary's GS
+6,Neg,"Keenan, V",W,"Szafraniec, Maya",28.1,St Mary's GS
+7,Neg,"Denney, Ashley",L,"Gardner, Marielle",28.3,St Mary's GS
+7,Neg,"Denney, Ashley",L,"Szafraniec, Maya",28,St Mary's GS
+8,Aff,"Swihart, Nikolas",L,"Gardner, Marielle",29.2,St Mary's GS
+8,Aff,"Swihart, Nikolas",L,"Szafraniec, Maya",29,St Mary's GS
+1,Aff,"Berger, Aron",L,"Lamb, Brent",28.7,Wyoming LT
+1,Aff,"Berger, Aron",L,"Talamantes, Riley",28.6,Wyoming LT
+2,Neg,"Jallits, Matthew",L,"Lamb, Brent",28.4,Wyoming LT
+2,Neg,"Jallits, Matthew",L,"Talamantes, Riley",28.5,Wyoming LT
+3,Aff,"Loghry, Chris",W,"Lamb, Brent",28.9,Wyoming LT
+3,Aff,"Loghry, Chris",W,"Talamantes, Riley",29,Wyoming LT
+4,Neg,"Green, LaToya",W,"Lamb, Brent",28.8,Wyoming LT
+4,Neg,"Green, LaToya",W,"Talamantes, Riley",28.9,Wyoming LT
+5,Aff,"Kelsie, Amber",W,"Lamb, Brent",29,Wyoming LT
+5,Aff,"Kelsie, Amber",W,"Talamantes, Riley",29.1,Wyoming LT
+6,Neg,"Taylor, James",W,"Lamb, Brent",29,Wyoming LT
+6,Neg,"Taylor, James",W,"Talamantes, Riley",28.9,Wyoming LT
+7,Aff,"Cerja, Cecilia",L,"Lamb, Brent",28.7,Wyoming LT
+7,Aff,"Cerja, Cecilia",L,"Talamantes, Riley",28.5,Wyoming LT
+8,Neg,"Bugrov, Max",W,"Lamb, Brent",29.7,Wyoming LT
+8,Neg,"Bugrov, Max",W,"Talamantes, Riley",29.8,Wyoming LT
+1,Neg,"Lloyd, Zhane",L,"Krishnan, Shruthi",29,Cornell KM
+1,Neg,"Lloyd, Zhane",L,"Ma, Bobby",28.8,Cornell KM
+2,Aff,"Kilpatrick, David",W,"Krishnan, Shruthi",28.7,Cornell KM
+2,Aff,"Kilpatrick, David",W,"Ma, Bobby",28.6,Cornell KM
+3,Neg,"Szczechowski, Erin",W,"Krishnan, Shruthi",29,Cornell KM
+3,Neg,"Szczechowski, Erin",W,"Ma, Bobby",28.9,Cornell KM
+4,Aff,"Poapst, Jackie",L,"Krishnan, Shruthi",29,Cornell KM
+4,Aff,"Poapst, Jackie",L,"Ma, Bobby",29.1,Cornell KM
+5,Aff,"Kennedy, Sean",W,"Krishnan, Shruthi",28.5,Cornell KM
+5,Aff,"Kennedy, Sean",W,"Ma, Bobby",28.6,Cornell KM
+6,Neg,"Lipton, Adam",L,"Krishnan, Shruthi",28.7,Cornell KM
+6,Neg,"Lipton, Adam",L,"Ma, Bobby",28.5,Cornell KM
+7,Aff,"Martin, Shauntrice",L,"Krishnan, Shruthi",28.1,Cornell KM
+7,Aff,"Martin, Shauntrice",L,"Ma, Bobby",29.5,Cornell KM
+8,Neg,"Swanson, Matthew",W,"Krishnan, Shruthi",28.6,Cornell KM
+8,Neg,"Swanson, Matthew",W,"Ma, Bobby",28.5,Cornell KM
+1,Neg,"Larsen, Beau",W,"Burke, Jared",28.6,Cal State Fullerton BR
+1,Neg,"Larsen, Beau",W,"Rosas, Yardley",28.4,Cal State Fullerton BR
+2,Aff,"Knight, Gabby",L,"Burke, Jared",28.4,Cal State Fullerton BR
+2,Aff,"Knight, Gabby",L,"Rosas, Yardley",28.8,Cal State Fullerton BR
+3,Aff,"Hampton, Jyleesa",L,"Burke, Jared",28.2,Cal State Fullerton BR
+3,Aff,"Hampton, Jyleesa",L,"Rosas, Yardley",28.5,Cal State Fullerton BR
+4,Neg,"Keenan, V",L,"Burke, Jared",28.3,Cal State Fullerton BR
+4,Neg,"Keenan, V",L,"Rosas, Yardley",28.2,Cal State Fullerton BR
+5,Aff,"Denney, Ashley",W,"Burke, Jared",28.9,Cal State Fullerton BR
+5,Aff,"Denney, Ashley",W,"Rosas, Yardley",29.2,Cal State Fullerton BR
+6,Neg,"Dabney, Amanda",L,"Burke, Jared",28.6,Cal State Fullerton BR
+6,Neg,"Dabney, Amanda",L,"Rosas, Yardley",28.4,Cal State Fullerton BR
+7,Neg,"Song, Grace",W,"Burke, Jared",27.8,Cal State Fullerton BR
+7,Neg,"Song, Grace",W,"Rosas, Yardley",27.9,Cal State Fullerton BR
+8,Aff,"Byram, Timothy",L,"Burke, Jared",28.7,Cal State Fullerton BR
+8,Aff,"Byram, Timothy",L,"Rosas, Yardley",28.8,Cal State Fullerton BR
+1,Neg,"Cerja, Cecilia",L,"Wyche, Chaz",29.2,Rutgers-Newark WQ
+1,Neg,"Cerja, Cecilia",L,"Quiroz, Christian",28.9,Rutgers-Newark WQ
+2,Aff,"Joseph, Anthony",L,"Wyche, Chaz",29.4,Rutgers-Newark WQ
+2,Aff,"Joseph, Anthony",L,"Quiroz, Christian",28.8,Rutgers-Newark WQ
+3,Neg,"Thompson, Lindsay",W,"Wyche, Chaz",28.8,Rutgers-Newark WQ
+3,Neg,"Thompson, Lindsay",W,"Quiroz, Christian",29.2,Rutgers-Newark WQ
+4,Aff,"Taylor, James",W,"Wyche, Chaz",29.5,Rutgers-Newark WQ
+4,Aff,"Taylor, James",W,"Quiroz, Christian",29.6,Rutgers-Newark WQ
+5,Neg,"Hagwood, Ben",,"Wyche, Chaz",29.1,Rutgers-Newark WQ
+5,Neg,"Hagwood, Ben",,"Quiroz, Christian",29,Rutgers-Newark WQ
+6,Neg,"Vitolo-Haddad, CV",W,"Wyche, Chaz",29.4,Rutgers-Newark WQ
+6,Neg,"Vitolo-Haddad, CV",W,"Quiroz, Christian",29.3,Rutgers-Newark WQ
+7,Aff,"Moore, Matthew",W,"Wyche, Chaz",29.5,Rutgers-Newark WQ
+7,Aff,"Moore, Matthew",W,"Quiroz, Christian",29.3,Rutgers-Newark WQ
+8,Aff,"Stout, Daniel",W,"Wyche, Chaz",29.2,Rutgers-Newark WQ
+8,Aff,"Stout, Daniel",W,"Quiroz, Christian",29.1,Rutgers-Newark WQ
+1,Aff,"Knight, Gabby",W,"Moncure, Josh",29.8,Johnson County Community MR
+1,Aff,"Knight, Gabby",W,"Ruder, Mackenzie",28.9,Johnson County Community MR
+2,Neg,"Stidham, Jasmine",W,"Moncure, Josh",29.3,Johnson County Community MR
+2,Neg,"Stidham, Jasmine",W,"Ruder, Mackenzie",28.6,Johnson County Community MR
+3,Neg,"Kilpatrick, David",W,"Moncure, Josh",28.9,Johnson County Community MR
+3,Neg,"Kilpatrick, David",W,"Ruder, Mackenzie",27.5,Johnson County Community MR
+4,Aff,"Baker, Will",W,"Moncure, Josh",29.2,Johnson County Community MR
+4,Aff,"Baker, Will",W,"Ruder, Mackenzie",28.8,Johnson County Community MR
+5,Neg,"Hiland, Al",L,"Moncure, Josh",29.1,Johnson County Community MR
+5,Neg,"Hiland, Al",L,"Ruder, Mackenzie",28.6,Johnson County Community MR
+6,Aff,"Leonardi, Chris",L,"Moncure, Josh",29.3,Johnson County Community MR
+6,Aff,"Leonardi, Chris",L,"Ruder, Mackenzie",28.6,Johnson County Community MR
+7,Neg,"Cooper, Deven",W,"Moncure, Josh",28.3,Johnson County Community MR
+7,Neg,"Cooper, Deven",W,"Ruder, Mackenzie",28.2,Johnson County Community MR
+8,Aff,"Loghry, Chris",W,"Moncure, Josh",29.3,Johnson County Community MR
+8,Aff,"Loghry, Chris",W,"Ruder, Mackenzie",28.8,Johnson County Community MR
+1,Aff,"Stidham, Jasmine",W,"Ludwig, George",28.7,George Mason LR
+1,Aff,"Stidham, Jasmine",W,"Reddy, Pavan",29,George Mason LR
+2,Neg,"Baez, Kristiana",W,"Ludwig, George",28.6,George Mason LR
+2,Neg,"Baez, Kristiana",W,"Reddy, Pavan",28.5,George Mason LR
+3,Neg,"Jallits, Matthew",L,"Ludwig, George",28.6,George Mason LR
+3,Neg,"Jallits, Matthew",L,"Reddy, Pavan",28.5,George Mason LR
+4,Aff,"Johnson, Lauren",W,"Ludwig, George",28.4,George Mason LR
+4,Aff,"Johnson, Lauren",W,"Reddy, Pavan",28.3,George Mason LR
+5,Aff,"Stout, Daniel",L,"Ludwig, George",28.3,George Mason LR
+5,Aff,"Stout, Daniel",L,"Reddy, Pavan",28.4,George Mason LR
+6,Neg,"Bugrov, Max",W,"Ludwig, George",29.1,George Mason LR
+6,Neg,"Bugrov, Max",W,"Reddy, Pavan",29.2,George Mason LR
+7,Neg,"Leonardi, Chris",L,"Ludwig, George",28.5,George Mason LR
+7,Neg,"Leonardi, Chris",L,"Reddy, Pavan",28.4,George Mason LR
+8,Aff,"Snelling, Tyler",W,"Ludwig, George",28.8,George Mason LR
+8,Aff,"Snelling, Tyler",W,"Reddy, Pavan",29,George Mason LR
+1,Neg,"Stout, Daniel",L,"Daou, Jack",28.6,George Mason DM
+1,Neg,"Stout, Daniel",L,"Morris, Ian",28.4,George Mason DM
+2,Aff,"Jallits, Matthew",W,"Daou, Jack",28.7,George Mason DM
+2,Aff,"Jallits, Matthew",W,"Morris, Ian",28.6,George Mason DM
+3,Aff,"Bugrov, Max",W,"Daou, Jack",29,George Mason DM
+3,Aff,"Bugrov, Max",W,"Morris, Ian",29.1,George Mason DM
+4,Neg,"Lipton, Adam",W,"Daou, Jack",28.8,George Mason DM
+4,Neg,"Lipton, Adam",W,"Morris, Ian",28.9,George Mason DM
+5,Aff,"Garner, Richard",L,"Daou, Jack",28.4,George Mason DM
+5,Aff,"Garner, Richard",L,"Morris, Ian",28.5,George Mason DM
+6,Neg,"Petit, Louie",L,"Daou, Jack",28.2,George Mason DM
+6,Neg,"Petit, Louie",L,"Morris, Ian",28,George Mason DM
+7,Neg,"Yonter, Victoria",W,"Daou, Jack",28.7,George Mason DM
+7,Neg,"Yonter, Victoria",W,"Morris, Ian",28.2,George Mason DM
+8,Aff,"Johnson, Lauren",L,"Daou, Jack",28.2,George Mason DM
+8,Aff,"Johnson, Lauren",L,"Morris, Ian",28.1,George Mason DM
+1,Aff,"Hiland, Al",L,"Lucas-Castillo, Catherine",27.8,CSU Long Beach LB
+1,Aff,"Hiland, Al",L,"Beaudoin, Nicole",27.9,CSU Long Beach LB
+2,Neg,"Szczechowski, Erin",L,"Lucas-Castillo, Catherine",27.8,CSU Long Beach LB
+2,Neg,"Szczechowski, Erin",L,"Beaudoin, Nicole",27.9,CSU Long Beach LB
+3,Neg,"Gonzalez, Gabriela",L,"Lucas-Castillo, Catherine",28.1,CSU Long Beach LB
+3,Neg,"Gonzalez, Gabriela",L,"Beaudoin, Nicole",28,CSU Long Beach LB
+4,Neg,"Bugrov, Max",L,"Lucas-Castillo, Catherine",27.7,CSU Long Beach LB
+4,Neg,"Bugrov, Max",L,"Beaudoin, Nicole",27.8,CSU Long Beach LB
+5,Aff,"Montee, Andy",L,"Lucas-Castillo, Catherine",28.2,CSU Long Beach LB
+5,Aff,"Montee, Andy",L,"Beaudoin, Nicole",28.3,CSU Long Beach LB
+6,Neg,"Lloyd, Zhane",W,"Lucas-Castillo, Catherine",27.6,CSU Long Beach LB
+6,Neg,"Lloyd, Zhane",W,"Beaudoin, Nicole",27.4,CSU Long Beach LB
+7,Aff,"Glass, Rob",W,"Lucas-Castillo, Catherine",28.4,CSU Long Beach LB
+7,Aff,"Glass, Rob",W,"Beaudoin, Nicole",27.9,CSU Long Beach LB
+1,Neg,"Moore, Matthew",L,"Malafa, Sophie",27.5,Wisconsin- Madison MP
+1,Neg,"Moore, Matthew",L,"Pitts, Marie",27.8,Wisconsin- Madison MP
+2,Aff,"Weddington, Tommye",L,"Malafa, Sophie",28.3,Wisconsin- Madison MP
+2,Aff,"Weddington, Tommye",L,"Pitts, Marie",28.2,Wisconsin- Madison MP
+3,Neg,"Dunn, Izak",L,"Malafa, Sophie",28.2,Wisconsin- Madison MP
+3,Neg,"Dunn, Izak",L,"Pitts, Marie",28.3,Wisconsin- Madison MP
+4,Aff,"Larsen, Beau",L,"Malafa, Sophie",28.5,Wisconsin- Madison MP
+4,Aff,"Larsen, Beau",L,"Pitts, Marie",28.3,Wisconsin- Madison MP
+5,Neg,"Ortiz, Kate",W,"Malafa, Sophie",27.8,Wisconsin- Madison MP
+5,Neg,"Ortiz, Kate",W,"Pitts, Marie",27.7,Wisconsin- Madison MP
+6,Aff,"Reid-Brinkley, Shanara",W,"Malafa, Sophie",28,Wisconsin- Madison MP
+6,Aff,"Reid-Brinkley, Shanara",W,"Pitts, Marie",27.8,Wisconsin- Madison MP
+7,Aff,"Green, LaToya",L,"Malafa, Sophie",28.4,Wisconsin- Madison MP
+7,Aff,"Green, LaToya",L,"Pitts, Marie",28.5,Wisconsin- Madison MP
+8,Neg,"Stidham, Jasmine",L,"Malafa, Sophie",28.3,Wisconsin- Madison MP
+8,Neg,"Stidham, Jasmine",L,"Pitts, Marie",28.4,Wisconsin- Madison MP
+1,Neg,"Shaheed, Aliyah",L,"Segura, Rowan",27.8,Puget Sound SU
+1,Neg,"Shaheed, Aliyah",L,"Un, Paul",27.9,Puget Sound SU
+2,Aff,"Baez, Kristiana",L,"Segura, Rowan",28,Puget Sound SU
+2,Aff,"Baez, Kristiana",L,"Un, Paul",28.1,Puget Sound SU
+3,Neg,"Green, LaToya",W,"Segura, Rowan",29.2,Puget Sound SU
+3,Neg,"Green, LaToya",W,"Un, Paul",29.1,Puget Sound SU
+4,Aff,"Song, Grace",L,"Segura, Rowan",27.5,Puget Sound SU
+4,Aff,"Song, Grace",L,"Un, Paul",27.6,Puget Sound SU
+5,Neg,"Cerja, Cecilia",L,"Segura, Rowan",28.1,Puget Sound SU
+5,Neg,"Cerja, Cecilia",L,"Un, Paul",28.2,Puget Sound SU
+6,Aff,"Rajan, Romin",L,"Segura, Rowan",28.2,Puget Sound SU
+6,Aff,"Rajan, Romin",L,"Un, Paul",28.3,Puget Sound SU
+7,Aff,"Swihart, Nikolas",W,"Segura, Rowan",28.8,Puget Sound SU
+7,Aff,"Swihart, Nikolas",W,"Un, Paul",28.6,Puget Sound SU
+8,Neg,"Thomas, Erika",L,"Segura, Rowan",29.4,Puget Sound SU
+8,Neg,"Thomas, Erika",L,"Un, Paul",29.3,Puget Sound SU
+1,Neg,"Baker, Will",W,"Harmon, Payton",28.3,UT Dallas HI
+1,Neg,"Baker, Will",W,"Iske, Hayden",28.4,UT Dallas HI
+2,Aff,"Glass, Rob",W,"Harmon, Payton",28.7,UT Dallas HI
+2,Aff,"Glass, Rob",W,"Iske, Hayden",28.6,UT Dallas HI
+3,Aff,"Snelling, Tyler",L,"Harmon, Payton",28.7,UT Dallas HI
+3,Aff,"Snelling, Tyler",L,"Iske, Hayden",28.6,UT Dallas HI
+4,Neg,"Beier, Ian",L,"Harmon, Payton",28.4,UT Dallas HI
+4,Neg,"Beier, Ian",L,"Iske, Hayden",28.5,UT Dallas HI
+5,Aff,"Evans, Ignacio",L,"Harmon, Payton",28.3,UT Dallas HI
+5,Aff,"Evans, Ignacio",L,"Iske, Hayden",28.4,UT Dallas HI
+6,Neg,"Foley, Jordan",W,"Harmon, Payton",28.6,UT Dallas HI
+6,Neg,"Foley, Jordan",W,"Iske, Hayden",28.7,UT Dallas HI
+7,Neg,"Wash, Ryan",L,"Harmon, Payton",28.6,UT Dallas HI
+7,Neg,"Wash, Ryan",L,"Iske, Hayden",28.8,UT Dallas HI
+8,Aff,"Dabney, Amanda",W,"Harmon, Payton",27.8,UT Dallas HI
+8,Aff,"Dabney, Amanda",W,"Iske, Hayden",27.9,UT Dallas HI
+1,Neg,"Bugrov, Max",L,"Hernandez, Harmony",27.8,CSU Long Beach HW
+1,Neg,"Bugrov, Max",L,"Witczak, Justin",27.7,CSU Long Beach HW
+2,Aff,"Stout, Daniel",L,"Hernandez, Harmony",27.7,CSU Long Beach HW
+2,Aff,"Stout, Daniel",L,"Witczak, Justin",27.8,CSU Long Beach HW
+3,Neg,"Dailey, Colin",L,"Hernandez, Harmony",27.8,CSU Long Beach HW
+3,Neg,"Dailey, Colin",L,"Witczak, Justin",27.6,CSU Long Beach HW
+4,Aff,"Bricker, Brett",L,"Hernandez, Harmony",29.3,CSU Long Beach HW
+4,Aff,"Bricker, Brett",L,"Witczak, Justin",29.2,CSU Long Beach HW
+5,Aff,"Thompson, Lindsay",L,"Hernandez, Harmony",28.7,CSU Long Beach HW
+5,Aff,"Thompson, Lindsay",L,"Witczak, Justin",28.4,CSU Long Beach HW
+6,Aff,"Beier, Ian",L,"Hernandez, Harmony",27.8,CSU Long Beach HW
+6,Aff,"Beier, Ian",L,"Witczak, Justin",27.7,CSU Long Beach HW
+7,Neg,"Barquin, Joseph",W,"Hernandez, Harmony",27.7,CSU Long Beach HW
+7,Neg,"Barquin, Joseph",W,"Witczak, Justin",27.8,CSU Long Beach HW
+1,Neg,"Baez, Kristiana",L,"Coltzer, Will",28.4,Texas CM
+1,Neg,"Baez, Kristiana",L,"McKinley, Conor",28.6,Texas CM
+2,Aff,"McCullough, Hunter",W,"Coltzer, Will",28.8,Texas CM
+2,Aff,"McCullough, Hunter",W,"McKinley, Conor",28.7,Texas CM
+3,Neg,"Hampton, Jyleesa",W,"Coltzer, Will",28.4,Texas CM
+3,Neg,"Hampton, Jyleesa",W,"McKinley, Conor",28.6,Texas CM
+4,Aff,"Hiland, Al",L,"Coltzer, Will",28.6,Texas CM
+4,Aff,"Hiland, Al",L,"McKinley, Conor",28.7,Texas CM
+5,Neg,"Queirolo, Kat",W,"Coltzer, Will",28.3,Texas CM
+5,Neg,"Queirolo, Kat",W,"McKinley, Conor",28.4,Texas CM
+6,Aff,"Vega, Matthew",L,"Coltzer, Will",29.2,Texas CM
+6,Aff,"Vega, Matthew",L,"McKinley, Conor",29,Texas CM
+7,Neg,"Rubaie, Brian",L,"Coltzer, Will",28.7,Texas CM
+7,Neg,"Rubaie, Brian",L,"McKinley, Conor",28.8,Texas CM
+8,Aff,"Moore, Matthew",W,"Coltzer, Will",29,Texas CM
+8,Aff,"Moore, Matthew",W,"McKinley, Conor",28.6,Texas CM
+1,Neg,"Petit, Louie",L,"Hoffman, Jackson",28.5,Kansas HO
+1,Neg,"Petit, Louie",L,"Ottinger, Lily",28.4,Kansas HO
+2,Aff,"Hiland, Al",W,"Hoffman, Jackson",29.1,Kansas HO
+2,Aff,"Hiland, Al",W,"Ottinger, Lily",29,Kansas HO
+3,Neg,"Poapst, Jackie",W,"Hoffman, Jackson",29.2,Kansas HO
+3,Neg,"Poapst, Jackie",W,"Ottinger, Lily",29.3,Kansas HO
+4,Aff,"Leonardi, Chris",L,"Hoffman, Jackson",28.7,Kansas HO
+4,Aff,"Leonardi, Chris",L,"Ottinger, Lily",28.6,Kansas HO
+5,Neg,"Vega, Matthew",W,"Hoffman, Jackson",29.1,Kansas HO
+5,Neg,"Vega, Matthew",W,"Ottinger, Lily",29.3,Kansas HO
+6,Aff,"Kilpatrick, David",L,"Hoffman, Jackson",28.8,Kansas HO
+6,Aff,"Kilpatrick, David",L,"Ottinger, Lily",28.7,Kansas HO
+7,Neg,"Byram, Timothy",W,"Hoffman, Jackson",28.9,Kansas HO
+7,Neg,"Byram, Timothy",W,"Ottinger, Lily",29,Kansas HO
+1,Aff,"Kennedy, Sean",W,"Alomar, Nina",28.4,CSU - Northridge AZ
+1,Aff,"Kennedy, Sean",W,"Zimmerman, Lana",28.2,CSU - Northridge AZ
+2,Neg,"Gonzalez, Gabriela",L,"Alomar, Nina",28.3,CSU - Northridge AZ
+2,Neg,"Gonzalez, Gabriela",L,"Zimmerman, Lana",28.4,CSU - Northridge AZ
+3,Aff,"Garcia-Lugo, Juan",L,"Alomar, Nina",28.7,CSU - Northridge AZ
+3,Aff,"Garcia-Lugo, Juan",L,"Zimmerman, Lana",28.6,CSU - Northridge AZ
+4,Neg,"Lee, George",L,"Alomar, Nina",28.9,CSU - Northridge AZ
+4,Neg,"Lee, George",L,"Zimmerman, Lana",27,CSU - Northridge AZ
+1,Neg,"Leonardi, Chris",W,"Karioki Virginia, (IVY)",28.4,Rutgers-Newark KL
+1,Neg,"Leonardi, Chris",W,"Landrum, Alex",28.7,Rutgers-Newark KL
+2,Aff,"Lipton, Adam",W,"Karioki Virginia, (IVY)",28.4,Rutgers-Newark KL
+2,Aff,"Lipton, Adam",W,"Landrum, Alex",28.6,Rutgers-Newark KL
+3,Neg,"Baker, Will",L,"Karioki Virginia, (IVY)",28.7,Rutgers-Newark KL
+3,Neg,"Baker, Will",L,"Landrum, Alex",29,Rutgers-Newark KL
+4,Neg,"Stout, Daniel",W,"Karioki Virginia, (IVY)",28.5,Rutgers-Newark KL
+4,Neg,"Stout, Daniel",W,"Landrum, Alex",28.2,Rutgers-Newark KL
+5,Aff,"Bunas, Shae",L,"Karioki Virginia, (IVY)",28.6,Rutgers-Newark KL
+5,Aff,"Bunas, Shae",L,"Landrum, Alex",28.8,Rutgers-Newark KL
+6,Aff,"Godbey, Samantha",L,"Karioki Virginia, (IVY)",29,Rutgers-Newark KL
+6,Aff,"Godbey, Samantha",L,"Landrum, Alex",29.1,Rutgers-Newark KL
+7,Neg,"Gonzalez, Gabriela",W,"Karioki Virginia, (IVY)",28.4,Rutgers-Newark KL
+7,Neg,"Gonzalez, Gabriela",W,"Landrum, Alex",28.6,Rutgers-Newark KL
+1,Aff,"Snelling, Tyler",W,"Bateman, Ari",28.5,Binghamton BM
+1,Aff,"Snelling, Tyler",W,"Moore, Shannon",28.6,Binghamton BM
+2,Neg,"Bugrov, Max",L,"Bateman, Ari",28.5,Binghamton BM
+2,Neg,"Bugrov, Max",L,"Moore, Shannon",28.4,Binghamton BM
+3,Neg,"Lipton, Adam",W,"Bateman, Ari",28.6,Binghamton BM
+3,Neg,"Lipton, Adam",W,"Moore, Shannon",28.8,Binghamton BM
+4,Aff,"Szczechowski, Erin",W,"Bateman, Ari",28.6,Binghamton BM
+4,Aff,"Szczechowski, Erin",W,"Moore, Shannon",28.2,Binghamton BM
+5,Aff,"Hampton, Jyleesa",L,"Bateman, Ari",28.1,Binghamton BM
+5,Aff,"Hampton, Jyleesa",L,"Moore, Shannon",28.2,Binghamton BM
+6,Neg,"Kilpatrick, David",L,"Bateman, Ari",28.4,Binghamton BM
+6,Neg,"Kilpatrick, David",L,"Moore, Shannon",28.1,Binghamton BM
+7,Neg,"Byram, Timothy",W,"Bateman, Ari",28.3,Binghamton BM
+7,Neg,"Byram, Timothy",W,"Moore, Shannon",28.4,Binghamton BM
+8,Aff,"Poapst, Jackie",L,"Bateman, Ari",28.4,Binghamton BM
+8,Aff,"Poapst, Jackie",L,"Moore, Shannon",28.5,Binghamton BM
+1,Neg,"Rubaie, Brian",W,"Armstrong Mary, Beth",28.5,George Mason AP
+1,Neg,"Rubaie, Brian",W,"Pedersen, Shana",28.6,George Mason AP
+2,Aff,"Petit, Louie",W,"Armstrong Mary, Beth",28.8,George Mason AP
+2,Aff,"Petit, Louie",W,"Pedersen, Shana",28.7,George Mason AP
+3,Neg,"Denney, Ashley",L,"Armstrong Mary, Beth",28.3,George Mason AP
+3,Neg,"Denney, Ashley",L,"Pedersen, Shana",28.2,George Mason AP
+4,Aff,"Byram, Timothy",L,"Armstrong Mary, Beth",28.2,George Mason AP
+4,Aff,"Byram, Timothy",L,"Pedersen, Shana",28.3,George Mason AP
+5,Aff,"Jallits, Matthew",W,"Armstrong Mary, Beth",28.8,George Mason AP
+5,Aff,"Jallits, Matthew",W,"Pedersen, Shana",28.6,George Mason AP
+6,Neg,"Stout, Daniel",L,"Armstrong Mary, Beth",28.3,George Mason AP
+6,Neg,"Stout, Daniel",L,"Pedersen, Shana",28.4,George Mason AP
+7,Aff,"Baker, Will",L,"Armstrong Mary, Beth",28.7,George Mason AP
+7,Aff,"Baker, Will",L,"Pedersen, Shana",28.8,George Mason AP
+8,Neg,"Szczechowski, Erin",W,"Armstrong Mary, Beth",28.4,George Mason AP
+8,Neg,"Szczechowski, Erin",W,"Pedersen, Shana",28.5,George Mason AP
+1,Neg,"Joseph, Anthony",W,"Harris, Ashley",28.8,James Madison HS
+1,Neg,"Joseph, Anthony",W,"Smith, Aubree",28.7,James Madison HS
+2,Aff,"Baker, Will",L,"Harris, Ashley",28.2,James Madison HS
+2,Aff,"Baker, Will",L,"Smith, Aubree",28.3,James Madison HS
+3,Neg,"Murphy, Devane",W,"Harris, Ashley",30,James Madison HS
+3,Neg,"Murphy, Devane",W,"Smith, Aubree",29.6,James Madison HS
+4,Aff,"Queirolo, Kat",L,"Harris, Ashley",28.7,James Madison HS
+4,Aff,"Queirolo, Kat",L,"Smith, Aubree",28.8,James Madison HS
+5,Neg,"Chiri, Vida",W,"Harris, Ashley",28.7,James Madison HS
+5,Neg,"Chiri, Vida",W,"Smith, Aubree",28.6,James Madison HS
+6,Aff,"Petit, Louie",W,"Harris, Ashley",28.3,James Madison HS
+6,Aff,"Petit, Louie",W,"Smith, Aubree",28.1,James Madison HS
+7,Aff,"Cooper, Deven",L,"Harris, Ashley",30,James Madison HS
+7,Aff,"Cooper, Deven",L,"Smith, Aubree",28.6,James Madison HS
+8,Neg,"Rubaie, Brian",L,"Harris, Ashley",29.7,James Madison HS
+8,Neg,"Rubaie, Brian",L,"Smith, Aubree",28.7,James Madison HS
+1,Aff,"Johnson, Willie",L,"Koyn, Genavieve",26.9,Cornell KS
+1,Aff,"Johnson, Willie",L,"Shi, Amber",27,Cornell KS
+2,Neg,"Thomas, Michelle",L,"Koyn, Genavieve",28.8,Cornell KS
+2,Neg,"Thomas, Michelle",L,"Shi, Amber",28.7,Cornell KS
+3,Aff,"Montee, Andy",L,"Koyn, Genavieve",28.5,Cornell KS
+3,Aff,"Montee, Andy",L,"Shi, Amber",28.3,Cornell KS
+4,Neg,"Bricker, Brett",W,"Koyn, Genavieve",29.4,Cornell KS
+4,Neg,"Bricker, Brett",W,"Shi, Amber",29.5,Cornell KS
+5,Neg,"Dabney, Amanda",W,"Koyn, Genavieve",28.3,Cornell KS
+5,Neg,"Dabney, Amanda",W,"Shi, Amber",28.4,Cornell KS
+6,Aff,"Foley, Jordan",L,"Koyn, Genavieve",28.4,Cornell KS
+6,Aff,"Foley, Jordan",L,"Shi, Amber",28.5,Cornell KS
+7,Neg,"Fendley, Seth",W,"Koyn, Genavieve",28,Cornell KS
+7,Neg,"Fendley, Seth",W,"Shi, Amber",28.5,Cornell KS
+8,Aff,"Jallits, Matthew",L,"Koyn, Genavieve",28.5,Cornell KS
+8,Aff,"Jallits, Matthew",L,"Shi, Amber",28.4,Cornell KS
+1,Aff,"Hampton, Jyleesa",L,"Brisson, Zachary",28.2,Arizona State BC
+1,Aff,"Hampton, Jyleesa",L,"Carter, Jessica",27.9,Arizona State BC
+2,Neg,"Kilpatrick, David",L,"Brisson, Zachary",28.1,Arizona State BC
+2,Neg,"Kilpatrick, David",L,"Carter, Jessica",28,Arizona State BC
+3,Aff,"Kennedy, Sean",L,"Brisson, Zachary",28.3,Arizona State BC
+3,Aff,"Kennedy, Sean",L,"Carter, Jessica",28.1,Arizona State BC
+4,Neg,"Mills, Jordan",L,"Brisson, Zachary",28.5,Arizona State BC
+4,Neg,"Mills, Jordan",L,"Carter, Jessica",28.3,Arizona State BC
+5,Neg,"Barquin, Joseph",W,"Brisson, Zachary",28.9,Arizona State BC
+5,Neg,"Barquin, Joseph",W,"Carter, Jessica",28.8,Arizona State BC
+6,Aff,"Yonter, Victoria",W,"Brisson, Zachary",28.6,Arizona State BC
+6,Aff,"Yonter, Victoria",W,"Carter, Jessica",28.3,Arizona State BC
+7,Neg,"Buttgereit, Thomas",L,"Brisson, Zachary",28.7,Arizona State BC
+7,Neg,"Buttgereit, Thomas",L,"Carter, Jessica",28.5,Arizona State BC
+8,Aff,"Gillespie, John",W,"Brisson, Zachary",15,Arizona State BC
+8,Aff,"Gillespie, John",W,"Carter, Jessica",13,Arizona State BC
+1,Neg,"Denney, Ashley",L,"Barney, Lauren",28.7,Arizona State BG
+1,Neg,"Denney, Ashley",L,"Green, Kayla",28.8,Arizona State BG
+2,Aff,"Cadena, Alex",L,"Barney, Lauren",27.5,Arizona State BG
+2,Aff,"Cadena, Alex",L,"Green, Kayla",27.6,Arizona State BG
+3,Aff,"Taylor, James",W,"Barney, Lauren",28.5,Arizona State BG
+3,Aff,"Taylor, James",W,"Green, Kayla",28.7,Arizona State BG
+4,Neg,"Rajan, Romin",W,"Barney, Lauren",28.8,Arizona State BG
+4,Neg,"Rajan, Romin",W,"Green, Kayla",28.7,Arizona State BG
+5,Aff,"Lee, George",L,"Barney, Lauren",28.9,Arizona State BG
+5,Aff,"Lee, George",L,"Green, Kayla",29,Arizona State BG
+6,Neg,"Schauer, Courtney",L,"Barney, Lauren",28.7,Arizona State BG
+6,Neg,"Schauer, Courtney",L,"Green, Kayla",28.8,Arizona State BG
+7,Aff,"Thompson, Lindsay",W,"Barney, Lauren",29.5,Arizona State BG
+7,Aff,"Thompson, Lindsay",W,"Green, Kayla",30,Arizona State BG
+8,Neg,"Rizk, Michael",W,"Barney, Lauren",29.3,Arizona State BG
+8,Neg,"Rizk, Michael",W,"Green, Kayla",29.2,Arizona State BG
+1,Aff,"Johnson, Lauren",L,"Scolaro, Kate",28.3,Florida SS
+1,Aff,"Johnson, Lauren",L,"Spicer, Morgan",28.2,Florida SS
+2,Neg,"Glass, Rob",L,"Scolaro, Kate",28.3,Florida SS
+2,Neg,"Glass, Rob",L,"Spicer, Morgan",28.4,Florida SS
+3,Neg,"Barquin, Joseph",W,"Scolaro, Kate",28.8,Florida SS
+3,Neg,"Barquin, Joseph",W,"Spicer, Morgan",28.9,Florida SS
+4,Aff,"Bugrov, Max",L,"Scolaro, Kate",28.6,Florida SS
+4,Aff,"Bugrov, Max",L,"Spicer, Morgan",28.5,Florida SS
+5,Neg,"Berger, Aron",W,"Scolaro, Kate",28.3,Florida SS
+5,Neg,"Berger, Aron",W,"Spicer, Morgan",28.4,Florida SS
+6,Aff,"Cooper, Deven",W,"Scolaro, Kate",28.4,Florida SS
+6,Aff,"Cooper, Deven",W,"Spicer, Morgan",28.3,Florida SS
+7,Neg,"Mariscal, Leslie",L,"Scolaro, Kate",29.5,Florida SS
+7,Neg,"Mariscal, Leslie",L,"Spicer, Morgan",29,Florida SS
+8,Aff,"Rizk, Michael",L,"Scolaro, Kate",29.1,Florida SS
+8,Aff,"Rizk, Michael",L,"Spicer, Morgan",29.4,Florida SS
+1,Aff,"Moore, Matthew",W,"Koort, Austin",28,Houston KW
+1,Aff,"Moore, Matthew",W,"Williams, Gabriel",28.5,Houston KW
+2,Neg,"Poapst, Jackie",L,"Koort, Austin",28.4,Houston KW
+2,Neg,"Poapst, Jackie",L,"Williams, Gabriel",28.3,Houston KW
+3,Aff,"Schauer, Courtney",L,"Koort, Austin",28.7,Houston KW
+3,Aff,"Schauer, Courtney",L,"Williams, Gabriel",28.6,Houston KW
+4,Neg,"Godbey, Samantha",L,"Koort, Austin",28.3,Houston KW
+4,Neg,"Godbey, Samantha",L,"Williams, Gabriel",28.2,Houston KW
+5,Neg,"Dunn, Izak",L,"Koort, Austin",28.1,Houston KW
+5,Neg,"Dunn, Izak",L,"Williams, Gabriel",28.2,Houston KW
+6,Aff,"Mills, Jordan",W,"Koort, Austin",28.8,Houston KW
+6,Aff,"Mills, Jordan",W,"Williams, Gabriel",28.7,Houston KW
+7,Aff,"Jallits, Matthew",L,"Koort, Austin",28.5,Houston KW
+7,Aff,"Jallits, Matthew",L,"Williams, Gabriel",28.4,Houston KW
+8,Neg,"Yonter, Victoria",W,"Koort, Austin",28.4,Houston KW
+8,Neg,"Yonter, Victoria",W,"Williams, Gabriel",28.1,Houston KW
+1,Neg,"Holley, Sierra",L,"Morales, Jennifer",28.7,UT San Antonio MU
+1,Neg,"Holley, Sierra",L,"Umesh, Ananya",28.8,UT San Antonio MU
+2,Aff,"Montee, Andy",L,"Morales, Jennifer",28.2,UT San Antonio MU
+2,Aff,"Montee, Andy",L,"Umesh, Ananya",28.3,UT San Antonio MU
+3,Aff,"Song, Grace",L,"Morales, Jennifer",27.5,UT San Antonio MU
+3,Aff,"Song, Grace",L,"Umesh, Ananya",27.6,UT San Antonio MU
+4,Neg,"Lloyd, Zhane",L,"Morales, Jennifer",28,UT San Antonio MU
+4,Neg,"Lloyd, Zhane",L,"Umesh, Ananya",28.1,UT San Antonio MU
+5,Aff,"Ortiz, Kate",L,"Morales, Jennifer",27,UT San Antonio MU
+5,Aff,"Ortiz, Kate",L,"Umesh, Ananya",27.3,UT San Antonio MU
+6,Neg,"Szczechowski, Erin",L,"Morales, Jennifer",27.8,UT San Antonio MU
+6,Neg,"Szczechowski, Erin",L,"Umesh, Ananya",27.9,UT San Antonio MU
+7,Aff,"Swanson, Matthew",L,"Morales, Jennifer",29.9,UT San Antonio MU
+7,Aff,"Swanson, Matthew",L,"Umesh, Ananya",30,UT San Antonio MU
+8,Neg,"Knight, Gabby",W,"Morales, Jennifer",28.6,UT San Antonio MU
+8,Neg,"Knight, Gabby",W,"Umesh, Ananya",28.7,UT San Antonio MU
+1,Neg,"Martin, Shauntrice",L,"Bhatti, Arooj",27.9,Johnson County Community BF
+1,Neg,"Martin, Shauntrice",L,"Farris, Louie",27.8,Johnson County Community BF
+2,Aff,"Snelling, Tyler",L,"Bhatti, Arooj",29.1,Johnson County Community BF
+2,Aff,"Snelling, Tyler",L,"Farris, Louie",29.2,Johnson County Community BF
+3,Neg,"Shaheed, Aliyah",L,"Bhatti, Arooj",28,Johnson County Community BF
+3,Neg,"Shaheed, Aliyah",L,"Farris, Louie",28.1,Johnson County Community BF
+4,Aff,"Schauer, Courtney",L,"Bhatti, Arooj",28.3,Johnson County Community BF
+4,Aff,"Schauer, Courtney",L,"Farris, Louie",28.5,Johnson County Community BF
+5,Neg,"Thompson, Lindsay",W,"Bhatti, Arooj",28.2,Johnson County Community BF
+5,Neg,"Thompson, Lindsay",W,"Farris, Louie",28,Johnson County Community BF
+6,Aff,"Song, Grace",L,"Bhatti, Arooj",27.5,Johnson County Community BF
+6,Aff,"Song, Grace",L,"Farris, Louie",27.6,Johnson County Community BF
+7,Neg,"Cadena, Alex",L,"Bhatti, Arooj",29.4,Johnson County Community BF
+7,Neg,"Cadena, Alex",L,"Farris, Louie",29.3,Johnson County Community BF
+1,Neg,"Knight, Gabby",L,"Factory, Kimiya",29.7,UT San Antonio FH
+1,Neg,"Knight, Gabby",L,"Hernandez, Lizvette",28.8,UT San Antonio FH
+2,Aff,"Gonzalez, Gabriela",W,"Factory, Kimiya",28.6,UT San Antonio FH
+2,Aff,"Gonzalez, Gabriela",W,"Hernandez, Lizvette",28.5,UT San Antonio FH
+3,Aff,"Leonardi, Chris",W,"Factory, Kimiya",28.5,UT San Antonio FH
+3,Aff,"Leonardi, Chris",W,"Hernandez, Lizvette",28.6,UT San Antonio FH
+4,Neg,"Cerja, Cecilia",L,"Factory, Kimiya",29.3,UT San Antonio FH
+4,Neg,"Cerja, Cecilia",L,"Hernandez, Lizvette",29,UT San Antonio FH
+5,Aff,"Larsen, Beau",L,"Factory, Kimiya",28.2,UT San Antonio FH
+5,Aff,"Larsen, Beau",L,"Hernandez, Lizvette",28.1,UT San Antonio FH
+6,Neg,"Montee, Andy",W,"Factory, Kimiya",29,UT San Antonio FH
+6,Neg,"Montee, Andy",W,"Hernandez, Lizvette",28.8,UT San Antonio FH
+7,Neg,"Johnson, Lauren",L,"Factory, Kimiya",28.6,UT San Antonio FH
+7,Neg,"Johnson, Lauren",L,"Hernandez, Lizvette",28.3,UT San Antonio FH
+8,Aff,"Thomas, Troi",W,"Factory, Kimiya",28.9,UT San Antonio FH
+8,Aff,"Thomas, Troi",W,"Hernandez, Lizvette",28.8,UT San Antonio FH
+1,Aff,"Dailey, Colin",L,"Lowe, Aaron",28.4,Fresno State LM
+1,Aff,"Dailey, Colin",L,"Mirza, NicK",28.1,Fresno State LM
+2,Neg,"Cadena, Alex",W,"Lowe, Aaron",27.8,Fresno State LM
+2,Neg,"Cadena, Alex",W,"Mirza, NicK",27.4,Fresno State LM
+3,Aff,"Wash, Ryan",L,"Lowe, Aaron",28.8,Fresno State LM
+3,Aff,"Wash, Ryan",L,"Mirza, NicK",28.9,Fresno State LM
+4,Neg,"Stout, Daniel",L,"Lowe, Aaron",27.5,Fresno State LM
+4,Neg,"Stout, Daniel",L,"Mirza, NicK",27.9,Fresno State LM
+5,Neg,"Yonter, Victoria",L,"Lowe, Aaron",28.2,Fresno State LM
+5,Neg,"Yonter, Victoria",L,"Mirza, NicK",28.1,Fresno State LM
+6,Aff,"Szczechowski, Erin",W,"Lowe, Aaron",28.5,Fresno State LM
+6,Aff,"Szczechowski, Erin",W,"Mirza, NicK",28.4,Fresno State LM
+7,Neg,"Lipton, Adam",W,"Lowe, Aaron",28.1,Fresno State LM
+7,Neg,"Lipton, Adam",W,"Mirza, NicK",28.3,Fresno State LM
+8,Aff,"Bajorek, Benton",L,"Lowe, Aaron",28.5,Fresno State LM
+8,Aff,"Bajorek, Benton",L,"Mirza, NicK",28.6,Fresno State LM
+1,Aff,"Gonzalez, Gabriela",L,"Copeland, Morgan",28.8,Liberty CS
+1,Aff,"Gonzalez, Gabriela",L,"Samuel, Kristopher",28.9,Liberty CS
+2,Neg,"Lee, George",L,"Copeland, Morgan",28.8,Liberty CS
+2,Neg,"Lee, George",L,"Samuel, Kristopher",28.9,Liberty CS
+3,Neg,"Kozak, Christopher",W,"Copeland, Morgan",29.3,Liberty CS
+3,Neg,"Kozak, Christopher",W,"Samuel, Kristopher",29.7,Liberty CS
+4,Aff,"Barquin, Joseph",W,"Copeland, Morgan",28.9,Liberty CS
+4,Aff,"Barquin, Joseph",W,"Samuel, Kristopher",29.1,Liberty CS
+5,Neg,"Yahom, Jefferson",L,"Copeland, Morgan",29.1,Liberty CS
+5,Neg,"Yahom, Jefferson",L,"Samuel, Kristopher",29.2,Liberty CS
+6,Aff,"Moore, Matthew",W,"Copeland, Morgan",28.5,Liberty CS
+6,Aff,"Moore, Matthew",W,"Samuel, Kristopher",28.9,Liberty CS
+7,Neg,"Joseph, Anthony",L,"Copeland, Morgan",29,Liberty CS
+7,Neg,"Joseph, Anthony",L,"Samuel, Kristopher",28.8,Liberty CS
+8,Aff,"Lloyd, Zhane",W,"Copeland, Morgan",30,Liberty CS
+8,Aff,"Lloyd, Zhane",W,"Samuel, Kristopher",29.9,Liberty CS
+1,Neg,"Yahom, Jefferson",L,"Sherman, Alex",28.9,NYU SW
+1,Neg,"Yahom, Jefferson",L,"Wang, Kathy",28.8,NYU SW
+2,Aff,"Beier, Ian",W,"Sherman, Alex",28.8,NYU SW
+2,Aff,"Beier, Ian",W,"Wang, Kathy",28.9,NYU SW
+3,Aff,"Buttgereit, Thomas",W,"Sherman, Alex",29.4,NYU SW
+3,Aff,"Buttgereit, Thomas",W,"Wang, Kathy",29.6,NYU SW
+4,Neg,"Johnson, Lauren",L,"Sherman, Alex",28.2,NYU SW
+4,Neg,"Johnson, Lauren",L,"Wang, Kathy",28.1,NYU SW
+5,Neg,"Vitolo-Haddad, CV",W,"Sherman, Alex",28.8,NYU SW
+5,Neg,"Vitolo-Haddad, CV",W,"Wang, Kathy",28.7,NYU SW
+6,Aff,"Stidham, Jasmine",L,"Sherman, Alex",28.8,NYU SW
+6,Aff,"Stidham, Jasmine",L,"Wang, Kathy",29,NYU SW
+7,Neg,"Knight, Gabby",W,"Sherman, Alex",28.5,NYU SW
+7,Neg,"Knight, Gabby",W,"Wang, Kathy",28.6,NYU SW
+8,Aff,"Weddington, Tommye",L,"Sherman, Alex",28.3,NYU SW
+8,Aff,"Weddington, Tommye",L,"Wang, Kathy",28.5,NYU SW
+1,Neg,"Astacio, Carlos",W,"Pickens, Jazmine",29.6,Oklahoma PW
+1,Neg,"Astacio, Carlos",W,"White, Darius",29.7,Oklahoma PW
+2,Aff,"Denney, Ashley",W,"Pickens, Jazmine",29,Oklahoma PW
+2,Aff,"Denney, Ashley",W,"White, Darius",29.1,Oklahoma PW
+3,Aff,"Joseph, Anthony",W,"Pickens, Jazmine",29.7,Oklahoma PW
+3,Aff,"Joseph, Anthony",W,"White, Darius",29.5,Oklahoma PW
+4,Neg,"Stidham, Jasmine",W,"Pickens, Jazmine",29.7,Oklahoma PW
+4,Neg,"Stidham, Jasmine",W,"White, Darius",29.6,Oklahoma PW
+5,Aff,"Hiland, Al",W,"Pickens, Jazmine",29.5,Oklahoma PW
+5,Aff,"Hiland, Al",W,"White, Darius",29.6,Oklahoma PW
+6,Neg,"Gonzalez, Gabriela",W,"Pickens, Jazmine",29.3,Oklahoma PW
+6,Neg,"Gonzalez, Gabriela",W,"White, Darius",29.2,Oklahoma PW
+7,Aff,"Szczechowski, Erin",W,"Pickens, Jazmine",29.4,Oklahoma PW
+7,Aff,"Szczechowski, Erin",W,"White, Darius",29.3,Oklahoma PW
+8,Neg,"Foley, Jordan",W,"Pickens, Jazmine",29.6,Oklahoma PW
+8,Neg,"Foley, Jordan",W,"White, Darius",29.7,Oklahoma PW
+1,Neg,"Murphy, Devane",L,"Engle, Ben",29.6,Kansas State EL
+1,Neg,"Murphy, Devane",L,"Leyba, Samuel",29.8,Kansas State EL
+2,Aff,"Foley, Jordan",L,"Engle, Ben",28.7,Kansas State EL
+2,Aff,"Foley, Jordan",L,"Leyba, Samuel",28.8,Kansas State EL
+3,Aff,"Berger, Aron",W,"Engle, Ben",28.6,Kansas State EL
+3,Aff,"Berger, Aron",W,"Leyba, Samuel",28.7,Kansas State EL
+4,Neg,"Dabney, Amanda",W,"Engle, Ben",28.5,Kansas State EL
+4,Neg,"Dabney, Amanda",W,"Leyba, Samuel",28.6,Kansas State EL
+5,Neg,"Kozak, Christopher",L,"Engle, Ben",29,Kansas State EL
+5,Neg,"Kozak, Christopher",L,"Leyba, Samuel",28.9,Kansas State EL
+6,Aff,"Buttgereit, Thomas",W,"Engle, Ben",28.7,Kansas State EL
+6,Aff,"Buttgereit, Thomas",W,"Leyba, Samuel",28.9,Kansas State EL
+7,Aff,"Wash, Ryan",W,"Engle, Ben",28.9,Kansas State EL
+7,Aff,"Wash, Ryan",W,"Leyba, Samuel",29.7,Kansas State EL
+8,Neg,"Johnson, Lauren",W,"Engle, Ben",28.7,Kansas State EL
+8,Neg,"Johnson, Lauren",W,"Leyba, Samuel",28.8,Kansas State EL
+1,Neg,"Beier, Ian",L,"Gamble, Tyler",28.6,Houston GS
+1,Neg,"Beier, Ian",L,"Sanford, Miranda",28.4,Houston GS
+2,Aff,"Swanson, Matthew",L,"Gamble, Tyler",26.6,Houston GS
+2,Aff,"Swanson, Matthew",L,"Sanford, Miranda",26.5,Houston GS
+3,Aff,"Kozak, Christopher",L,"Gamble, Tyler",29,Houston GS
+3,Aff,"Kozak, Christopher",L,"Sanford, Miranda",28.9,Houston GS
+4,Neg,"Schauer, Courtney",W,"Gamble, Tyler",28.7,Houston GS
+4,Neg,"Schauer, Courtney",W,"Sanford, Miranda",28.6,Houston GS
+5,Aff,"Bugrov, Max",W,"Gamble, Tyler",28.5,Houston GS
+5,Aff,"Bugrov, Max",W,"Sanford, Miranda",28.3,Houston GS
+6,Neg,"Snelling, Tyler",W,"Gamble, Tyler",27,Houston GS
+6,Neg,"Snelling, Tyler",W,"Sanford, Miranda",28.5,Houston GS
+7,Aff,"Garcia-Lugo, Juan",W,"Gamble, Tyler",29.2,Houston GS
+7,Aff,"Garcia-Lugo, Juan",W,"Sanford, Miranda",28.7,Houston GS
+8,Neg,"Mills, Jordan",L,"Gamble, Tyler",29.1,Houston GS
+8,Neg,"Mills, Jordan",L,"Sanford, Miranda",28.8,Houston GS
+1,Aff,"Szczechowski, Erin",W,"Fuller, Delon",28.5,Central Florida FS
+1,Aff,"Szczechowski, Erin",W,"Smith, Ethan",28.3,Central Florida FS
+2,Neg,"Barquin, Joseph",W,"Fuller, Delon",28.6,Central Florida FS
+2,Neg,"Barquin, Joseph",W,"Smith, Ethan",28.5,Central Florida FS
+3,Neg,"Thach, Lee",L,"Fuller, Delon",28.8,Central Florida FS
+3,Neg,"Thach, Lee",L,"Smith, Ethan",28.4,Central Florida FS
+4,Aff,"Bunas, Shae",L,"Fuller, Delon",28.6,Central Florida FS
+4,Aff,"Bunas, Shae",L,"Smith, Ethan",27,Central Florida FS
+5,Neg,"Astacio, Carlos",L,"Fuller, Delon",29,Central Florida FS
+5,Neg,"Astacio, Carlos",L,"Smith, Ethan",28.3,Central Florida FS
+6,Aff,"Johnson, Willie",W,"Fuller, Delon",29,Central Florida FS
+6,Aff,"Johnson, Willie",W,"Smith, Ethan",27.8,Central Florida FS
+7,Aff,"Yonter, Victoria",L,"Fuller, Delon",28.3,Central Florida FS
+7,Aff,"Yonter, Victoria",L,"Smith, Ethan",28.1,Central Florida FS
+8,Neg,"Moore, Matthew",L,"Fuller, Delon",28.9,Central Florida FS
+8,Neg,"Moore, Matthew",L,"Smith, Ethan",28.3,Central Florida FS
+1,Aff,"Weddington, Tommye",W,"Chathurvedula, Thrishna",28.4,Wisconsin- Madison CD
+1,Aff,"Weddington, Tommye",W,"DeWet, Ian",28.6,Wisconsin- Madison CD
+2,Neg,"Denney, Ashley",L,"Chathurvedula, Thrishna",28.7,Wisconsin- Madison CD
+2,Neg,"Denney, Ashley",L,"DeWet, Ian",28.6,Wisconsin- Madison CD
+3,Neg,"Vega, Matthew",W,"Chathurvedula, Thrishna",29.2,Wisconsin- Madison CD
+3,Neg,"Vega, Matthew",W,"DeWet, Ian",29.1,Wisconsin- Madison CD
+4,Aff,"Garner, Richard",W,"Chathurvedula, Thrishna",28.3,Wisconsin- Madison CD
+4,Aff,"Garner, Richard",W,"DeWet, Ian",28.5,Wisconsin- Madison CD
+5,Neg,"Glass, Rob",L,"Chathurvedula, Thrishna",28.7,Wisconsin- Madison CD
+5,Neg,"Glass, Rob",L,"DeWet, Ian",28.5,Wisconsin- Madison CD
+6,Aff,"Bugrov, Max",L,"Chathurvedula, Thrishna",28.7,Wisconsin- Madison CD
+6,Aff,"Bugrov, Max",L,"DeWet, Ian",29,Wisconsin- Madison CD
+7,Aff,"Snelling, Tyler",W,"Chathurvedula, Thrishna",28.6,Wisconsin- Madison CD
+7,Aff,"Snelling, Tyler",W,"DeWet, Ian",28.8,Wisconsin- Madison CD
+8,Neg,"Revelins, Armands",L,"Chathurvedula, Thrishna",28.3,Wisconsin- Madison CD
+8,Neg,"Revelins, Armands",L,"DeWet, Ian",28.5,Wisconsin- Madison CD
+1,Neg,"Poapst, Jackie",L,"Martinez, Primavera",28.5,Fresno State ML
+1,Neg,"Poapst, Jackie",L,"Litt, Aranveer",28.4,Fresno State ML
+2,Aff,"Cerja, Cecilia",W,"Martinez, Primavera",29.5,Fresno State ML
+2,Aff,"Cerja, Cecilia",W,"Litt, Aranveer",29,Fresno State ML
+3,Aff,"Lipton, Adam",L,"Martinez, Primavera",29,Fresno State ML
+3,Aff,"Lipton, Adam",L,"Litt, Aranveer",28.5,Fresno State ML
+4,Neg,"Leonardi, Chris",W,"Martinez, Primavera",29.1,Fresno State ML
+4,Neg,"Leonardi, Chris",W,"Litt, Aranveer",29,Fresno State ML
+5,Neg,"Jallits, Matthew",L,"Martinez, Primavera",28.5,Fresno State ML
+5,Neg,"Jallits, Matthew",L,"Litt, Aranveer",28.3,Fresno State ML
+6,Aff,"Thomas, Troi",W,"Martinez, Primavera",28.7,Fresno State ML
+6,Aff,"Thomas, Troi",W,"Litt, Aranveer",28.6,Fresno State ML
+7,Aff,"Johnson, Lauren",W,"Martinez, Primavera",28.7,Fresno State ML
+7,Aff,"Johnson, Lauren",W,"Litt, Aranveer",28.4,Fresno State ML
+8,Neg,"Martin, Shauntrice",L,"Martinez, Primavera",30,Fresno State ML
+8,Neg,"Martin, Shauntrice",L,"Litt, Aranveer",29.8,Fresno State ML
+1,Neg,"Reid-Brinkley, Shanara",L,"Darnell, Melissa",27.6,UT San Antonio DZ
+1,Neg,"Reid-Brinkley, Shanara",L,"Zimmerman, Alex",27.5,UT San Antonio DZ
+2,Aff,"Szczechowski, Erin",W,"Darnell, Melissa",28,UT San Antonio DZ
+2,Aff,"Szczechowski, Erin",W,"Zimmerman, Alex",28.1,UT San Antonio DZ
+3,Neg,"Buttgereit, Thomas",L,"Darnell, Melissa",29,UT San Antonio DZ
+3,Neg,"Buttgereit, Thomas",L,"Zimmerman, Alex",28.7,UT San Antonio DZ
+4,Aff,"Clarke, Kevin",L,"Darnell, Melissa",27.4,UT San Antonio DZ
+4,Aff,"Clarke, Kevin",L,"Zimmerman, Alex",27.2,UT San Antonio DZ
+5,Neg,"Song, Grace",L,"Darnell, Melissa",27.6,UT San Antonio DZ
+5,Neg,"Song, Grace",L,"Zimmerman, Alex",27.7,UT San Antonio DZ
+6,Aff,"Keenan, V",L,"Darnell, Melissa",27.7,UT San Antonio DZ
+6,Aff,"Keenan, V",L,"Zimmerman, Alex",27.6,UT San Antonio DZ
+7,Neg,"Swihart, Nikolas",L,"Darnell, Melissa",28.5,UT San Antonio DZ
+7,Neg,"Swihart, Nikolas",L,"Zimmerman, Alex",28.7,UT San Antonio DZ
+8,Aff,"Cerja, Cecilia",L,"Darnell, Melissa",28,UT San Antonio DZ
+8,Aff,"Cerja, Cecilia",L,"Zimmerman, Alex",28.2,UT San Antonio DZ
+1,Aff,"Baker, Will",L,"Lott, Eli",28,Central Oklahoma LG
+1,Aff,"Baker, Will",L,"Gandionco, Gil",28.1,Central Oklahoma LG
+2,Neg,"Reid-Brinkley, Shanara",W,"Lott, Eli",28.8,Central Oklahoma LG
+2,Neg,"Reid-Brinkley, Shanara",W,"Gandionco, Gil",28.4,Central Oklahoma LG
+3,Aff,"Vega, Matthew",L,"Lott, Eli",28.9,Central Oklahoma LG
+3,Aff,"Vega, Matthew",L,"Gandionco, Gil",28.8,Central Oklahoma LG
+4,Neg,"Kozak, Christopher",L,"Lott, Eli",28.7,Central Oklahoma LG
+4,Neg,"Kozak, Christopher",L,"Gandionco, Gil",28.4,Central Oklahoma LG
+5,Neg,"Loghry, Chris",L,"Lott, Eli",28.7,Central Oklahoma LG
+5,Neg,"Loghry, Chris",L,"Gandionco, Gil",28.6,Central Oklahoma LG
+6,Aff,"Johnson, Lauren",L,"Lott, Eli",28.3,Central Oklahoma LG
+6,Aff,"Johnson, Lauren",L,"Gandionco, Gil",28.2,Central Oklahoma LG
+7,Aff,"Lloyd, Zhane",L,"Lott, Eli",28,Central Oklahoma LG
+7,Aff,"Lloyd, Zhane",L,"Gandionco, Gil",27.5,Central Oklahoma LG
+8,Neg,"Cerja, Cecilia",W,"Lott, Eli",28.5,Central Oklahoma LG
+8,Neg,"Cerja, Cecilia",W,"Gandionco, Gil",29,Central Oklahoma LG
+1,Aff,"Rubaie, Brian",L,"Hutchinson, Will",28.3,Texas HL
+1,Aff,"Rubaie, Brian",L,"Lugo, Jacob",28.4,Texas HL
+2,Neg,"Hampton, Jyleesa",L,"Hutchinson, Will",28.5,Texas HL
+2,Neg,"Hampton, Jyleesa",L,"Lugo, Jacob",28.6,Texas HL
+3,Aff,"Green, LaToya",L,"Hutchinson, Will",29.3,Texas HL
+3,Aff,"Green, LaToya",L,"Lugo, Jacob",29.4,Texas HL
+4,Neg,"Dailey, Colin",W,"Hutchinson, Will",29,Texas HL
+4,Neg,"Dailey, Colin",W,"Lugo, Jacob",29.9,Texas HL
+5,Neg,"Revelins, Armands",W,"Hutchinson, Will",28.5,Texas HL
+5,Neg,"Revelins, Armands",W,"Lugo, Jacob",28.6,Texas HL
+6,Aff,"Snelling, Tyler",L,"Hutchinson, Will",28.7,Texas HL
+6,Aff,"Snelling, Tyler",L,"Lugo, Jacob",28.8,Texas HL
+7,Neg,"Thompson, Lindsay",L,"Hutchinson, Will",29.3,Texas HL
+7,Neg,"Thompson, Lindsay",L,"Lugo, Jacob",29.8,Texas HL
+8,Aff,"Song, Grace",W,"Hutchinson, Will",28.5,Texas HL
+8,Aff,"Song, Grace",W,"Lugo, Jacob",28.6,Texas HL
+1,Aff,"Joseph, Anthony",L,"Okolo, Geoffrey",28.5,UT San Antonio OW
+1,Aff,"Joseph, Anthony",L,"Weathersby, Charlie",28.6,UT San Antonio OW
+2,Neg,"Clarke, Kevin",L,"Okolo, Geoffrey",28.6,UT San Antonio OW
+2,Neg,"Clarke, Kevin",L,"Weathersby, Charlie",28.5,UT San Antonio OW
+3,Neg,"Montee, Andy",W,"Okolo, Geoffrey",28.6,UT San Antonio OW
+3,Neg,"Montee, Andy",W,"Weathersby, Charlie",28.4,UT San Antonio OW
+4,Aff,"Godbey, Samantha",W,"Okolo, Geoffrey",28.4,UT San Antonio OW
+4,Aff,"Godbey, Samantha",W,"Weathersby, Charlie",28.5,UT San Antonio OW
+5,Aff,"Vitolo-Haddad, CV",L,"Okolo, Geoffrey",28.4,UT San Antonio OW
+5,Aff,"Vitolo-Haddad, CV",L,"Weathersby, Charlie",28.5,UT San Antonio OW
+6,Neg,"Reid-Brinkley, Shanara",L,"Okolo, Geoffrey",28.1,UT San Antonio OW
+6,Neg,"Reid-Brinkley, Shanara",L,"Weathersby, Charlie",28.6,UT San Antonio OW
+7,Aff,"Buttgereit, Thomas",W,"Okolo, Geoffrey",28.6,UT San Antonio OW
+7,Aff,"Buttgereit, Thomas",W,"Weathersby, Charlie",28.8,UT San Antonio OW
+8,Neg,"Dabney, Amanda",L,"Okolo, Geoffrey",27.7,UT San Antonio OW
+8,Neg,"Dabney, Amanda",L,"Weathersby, Charlie",27.6,UT San Antonio OW
+1,Neg,"Snelling, Tyler",L,"Vazquez, Christian",28.3,CSU Long Beach VN
+1,Neg,"Snelling, Tyler",L,"Nehme, Elie",28.4,CSU Long Beach VN
+2,Aff,"Bunas, Shae",L,"Vazquez, Christian",27.9,CSU Long Beach VN
+2,Aff,"Bunas, Shae",L,"Nehme, Elie",27.6,CSU Long Beach VN
+3,Neg,"Berger, Aron",L,"Vazquez, Christian",28,CSU Long Beach VN
+3,Neg,"Berger, Aron",L,"Nehme, Elie",28.1,CSU Long Beach VN
+4,Aff,"Kennedy, Sean",W,"Vazquez, Christian",28.6,CSU Long Beach VN
+4,Aff,"Kennedy, Sean",W,"Nehme, Elie",28.3,CSU Long Beach VN
+5,Aff,"Loghry, Chris",W,"Vazquez, Christian",28.8,CSU Long Beach VN
+5,Aff,"Loghry, Chris",W,"Nehme, Elie",28.5,CSU Long Beach VN
+6,Neg,"Moore, Matthew",L,"Vazquez, Christian",28.2,CSU Long Beach VN
+6,Neg,"Moore, Matthew",L,"Nehme, Elie",28.3,CSU Long Beach VN
+7,Neg,"Barquin, Joseph",L,"Vazquez, Christian",28.6,CSU Long Beach VN
+7,Neg,"Barquin, Joseph",L,"Nehme, Elie",28.5,CSU Long Beach VN
+8,Aff,"Cadena, Alex",W,"Vazquez, Christian",29.5,CSU Long Beach VN
+8,Aff,"Cadena, Alex",W,"Nehme, Elie",29.6,CSU Long Beach VN
+1,Neg,"Thach, Lee",L,"Perez, Elijah",26,CSU - Northridge PG
+1,Neg,"Thach, Lee",L,"Griffin, Nick",26.2,CSU - Northridge PG
+2,Aff,"Shaheed, Aliyah",L,"Perez, Elijah",28,CSU - Northridge PG
+2,Aff,"Shaheed, Aliyah",L,"Griffin, Nick",27.9,CSU - Northridge PG
+3,Aff,"Barquin, Joseph",L,"Perez, Elijah",27.6,CSU - Northridge PG
+3,Aff,"Barquin, Joseph",L,"Griffin, Nick",27.5,CSU - Northridge PG
+4,Neg,"Kennedy, Sean",L,"Perez, Elijah",28.4,CSU - Northridge PG
+4,Neg,"Kennedy, Sean",L,"Griffin, Nick",28.5,CSU - Northridge PG
+5,Aff,"Szczechowski, Erin",L,"Perez, Elijah",28,CSU - Northridge PG
+5,Aff,"Szczechowski, Erin",L,"Griffin, Nick",27.6,CSU - Northridge PG
+6,Neg,"Swanson, Matthew",L,"Perez, Elijah",25.1,CSU - Northridge PG
+6,Neg,"Swanson, Matthew",L,"Griffin, Nick",25,CSU - Northridge PG
+7,Neg,"Bajorek, Benton",L,"Perez, Elijah",27.1,CSU - Northridge PG
+7,Neg,"Bajorek, Benton",L,"Griffin, Nick",27,CSU - Northridge PG
+8,Aff,"Knight, Gabby",L,"Perez, Elijah",28.5,CSU - Northridge PG
+8,Aff,"Knight, Gabby",L,"Griffin, Nick",28.4,CSU - Northridge PG
+1,Neg,"Gonzalez, Gabriela",W,"Asafu-Adjaye, David",29,Rutgers-Newark AH
+1,Neg,"Gonzalez, Gabriela",W,"hemnarine, ryan",29.1,Rutgers-Newark AH
+2,Aff,"Bugrov, Max",W,"Asafu-Adjaye, David",29.5,Rutgers-Newark AH
+2,Aff,"Bugrov, Max",W,"hemnarine, ryan",29.4,Rutgers-Newark AH
+3,Aff,"Denney, Ashley",W,"Asafu-Adjaye, David",29,Rutgers-Newark AH
+3,Aff,"Denney, Ashley",W,"hemnarine, ryan",28.9,Rutgers-Newark AH
+4,Neg,"Joseph, Anthony",L,"Asafu-Adjaye, David",29.4,Rutgers-Newark AH
+4,Neg,"Joseph, Anthony",L,"hemnarine, ryan",29.3,Rutgers-Newark AH
+5,Aff,"Knight, Gabby",W,"Asafu-Adjaye, David",30,Rutgers-Newark AH
+5,Aff,"Knight, Gabby",W,"hemnarine, ryan",29.9,Rutgers-Newark AH
+6,Neg,"Baker, Will",L,"Asafu-Adjaye, David",29.3,Rutgers-Newark AH
+6,Neg,"Baker, Will",L,"hemnarine, ryan",29,Rutgers-Newark AH
+7,Neg,"Cerja, Cecilia",W,"Asafu-Adjaye, David",29.5,Rutgers-Newark AH
+7,Neg,"Cerja, Cecilia",W,"hemnarine, ryan",29.7,Rutgers-Newark AH
+8,Aff,"Martin, Shauntrice",W,"Asafu-Adjaye, David",29.7,Rutgers-Newark AH
+8,Aff,"Martin, Shauntrice",W,"hemnarine, ryan",29.9,Rutgers-Newark AH
+1,Neg,"Kennedy, Sean",L,"Folk, Vicky",28.3,Missouri - Kansas City FJ
+1,Neg,"Kennedy, Sean",L,"Jones, Makaylah",28.1,Missouri - Kansas City FJ
+2,Aff,"Garcia-Lugo, Juan",L,"Folk, Vicky",28.5,Missouri - Kansas City FJ
+2,Aff,"Garcia-Lugo, Juan",L,"Jones, Makaylah",28.6,Missouri - Kansas City FJ
+3,Neg,"Loghry, Chris",L,"Folk, Vicky",28.6,Missouri - Kansas City FJ
+3,Neg,"Loghry, Chris",L,"Jones, Makaylah",28.7,Missouri - Kansas City FJ
+4,Aff,"Mills, Jordan",W,"Folk, Vicky",28,Missouri - Kansas City FJ
+4,Aff,"Mills, Jordan",W,"Jones, Makaylah",28.8,Missouri - Kansas City FJ
+5,Aff,"Dunn, Izak",W,"Folk, Vicky",28,Missouri - Kansas City FJ
+5,Aff,"Dunn, Izak",W,"Jones, Makaylah",28.3,Missouri - Kansas City FJ
+6,Neg,"Cooper, Deven",L,"Folk, Vicky",28.1,Missouri - Kansas City FJ
+6,Neg,"Cooper, Deven",L,"Jones, Makaylah",28.2,Missouri - Kansas City FJ
+7,Aff,"Barquin, Joseph",W,"Folk, Vicky",28.7,Missouri - Kansas City FJ
+7,Aff,"Barquin, Joseph",W,"Jones, Makaylah",28.8,Missouri - Kansas City FJ
+8,Neg,"Fendley, Seth",L,"Folk, Vicky",28,Missouri - Kansas City FJ
+8,Neg,"Fendley, Seth",L,"Jones, Makaylah",28.9,Missouri - Kansas City FJ
+1,Aff,"Vitolo-Haddad, CV",W,"Green, Jaysyn",28.5,CSU Long Beach/Kansas State GA
+1,Aff,"Vitolo-Haddad, CV",W,"Ambrose, Paul",28.7,CSU Long Beach/Kansas State GA
+2,Neg,"Beier, Ian",L,"Green, Jaysyn",28.7,CSU Long Beach/Kansas State GA
+2,Neg,"Beier, Ian",L,"Ambrose, Paul",28.6,CSU Long Beach/Kansas State GA
+3,Neg,"Yahom, Jefferson",L,"Green, Jaysyn",28.6,CSU Long Beach/Kansas State GA
+3,Neg,"Yahom, Jefferson",L,"Ambrose, Paul",28.5,CSU Long Beach/Kansas State GA
+4,Aff,"Keenan, V",W,"Green, Jaysyn",28.6,CSU Long Beach/Kansas State GA
+4,Aff,"Keenan, V",W,"Ambrose, Paul",28.7,CSU Long Beach/Kansas State GA
+5,Neg,"Kelsie, Amber",L,"Green, Jaysyn",28.9,CSU Long Beach/Kansas State GA
+5,Neg,"Kelsie, Amber",L,"Ambrose, Paul",28.8,CSU Long Beach/Kansas State GA
+6,Aff,"Rizk, Michael",W,"Green, Jaysyn",29.2,CSU Long Beach/Kansas State GA
+6,Aff,"Rizk, Michael",W,"Ambrose, Paul",29.5,CSU Long Beach/Kansas State GA
+7,Neg,"Snelling, Tyler",L,"Green, Jaysyn",28.7,CSU Long Beach/Kansas State GA
+7,Neg,"Snelling, Tyler",L,"Ambrose, Paul",28.5,CSU Long Beach/Kansas State GA
+8,Aff,"Fendley, Seth",W,"Green, Jaysyn",29.8,CSU Long Beach/Kansas State GA
+8,Aff,"Fendley, Seth",W,"Ambrose, Paul",29.7,CSU Long Beach/Kansas State GA
+1,Neg,"Vitolo-Haddad, CV",L,"Hernandez, Javier",28.6,Cal State Fullerton HP
+1,Neg,"Vitolo-Haddad, CV",L,"Perry, Jennifer",28.4,Cal State Fullerton HP
+2,Aff,"Imes, Josh",L,"Hernandez, Javier",28.7,Cal State Fullerton HP
+2,Aff,"Imes, Josh",L,"Perry, Jennifer",28.8,Cal State Fullerton HP
+3,Neg,"Taylor, James",L,"Hernandez, Javier",28.6,Cal State Fullerton HP
+3,Neg,"Taylor, James",L,"Perry, Jennifer",27.8,Cal State Fullerton HP
+4,Aff,"Lloyd, Zhane",W,"Hernandez, Javier",28.7,Cal State Fullerton HP
+4,Aff,"Lloyd, Zhane",W,"Perry, Jennifer",28.4,Cal State Fullerton HP
+5,Neg,"Shaheed, Aliyah",L,"Hernandez, Javier",28.8,Cal State Fullerton HP
+5,Neg,"Shaheed, Aliyah",L,"Perry, Jennifer",28.7,Cal State Fullerton HP
+6,Aff,"Byram, Timothy",W,"Hernandez, Javier",28.5,Cal State Fullerton HP
+6,Aff,"Byram, Timothy",W,"Perry, Jennifer",28.3,Cal State Fullerton HP
+7,Neg,"Jallits, Matthew",W,"Hernandez, Javier",28.6,Cal State Fullerton HP
+7,Neg,"Jallits, Matthew",W,"Perry, Jennifer",28.3,Cal State Fullerton HP
+8,Aff,"Gonzalez, Gabriela",L,"Hernandez, Javier",28.5,Cal State Fullerton HP
+8,Aff,"Gonzalez, Gabriela",L,"Perry, Jennifer",28.3,Cal State Fullerton HP
+1,Aff,"Buttgereit, Thomas",W,"Choi, Jin",28.7,NYU CZ
+1,Aff,"Buttgereit, Thomas",W,"Zheng, Gloria",28.8,NYU CZ
+2,Neg,"Petit, Louie",L,"Choi, Jin",28.2,NYU CZ
+2,Neg,"Petit, Louie",L,"Zheng, Gloria",28.1,NYU CZ
+3,Neg,"Mills, Jordan",W,"Choi, Jin",28.3,NYU CZ
+3,Neg,"Mills, Jordan",W,"Zheng, Gloria",29,NYU CZ
+4,Aff,"Rubaie, Brian",L,"Choi, Jin",28.5,NYU CZ
+4,Aff,"Rubaie, Brian",L,"Zheng, Gloria",28.4,NYU CZ
+5,Neg,"Hagwood, Ben",,"Choi, Jin",28.9,NYU CZ
+5,Neg,"Hagwood, Ben",,"Zheng, Gloria",28.2,NYU CZ
+6,Aff,"Bajorek, Benton",W,"Choi, Jin",28.5,NYU CZ
+6,Aff,"Bajorek, Benton",W,"Zheng, Gloria",28.4,NYU CZ
+1,Aff,"Glass, Rob",L,"Berry, Michael",28.1,Southwestern BN
+1,Aff,"Glass, Rob",L,"Navarro, Marnon",27.9,Southwestern BN
+2,Neg,"Dailey, Colin",L,"Berry, Michael",28.2,Southwestern BN
+2,Neg,"Dailey, Colin",L,"Navarro, Marnon",28,Southwestern BN
+3,Aff,"Thompson, Lindsay",L,"Berry, Michael",28.1,Southwestern BN
+3,Aff,"Thompson, Lindsay",L,"Navarro, Marnon",28.3,Southwestern BN
+4,Neg,"Weddington, Tommye",L,"Berry, Michael",28.2,Southwestern BN
+4,Neg,"Weddington, Tommye",L,"Navarro, Marnon",28,Southwestern BN
+5,Aff,"Lloyd, Zhane",W,"Berry, Michael",28.5,Southwestern BN
+5,Aff,"Lloyd, Zhane",W,"Navarro, Marnon",28.6,Southwestern BN
+6,Aff,"Cadena, Alex",W,"Berry, Michael",28.5,Southwestern BN
+6,Aff,"Cadena, Alex",W,"Navarro, Marnon",28.4,Southwestern BN
+7,Neg,"McCullough, Hunter",L,"Berry, Michael",27.7,Southwestern BN
+7,Neg,"McCullough, Hunter",L,"Navarro, Marnon",27.6,Southwestern BN
+1,Neg,"Hiland, Al",W,"Zheng, Jenny",28.8,NYU ZH
+1,Neg,"Hiland, Al",W,"Hussain, Faizan",28.6,NYU ZH
+2,Aff,"Reid-Brinkley, Shanara",L,"Zheng, Jenny",28,NYU ZH
+2,Aff,"Reid-Brinkley, Shanara",L,"Hussain, Faizan",28.1,NYU ZH
+3,Neg,"Stidham, Jasmine",L,"Zheng, Jenny",28.8,NYU ZH
+3,Neg,"Stidham, Jasmine",L,"Hussain, Faizan",28.6,NYU ZH
+4,Aff,"Leonardi, Chris",L,"Zheng, Jenny",28.4,NYU ZH
+4,Aff,"Leonardi, Chris",L,"Hussain, Faizan",28.5,NYU ZH
+5,Aff,"Weddington, Tommye",W,"Zheng, Jenny",28.4,NYU ZH
+5,Aff,"Weddington, Tommye",W,"Hussain, Faizan",28.3,NYU ZH
+6,Neg,"Buttgereit, Thomas",L,"Zheng, Jenny",28.8,NYU ZH
+6,Neg,"Buttgereit, Thomas",L,"Hussain, Faizan",28.6,NYU ZH
+7,Aff,"Dailey, Colin",W,"Zheng, Jenny",28.3,NYU ZH
+7,Aff,"Dailey, Colin",W,"Hussain, Faizan",28.1,NYU ZH
+8,Neg,"Thomas, Troi",L,"Zheng, Jenny",28.6,NYU ZH
+8,Neg,"Thomas, Troi",L,"Hussain, Faizan",28.5,NYU ZH
+1,Aff,"Martin, Shauntrice",W,"Jurlina, Anna",29.7,Central Florida/CSU - Northridge JB
+1,Aff,"Martin, Shauntrice",W,"Baltazar, Carlos",28,Central Florida/CSU - Northridge JB
+2,Neg,"McCullough, Hunter",L,"Jurlina, Anna",28.3,Central Florida/CSU - Northridge JB
+2,Neg,"McCullough, Hunter",L,"Baltazar, Carlos",28.1,Central Florida/CSU - Northridge JB
+3,Aff,"Szczechowski, Erin",L,"Jurlina, Anna",28.4,Central Florida/CSU - Northridge JB
+3,Aff,"Szczechowski, Erin",L,"Baltazar, Carlos",28,Central Florida/CSU - Northridge JB
+4,Neg,"Barquin, Joseph",L,"Jurlina, Anna",29,Central Florida/CSU - Northridge JB
+4,Neg,"Barquin, Joseph",L,"Baltazar, Carlos",27.8,Central Florida/CSU - Northridge JB
+5,Aff,"Yonter, Victoria",W,"Jurlina, Anna",28.5,Central Florida/CSU - Northridge JB
+5,Aff,"Yonter, Victoria",W,"Baltazar, Carlos",27.8,Central Florida/CSU - Northridge JB
+6,Neg,"Rizk, Michael",L,"Jurlina, Anna",29.3,Central Florida/CSU - Northridge JB
+6,Neg,"Rizk, Michael",L,"Baltazar, Carlos",28.9,Central Florida/CSU - Northridge JB
+7,Neg,"Dailey, Colin",L,"Jurlina, Anna",28.5,Central Florida/CSU - Northridge JB
+7,Neg,"Dailey, Colin",L,"Baltazar, Carlos",27.7,Central Florida/CSU - Northridge JB
+8,Aff,"Stidham, Jasmine",W,"Jurlina, Anna",28.6,Central Florida/CSU - Northridge JB
+8,Aff,"Stidham, Jasmine",W,"Baltazar, Carlos",28.5,Central Florida/CSU - Northridge JB
+1,Aff,"Barquin, Joseph",L,"Perez-Sandoval, Stephanie",27.6,CSU - Northridge PA
+1,Aff,"Barquin, Joseph",L,"Adornato, Caitlin",27.5,CSU - Northridge PA
+2,Aff,"Mills, Jordan",L,"Perez-Sandoval, Stephanie",28,CSU - Northridge PA
+2,Aff,"Mills, Jordan",L,"Adornato, Caitlin",27.8,CSU - Northridge PA
+3,Neg,"Taylor, James",L,"Perez-Sandoval, Stephanie",28,CSU - Northridge PA
+3,Neg,"Taylor, James",L,"Adornato, Caitlin",28.1,CSU - Northridge PA
+4,Aff,"Cerja, Cecilia",W,"Perez-Sandoval, Stephanie",28.5,CSU - Northridge PA
+4,Aff,"Cerja, Cecilia",W,"Adornato, Caitlin",28.4,CSU - Northridge PA
+5,Neg,"Thomas, Troi",L,"Perez-Sandoval, Stephanie",28.4,CSU - Northridge PA
+5,Neg,"Thomas, Troi",L,"Adornato, Caitlin",28.5,CSU - Northridge PA
+6,Aff,"Lipton, Adam",L,"Perez-Sandoval, Stephanie",28.2,CSU - Northridge PA
+6,Aff,"Lipton, Adam",L,"Adornato, Caitlin",28,CSU - Northridge PA
+7,Neg,"Gillespie, John",L,"Perez-Sandoval, Stephanie",8,CSU - Northridge PA
+7,Neg,"Gillespie, John",L,"Adornato, Caitlin",10,CSU - Northridge PA
+1,Neg,"Buttgereit, Thomas",L,"Afuso, Travis",28.6,Army AH
+1,Neg,"Buttgereit, Thomas",L,"Hall, Tommy",28.5,Army AH
+2,Aff,"Hampton, Jyleesa",W,"Afuso, Travis",28.3,Army AH
+2,Aff,"Hampton, Jyleesa",W,"Hall, Tommy",28.4,Army AH
+3,Neg,"Leonardi, Chris",L,"Afuso, Travis",28.4,Army AH
+3,Neg,"Leonardi, Chris",L,"Hall, Tommy",28.3,Army AH
+4,Aff,"Kozak, Christopher",W,"Afuso, Travis",28.6,Army AH
+4,Aff,"Kozak, Christopher",W,"Hall, Tommy",28.5,Army AH
+5,Aff,"Chiri, Vida",L,"Afuso, Travis",28.4,Army AH
+5,Aff,"Chiri, Vida",L,"Hall, Tommy",28.5,Army AH
+6,Neg,"Byram, Timothy",L,"Afuso, Travis",28.2,Army AH
+6,Neg,"Byram, Timothy",L,"Hall, Tommy",28.1,Army AH
+7,Neg,"Cadena, Alex",L,"Afuso, Travis",28.2,Army AH
+7,Neg,"Cadena, Alex",L,"Hall, Tommy",28.3,Army AH
+8,Aff,"Szczechowski, Erin",L,"Afuso, Travis",28.3,Army AH
+8,Aff,"Szczechowski, Erin",L,"Hall, Tommy",28.2,Army AH
