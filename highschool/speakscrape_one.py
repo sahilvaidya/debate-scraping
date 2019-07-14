@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 import xlsxwriter
 import pandas
+import time
 
 
 def addurl(url):
@@ -12,7 +13,8 @@ def addurl(url):
     next_urls.append('https://www.tabroom.com/index/tourn/postings/'+url['href'])
 
 loop = True
-tournaments = [('https://www.tabroom.com/index/tourn/postings/entry_record.mhtml?tourn_id=10622&entry_id=1940454', 'Wichita State'), ('https://www.tabroom.com/index/tourn/postings/entry_record.mhtml?tourn_id=10452&entry_id=1921401','GSU')]
+#tournaments = [('https://www.tabroom.com/index/tourn/postings/entry_record.mhtml?tourn_id=10622&entry_id=1940454', 'Wichita State')]
+tournaments = [('https://www.tabroom.com/index/tourn/postings/entry_record.mhtml?tourn_id=10550&entry_id=1953803','UMW')]
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
 next_urls = []
 used_urls = []
@@ -100,69 +102,78 @@ def findall(soup):
     return findjudges(soup),findwins(soup),finddebaters(soup),findsides(soup),findteamcode(soup)
 
 
+tcount = 1
 
-workbook = xlsxwriter.Workbook('speaks.xlsx', {'strings_to_numbers': True})
+with xlsxwriter.Workbook('speaks.xlsx', {'strings_to_numbers': True}) as workbook:
+    for torn in tournaments:
+        print('Processing tournament ' + torn[1] + '. Number ' + str(tcount) + ' of ' + str(len(tournaments)))
+        url = torn[0]
+        worksheet = workbook.add_worksheet(torn[1])
+        headers = ['Round','Side', 'Judge','Result','Debater','Speaks','Team Code']
+        worksheet.write_row(0,0,headers)
+        count = 0
+        row = 1
+        tcount+=1
+        while loop:
+            count += 1
+            try:
+                request = urllib.request.Request(url,headers={'User-Agent': user_agent})
+                html = urllib.request.urlopen(request).read()
+            except:
+                time.sleep(1)
+                request = urllib.request.Request(url,headers={'User-Agent': user_agent})
+                html = urllib.request.urlopen(request).read()
+            soup = BeautifulSoup(html,'html.parser')
 
+            judges,wins,dp,sides,teamcode = findall(soup)
 
-for torn in tournaments:
-    print('Processing tournament ' + torn[1])
-    url = torn[0]
-    worksheet = workbook.add_worksheet(torn[1])
-    headers = ['Round','Side', 'Judge','Result','Debater','Speaks','Team Code']
-    worksheet.write_row(0,0,headers)
-    count = 0
-    row = 1
-    while loop:
-        count += 1
-        try:
-            request = urllib.request.Request(url,headers={'User-Agent': user_agent})
-            html = urllib.request.urlopen(request).read()
-        except:
-            time.sleep(1)
-            request = urllib.request.Request(url,headers={'User-Agent': user_agent})
-            html = urllib.request.urlopen(request).read()
-        soup = BeautifulSoup(html,'html.parser')
+            
+            dpindex = len(dp)-1
+            jindex = len(judges)-1
+            sindex = len(sides)-1
+            dround = 1
+            print(str(count) + " " + teamcode)
 
-        judges,wins,dp,sides,teamcode = findall(soup)
-        
-        dpindex = len(dp)-1
-        jindex = len(judges)-1
-        sindex = len(sides)-1
-        dround = 1
-        print(str(count) + " " + teamcode)
+            try:
+                while(dpindex > 0):
+                    for i in range(0,torn[2]):
+                        data = (dround,sides[sindex],judges[jindex],wins[jindex],dp[dpindex-1]['debater'],dp[dpindex-1]['speaks'],teamcode)
+                        worksheet.write_row(row,0,data)
+                        row+=1
+                        data = (dround,sides[sindex],judges[jindex],wins[jindex],dp[dpindex]['debater'],dp[dpindex]['speaks'],teamcode)
+                        worksheet.write_row(row,0,data)
+                        row+=1
+                        dpindex -= 2
+                        jindex -= 1
+                    dround += 1
+                    sindex -= 1
+            except IndexError:
+                 while(dpindex > 0):
+                    data = (dround,sides[sindex],judges[jindex],wins[jindex],dp[dpindex-1]['debater'],dp[dpindex-1]['speaks'],teamcode)
+                    worksheet.write_row(row,0,data)
+                    row+=1
+                    data = (dround,sides[sindex],judges[jindex],wins[jindex],dp[dpindex]['debater'],dp[dpindex]['speaks'],teamcode)
+                    worksheet.write_row(row,0,data)
+                    row+=1
+                    dpindex -= 2
+                    jindex -= 1
+                    dround += 1
+                    sindex -= 1
 
-        while(dpindex > 0):
-            data = (dround,sides[sindex],judges[jindex],wins[jindex],dp[dpindex-1]['debater'],dp[dpindex-1]['speaks'],teamcode)
-            worksheet.write_row(row,0,data)
-            row+=1
-            data = (dround,sides[sindex],judges[jindex],wins[jindex],dp[dpindex]['debater'],dp[dpindex]['speaks'],teamcode)
-            worksheet.write_row(row,0,data)
-            row+=1
-            dpindex -= 2
-            jindex -= 1
-            dround += 1
-            sindex -= 1
+            used_urls.append(url)
 
-        used_urls.append(url)
+            next_urls = [x for x in next_urls if x not in used_urls]
 
-        next_urls = [x for x in next_urls if x not in used_urls]
+            if len(next_urls) == 0:
+                break
 
-        if len(next_urls) == 0:
-            break
-
-        # while next_urls[0] in used_urls:
-        #     del next_urls[0]
-        #     print(len(next_urls))
-        #     if len(next_urls) == 0:
-        #         loop = False
-        #         break
-        url = next_urls[0]
-
-data_frame = pandas.read_csv('speaks.csv')
-excel_writer = pandas.ExcelWriter('file.xlsx',engine='xlsxwriter')
-data_frame.to_excel(excel_writer, 'smthn')
-excel_writer.save()
-
+            # while next_urls[0] in used_urls:
+            #     del next_urls[0]
+            #     print(len(next_urls))
+            #     if len(next_urls) == 0:
+            #         loop = False
+            #         break
+            url = next_urls[0]
 
 
 
