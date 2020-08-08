@@ -40,7 +40,9 @@ def getOpponent(roundHTML):
     return opponentText
 
 # Return array of judges (allows same code to work for multiple judges/out rounds)
-def getJudges(roundHTML):
+def getJudgeDecisions(roundHTML):
+    judgeDecisionsHTML = roundHTML.find_all('div', attrs = {'class': 'padless full marno borderbottom'})
+    print(judgeDecisionsHTML)
     judgesHTML = roundHTML.find_all('a', attrs = {'class': 'white padtop padbottom'})
     judges = []
     for judgeHTML in judgesHTML:
@@ -85,7 +87,7 @@ def getSpeakers(roundHTML):
 
 # Call all methods to get data
 def getResults(roundHTML):
-    return getRoundNumber(roundHTML),getSide(roundHTML),getOpponent(roundHTML),getJudges(roundHTML),getDecisions(roundHTML),getSpeakers(roundHTML)
+    return getRoundNumber(roundHTML),getSide(roundHTML),getOpponent(roundHTML),getJudgeDecisions(roundHTML)
 
 # Adds a url to the total list
 def addURL(team):
@@ -150,7 +152,7 @@ with xlsxwriter.Workbook('speaks.xlsx', {'strings_to_numbers': True}) as workboo
         # Grab each div which contains a single round of data and iterate through
         allRoundHTML = soup.find_all('div', {"class": "row"})
         for i,roundHTML in enumerate(reversed(allRoundHTML)):
-            roundNumber,side,opponent,judges,decisions,speakers = getResults(roundHTML)
+            roundNumber,side,opponent,judgesDecisions = getResults(roundHTML)
 
             # Store debater names in case not present later
             if i == 0:
