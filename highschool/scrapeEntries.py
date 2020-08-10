@@ -34,56 +34,72 @@ def getSide(roundHTML):
 # Get team code for opponent
 def getOpponent(roundHTML):
     opponentHTML = roundHTML.find('a', attrs = {'class': 'white padtop padbottom'})
-    opponentText = opponentHTML.text
-    opponentText = clean(opponentText)
-    opponentText = opponentText.replace('vs ', '')
-    return opponentText
+    if opponentHTML:
+        opponentText = opponentHTML.text
+        opponentText = clean(opponentText)
+        opponentText = opponentText.replace('vs ', '')
+        return opponentText
+    return None
 
 # Return array of judges (allows same code to work for multiple judges/out rounds)
 def getJudgeDecisions(roundHTML):
     judgeDecisionsHTML = roundHTML.find_all('div', attrs = {'class': 'padless full marno borderbottom'})
-    print(judgeDecisionsHTML)
-    judgesHTML = roundHTML.find_all('a', attrs = {'class': 'white padtop padbottom'})
-    judges = []
+    # print(len(judgeDecisionsHTML))
+    judgeDecisions = []
+    for judgeDecision in judgeDecisionsHTML:
+        judge = getJudge(judgeDecision)
+        decision = getDecisions(judgeDecision)
+        speakers = getSpeakers(judgeDecision)
+        judgeDecisions.append((judge,decision,speakers))
+    return judgeDecisions
+
+def getJudge(judgeDecisionHTML):
+    judgesHTML = judgeDecisionHTML.find_all('a', attrs = {'class': 'white padtop padbottom'})
     for judgeHTML in judgesHTML:
         if '\t' in judgeHTML.text:
             continue
         judgeText = judgeHTML.text
         judgeText = judgeText.strip(" ")
-        judges.append(judgeText)
-    return judges
+        return judgeText
 
 # Get W or L for each judge
-def getDecisions(roundHTML):
-    decisionHTML = roundHTML.find_all('span', attrs = {'class' : 'tenth centeralign semibold'})
-    decisions = []
+def getDecisions(judgeDecisionHTML):
+    decisionHTML = judgeDecisionHTML.find('span', attrs = {'class' : 'tenth centeralign semibold'})
 
-    for decision in decisionHTML:
-        decisionText = decision.text
-        decisionText = clean(decisionText)
-        decisions.append(decisionText)
-    return decisions
+    decisionText = decisionHTML.text
+    decisionText = clean(decisionText)
+    return decisionText
 
 # Get debater names and speaker points
 # Returns null if nothing there (out rounds)
-def getSpeakers(roundHTML):
-    debaterHTML = roundHTML.find_all('span',attrs = {'class':'threefifths nowrap marvertno'})
-    speaksHTML = roundHTML.find_all('span',attrs = {'class':'fifth marno'})
-    if len(debaterHTML) != 0:
-        debater1HTML = debaterHTML[0]
-        debater2HTML = debaterHTML[1]
-        speaks1HTML = speaksHTML[0]
-        speaks2HTML = speaksHTML[1]
-        debater1 = debater1HTML.text
-        debater2 = debater2HTML.text
-        speaks1 = speaks1HTML.text
-        speaks2 = speaks2HTML.text
-        debater1 = clean(debater1)
-        debater2 = clean(debater2)
-        speaks1 = clean(speaks1)
-        speaks2 = clean(speaks2)
-        return [(debater1,speaks1),(debater2,speaks2)]
-    return None
+def getSpeakers(judgeDecisionHTML):
+    debaterDivHTML = judgeDecisionHTML.find_all('div',attrs={'class':'full nospace smallish'})
+    if len(debaterDivHTML) == 0:
+        return None
+    if len(debaterDivHTML) == 1:
+        mavHTML = soup.find('h4', attrs = {'class':'nospace semibold'})
+        mavName = mavHTML.text
+        mavName = clean(mavName)
+        speaksHTML = judgeDecisionHTML.find('span',attrs = {'class':'fifth marno'})
+        speaks = speaksHTML.text
+        speaks = clean(speaks)
+        return [(mavName,speaks)]
+    
+    speakersToReturn = []
+    for debater in debaterDivHTML:
+        debaterHTML = debater.find('span',attrs = {'class':'threefifths nowrap marvertno'})
+        speaksHTML = debater.find('span',attrs = {'class':'fifth marno'})
+        debater = debaterHTML.text
+        debater = clean(debater)
+        speaks = ""
+        if speaksHTML:
+            speaks = speaksHTML.text
+            speaks = clean(speaks)
+        else:
+            speaks = "N/A"
+        speakersToReturn.append((debater,speaks))
+
+    return speakersToReturn
 
 # Call all methods to get data
 def getResults(roundHTML):
@@ -99,7 +115,7 @@ def addURL(team):
 tournaments = [('https://www.tabroom.com/index/tourn/postings/entry_record.mhtml?tourn_id=10550&entry_id=1953803','UMW')]
 
 # Initial URL
-start_url = 'http://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=111719&tourn_id=13327'
+start_url = 'http://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=109288&tourn_id=12828'
 
 # urllib variables
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
@@ -154,27 +170,50 @@ with xlsxwriter.Workbook('speaks.xlsx', {'strings_to_numbers': True}) as workboo
         for i,roundHTML in enumerate(reversed(allRoundHTML)):
             roundNumber,side,opponent,judgesDecisions = getResults(roundHTML)
 
-            # Store debater names in case not present later
-            if i == 0:
-                debaterA = speakers[0][0]
-                debaterB = speakers[1][0]
-            
-            # Check if speaker name was present
-            if not speakers:
-                speakers = [(debaterA, "N/A"),(debaterB,"N/A")]
-
             # When there is no judge it is a BYE
-            if len(judges) == 0:
-                entry = (roundNumber,"BYE",opponent,"N/A","N/A","N/A","N/A",teamCode)
+            if len(judgesDecisions) == 0:
+                if not opponent:
+                    opponent = "N/A"
+                entry = (roundNumber,"BYE",opponent,"N/A","N/A","N/A","N/A","N/A","N/A",teamCode)
                 worksheet.write_row(rowCount,0,entry)
                 rowCount += 1
                 continue
+
+            # Store debater names in case not present later
+            if i == 0 and len(judgesDecisions[0][2]) == 2:
+                # print(judgesDecisions)
+                debaterA = judgesDecisions[0][2][0][0]
+                debaterB = judgesDecisions[0][2][1][0]
             
-            # Iterate through each judge and make a seperate entry
-            for i in range(0,len(judges)):
-                entry = (roundNumber,side,opponent,judges[i],decisions[i],speakers[0][0],speakers[0][1],speakers[1][0],speakers[1][1],teamCode)
+            for judgeDecision in judgesDecisions:
+                if judgeDecision[2]:
+                    speakers = judgeDecision[2]
+                else:
+                    speakers = [(debaterA, "N/A"),(debaterB,"N/A")]
+                judge = judgeDecision[0]
+                decision = judgeDecision[1]
+                if len(speakers) == 2:
+                    entry = (roundNumber,side,opponent,judge,decision,speakers[0][0], speakers[0][1],speakers[1][0],speakers[1][1],teamCode)
+                elif len(speakers) == 1:
+                    entry = (roundNumber,side,opponent,judge,decision,speakers[0][0], speakers[0][1],"N/A","N/A",teamCode)
                 worksheet.write_row(rowCount,0,entry)
                 rowCount += 1
+                print(entry)
+
+
+
+            # When there is no judge it is a BYE
+            # if len(judges) == 0:
+            #     entry = (roundNumber,"BYE",opponent,"N/A","N/A","N/A","N/A",teamCode)
+            #     worksheet.write_row(rowCount,0,entry)
+            #     rowCount += 1
+            #     continue
+            
+            # Iterate through each judge and make a seperate entry
+            # for i in range(0,len(judges)):
+            #     entry = (roundNumber,side,opponent,judges[i],decisions[i],speakers[0][0],speakers[0][1],speakers[1][0],speakers[1][1],teamCode)
+            #     worksheet.write_row(rowCount,0,entry)
+            #     rowCount += 1
 
             
         url_location += 1
