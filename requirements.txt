@@ -1,5 +1,4 @@
 bottle
 bs4
-csv
 xlsxwriter
 pandas
