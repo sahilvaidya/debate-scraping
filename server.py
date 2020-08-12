@@ -33,4 +33,4 @@ def download():
     return static_file('speaks.xlsx', root='', download='speaks.xlsx')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
