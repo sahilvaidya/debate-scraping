@@ -144,14 +144,17 @@ with xlsxwriter.Workbook('speaks.xlsx', {'strings_to_numbers': True}) as workboo
     worksheet = workbook.add_worksheet(tournamentName)
     rowCount = 1
     while len(urls) > url_location:
+        print(urls[url_location])
         # Get results webpage
         request = urllib.request.Request(urls[url_location], headers={'User-Agent': user_agent})
         html = urllib.request.urlopen(request).read()
+        
 
         # Add headers
         headers = ['Round','Side', 'Opponent', 'Judge','Result','DebaterA','SpeaksA','DebaterB','SpeaksB','Team Code']
         worksheet.write_row(0,0,headers)
 
+        print("opene")
 
         # Use BeautifulSoup to parse page html
         soup = BeautifulSoup(html,'html.parser')
