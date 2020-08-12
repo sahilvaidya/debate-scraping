@@ -1,5 +1,5 @@
 from bottle import Bottle, static_file, response, request, template, run
-from highschool.scrapeImport import scrape
+from scrapeImport import scrape
 import os
 
 # # Get required port, default to 5000.
