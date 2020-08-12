@@ -10,17 +10,19 @@ import os
 
 app = Bottle()
 
+tournamentName = "None"
+
 @app.route('/')
 def index():
-    return template("index.html")
+    return template("index.tpl", {'tournament':tournamentName})
 
 @app.post('/')
 def formhandler():
 
-    tournament = request.forms.get('input')
-    print(tournament)
-    scrape(tournament)
-    return template("index.html")
+    tournamentURL = request.forms.get('input')
+    # print(tournament)
+    tournamentName = scrape(tournamentURL)
+    return template("index.tpl", {'tournament':tournamentName})
 
 @app.route("/about")
 def about():

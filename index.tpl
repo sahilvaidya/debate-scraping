@@ -9,6 +9,7 @@
             <input type="text" id="input" name="input"><br>
             <input type="submit" value="submit">
         </form>
+        <p>Current Tournament: {{tournament}}</p>
         <a href="/downloadFile" target="blank"><button id = "btn_download">Download</button></a>
         <!-- <script type="text/javascript">
         $("#btn_download").click(function(){

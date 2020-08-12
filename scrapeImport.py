@@ -222,3 +222,4 @@ def scrape(tournament):
                 
             url_location += 1
 
+    return tournamentName
